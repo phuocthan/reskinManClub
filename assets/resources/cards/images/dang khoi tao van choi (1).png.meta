@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7f4436c7-a1fb-43c2-ac47-f81f1d38b7d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 271,
+  "height": 28,
+  "platformSettings": {},
+  "subMetas": {
+    "dang khoi tao van choi (1)": {
+      "ver": "1.0.4",
+      "uuid": "3c562457-67ff-4538-a559-528fc1fd8df3",
+      "rawTextureUuid": "7f4436c7-a1fb-43c2-ac47-f81f1d38b7d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 271,
+      "height": 28,
+      "rawWidth": 271,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

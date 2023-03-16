@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SPINE_TAIXIU/Group 1
+  rotate: true
+  xy: 2, 179
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+SPINE_TAIXIU/WIN_1
+  rotate: false
+  xy: 291, 2
+  size: 287, 204
+  orig: 287, 204
+  offset: 0, 0
+  index: -1
+SPINE_TAIXIU/WIN_2
+  rotate: false
+  xy: 580, 2
+  size: 287, 204
+  orig: 287, 204
+  offset: 0, 0
+  index: -1
+SPINE_TAIXIU/board_L
+  rotate: false
+  xy: 869, 2
+  size: 287, 204
+  orig: 287, 204
+  offset: 0, 0
+  index: -1
+SPINE_TAIXIU/board_R
+  rotate: false
+  xy: 1158, 2
+  size: 287, 204
+  orig: 287, 204
+  offset: 0, 0
+  index: -1
+SPINE_TAIXIU/tai
+  rotate: true
+  xy: 32, 89
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+SPINE_TAIXIU/xỉu
+  rotate: false
+  xy: 156, 79
+  size: 133, 127
+  orig: 133, 127
+  offset: 0, 0
+  index: -1

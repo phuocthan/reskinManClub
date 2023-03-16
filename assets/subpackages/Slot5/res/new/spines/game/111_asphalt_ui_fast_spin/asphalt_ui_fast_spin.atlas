@@ -1,0 +1,97 @@
+
+asphalt_main_ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+elec/ele_00000
+  rotate: false
+  xy: 1700, 667
+  size: 208, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+elec/ele_00002
+  rotate: false
+  xy: 1809, 27
+  size: 199, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+elec/ele_00004
+  rotate: false
+  xy: 2, 122
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+elec/ele_00006
+  rotate: true
+  xy: 665, 487
+  size: 222, 219
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+elec/ele_00008
+  rotate: false
+  xy: 1700, 457
+  size: 222, 208
+  orig: 222, 222
+  offset: 0, 3
+  index: -1
+elec/ele_00010
+  rotate: false
+  xy: 1603, 979
+  size: 222, 211
+  orig: 222, 222
+  offset: 0, 11
+  index: -1
+elec/ele_00013
+  rotate: false
+  xy: 1687, 1824
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+elec/ele_00015
+  rotate: false
+  xy: 750, 783
+  size: 220, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+elec/ele_00017
+  rotate: true
+  xy: 1379, 975
+  size: 215, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+fast_1
+  rotate: false
+  xy: 1062, 1235
+  size: 192, 139
+  orig: 192, 139
+  offset: 0, 0
+  index: -1
+fast_2
+  rotate: true
+  xy: 570, 849
+  size: 192, 139
+  orig: 192, 139
+  offset: 0, 0
+  index: -1
+fast_3
+  rotate: false
+  xy: 984, 1468
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+fast_4
+  rotate: false
+  xy: 350, 1376
+  size: 209, 31
+  orig: 209, 31
+  offset: 0, 0
+  index: -1

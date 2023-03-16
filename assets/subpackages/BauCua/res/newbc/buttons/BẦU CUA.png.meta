@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "03376359-e1e5-44b1-b193-d15c1f4daf87",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 744,
+  "height": 217,
+  "platformSettings": {},
+  "subMetas": {
+    "BẦU CUA": {
+      "ver": "1.0.4",
+      "uuid": "b01762e3-fd95-43f3-be58-75bbeb7d4d39",
+      "rawTextureUuid": "03376359-e1e5-44b1-b193-d15c1f4daf87",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 744,
+      "height": 217,
+      "rawWidth": 744,
+      "rawHeight": 217,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

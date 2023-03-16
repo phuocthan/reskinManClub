@@ -1,0 +1,1662 @@
+
+skeleton.png
+size: 2008,1908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00122
+  rotate: false
+  xy: 803, 4
+  size: 400, 157
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00123
+  rotate: false
+  xy: 1204, 1211
+  size: 399, 140
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00124
+  rotate: false
+  xy: 1607, 627
+  size: 398, 147
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00125
+  rotate: false
+  xy: 1606, 319
+  size: 398, 155
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00126
+  rotate: false
+  xy: 403, 1636
+  size: 397, 136
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00127
+  rotate: false
+  xy: 802, 1636
+  size: 397, 136
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00128
+  rotate: false
+  xy: 2, 782
+  size: 398, 144
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00129
+  rotate: false
+  xy: 803, 322
+  size: 399, 154
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00135
+  rotate: false
+  xy: 2, 10
+  size: 399, 156
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00149
+  rotate: false
+  xy: 401, 168
+  size: 400, 155
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00150
+  rotate: false
+  xy: 2, 635
+  size: 400, 145
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00151
+  rotate: false
+  xy: 404, 629
+  size: 400, 145
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00152
+  rotate: false
+  xy: 1201, 1067
+  size: 400, 142
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00153
+  rotate: false
+  xy: 806, 629
+  size: 400, 145
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00154
+  rotate: false
+  xy: 403, 478
+  size: 400, 149
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00155
+  rotate: false
+  xy: 401, 325
+  size: 400, 151
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00156
+  rotate: false
+  xy: 1203, 163
+  size: 400, 155
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00157
+  rotate: false
+  xy: 1605, 162
+  size: 400, 155
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00158
+  rotate: false
+  xy: 1204, 320
+  size: 400, 154
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00159
+  rotate: false
+  xy: 1205, 3
+  size: 399, 157
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00172
+  rotate: false
+  xy: 1605, 1211
+  size: 399, 140
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00173
+  rotate: false
+  xy: 2, 1216
+  size: 396, 140
+  orig: 400, 200
+  offset: 2, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00174
+  rotate: false
+  xy: 2, 1073
+  size: 397, 141
+  orig: 400, 200
+  offset: 3, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00175
+  rotate: false
+  xy: 401, 1073
+  size: 397, 141
+  orig: 400, 200
+  offset: 3, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00176
+  rotate: false
+  xy: 1208, 628
+  size: 397, 146
+  orig: 400, 200
+  offset: 3, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00177
+  rotate: false
+  xy: 800, 1070
+  size: 399, 141
+  orig: 400, 200
+  offset: 1, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00178
+  rotate: false
+  xy: 2, 928
+  size: 400, 143
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00179
+  rotate: false
+  xy: 802, 1354
+  size: 399, 139
+  orig: 400, 200
+  offset: 1, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00180
+  rotate: false
+  xy: 1203, 1354
+  size: 396, 139
+  orig: 400, 200
+  offset: 2, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00181
+  rotate: false
+  xy: 1601, 1353
+  size: 396, 139
+  orig: 400, 200
+  offset: 2, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00182
+  rotate: false
+  xy: 1197, 922
+  size: 400, 143
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00183
+  rotate: false
+  xy: 400, 1216
+  size: 400, 139
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00184
+  rotate: false
+  xy: 403, 1497
+  size: 400, 137
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00185
+  rotate: false
+  xy: 1201, 1634
+  size: 400, 136
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00186
+  rotate: false
+  xy: 1605, 1771
+  size: 399, 135
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00187
+  rotate: false
+  xy: 2, 1637
+  size: 399, 135
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00188
+  rotate: false
+  xy: 802, 1213
+  size: 400, 139
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00189
+  rotate: false
+  xy: 400, 1357
+  size: 400, 138
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00190
+  rotate: false
+  xy: 1603, 1067
+  size: 400, 142
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00191
+  rotate: false
+  xy: 800, 776
+  size: 398, 144
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00192
+  rotate: false
+  xy: 2, 1774
+  size: 400, 132
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00193
+  rotate: false
+  xy: 404, 1774
+  size: 400, 132
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00194
+  rotate: false
+  xy: 806, 1774
+  size: 399, 132
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00195
+  rotate: false
+  xy: 2, 1498
+  size: 399, 137
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00196
+  rotate: false
+  xy: 1207, 1772
+  size: 396, 134
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00197
+  rotate: false
+  xy: 1603, 1633
+  size: 398, 136
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00198
+  rotate: false
+  xy: 805, 1495
+  size: 397, 137
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00199
+  rotate: false
+  xy: 1204, 1495
+  size: 397, 137
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00200
+  rotate: false
+  xy: 1603, 1494
+  size: 400, 137
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00201
+  rotate: false
+  xy: 800, 925
+  size: 395, 143
+  orig: 400, 200
+  offset: 1, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00202
+  rotate: false
+  xy: 2, 331
+  size: 397, 152
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00203
+  rotate: false
+  xy: 2, 1358
+  size: 396, 138
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00204
+  rotate: false
+  xy: 404, 928
+  size: 394, 143
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00205
+  rotate: false
+  xy: 1599, 922
+  size: 394, 143
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00206
+  rotate: false
+  xy: 805, 478
+  size: 397, 149
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00208
+  rotate: false
+  xy: 1606, 2
+  size: 400, 158
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00209
+  rotate: false
+  xy: 803, 165
+  size: 398, 155
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00212
+  rotate: false
+  xy: 1200, 776
+  size: 398, 144
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00213
+  rotate: false
+  xy: 2, 172
+  size: 397, 157
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00219
+  rotate: false
+  xy: 402, 782
+  size: 396, 144
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00220
+  rotate: false
+  xy: 1600, 776
+  size: 398, 144
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00221
+  rotate: false
+  xy: 2, 485
+  size: 399, 148
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00222
+  rotate: false
+  xy: 1204, 477
+  size: 396, 149
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00223
+  rotate: false
+  xy: 1602, 476
+  size: 396, 149
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00224
+  rotate: false
+  xy: 403, 9
+  size: 398, 157
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 2006,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DIABLO/Left_hand_F
+  rotate: false
+  xy: 1789, 723
+  size: 206, 177
+  orig: 206, 177
+  offset: 0, 0
+  index: -1
+DIABLO/Right_hand_F
+  rotate: false
+  xy: 1675, 180
+  size: 214, 173
+  orig: 215, 177
+  offset: 0, 0
+  index: -1
+DIABLO/arm_L
+  rotate: false
+  xy: 801, 290
+  size: 368, 446
+  orig: 368, 446
+  offset: 0, 0
+  index: -1
+DIABLO/arm_R
+  rotate: false
+  xy: 1564, 1565
+  size: 420, 473
+  orig: 420, 474
+  offset: 0, 0
+  index: -1
+DIABLO/back
+  rotate: false
+  xy: 2, 738
+  size: 1282, 542
+  orig: 1282, 542
+  offset: 0, 0
+  index: -1
+DIABLO/background
+  rotate: false
+  xy: 2, 1282
+  size: 1560, 756
+  orig: 1560, 756
+  offset: 0, 0
+  index: -1
+DIABLO/body
+  rotate: false
+  xy: 2, 2
+  size: 797, 734
+  orig: 1055, 734
+  offset: 96, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00120
+  rotate: false
+  xy: 1388, 835
+  size: 399, 176
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00121
+  rotate: false
+  xy: 1388, 657
+  size: 399, 176
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00130
+  rotate: false
+  xy: 1605, 12
+  size: 399, 166
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00132
+  rotate: false
+  xy: 1564, 1204
+  size: 400, 166
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00133
+  rotate: false
+  xy: 1273, 301
+  size: 400, 166
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00134
+  rotate: false
+  xy: 1273, 469
+  size: 400, 186
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00142
+  rotate: false
+  xy: 1564, 1372
+  size: 400, 191
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00143
+  rotate: false
+  xy: 801, 98
+  size: 400, 190
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00147
+  rotate: false
+  xy: 1203, 115
+  size: 400, 184
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00218
+  rotate: false
+  xy: 1388, 1013
+  size: 399, 189
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00120
+  rotate: false
+  xy: 1171, 436
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00121
+  rotate: false
+  xy: 1286, 980
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00122
+  rotate: false
+  xy: 1286, 678
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00123
+  rotate: false
+  xy: 1789, 902
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00124
+  rotate: false
+  xy: 1675, 355
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00125
+  rotate: false
+  xy: 1891, 902
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00126
+  rotate: false
+  xy: 1777, 355
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00127
+  rotate: false
+  xy: 1879, 421
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 2021,1950
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DIABLO/Left_hand_B
+  rotate: false
+  xy: 404, 1772
+  size: 176, 176
+  orig: 189, 176
+  offset: 0, 0
+  index: -1
+DIABLO/RIght_hand_B
+  rotate: false
+  xy: 404, 1603
+  size: 194, 167
+  orig: 214, 167
+  offset: 12, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00131
+  rotate: false
+  xy: 1016, 827
+  size: 399, 171
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00136
+  rotate: false
+  xy: 2, 659
+  size: 400, 163
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00137
+  rotate: false
+  xy: 600, 1603
+  size: 400, 169
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00138
+  rotate: false
+  xy: 582, 1774
+  size: 400, 174
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00139
+  rotate: false
+  xy: 984, 1774
+  size: 400, 174
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00140
+  rotate: false
+  xy: 1386, 1775
+  size: 400, 173
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00141
+  rotate: false
+  xy: 2, 1765
+  size: 400, 183
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00144
+  rotate: false
+  xy: 308, 1239
+  size: 400, 178
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00145
+  rotate: false
+  xy: 710, 1121
+  size: 400, 178
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00146
+  rotate: false
+  xy: 308, 1419
+  size: 400, 182
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00148
+  rotate: false
+  xy: 2, 496
+  size: 400, 161
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00160
+  rotate: false
+  xy: 2, 330
+  size: 399, 164
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00161
+  rotate: false
+  xy: 710, 646
+  size: 399, 171
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00162
+  rotate: false
+  xy: 1016, 171
+  size: 397, 167
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00163
+  rotate: false
+  xy: 1415, 9
+  size: 397, 167
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00164
+  rotate: false
+  xy: 1016, 6
+  size: 397, 163
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00165
+  rotate: false
+  xy: 2, 824
+  size: 400, 165
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00167
+  rotate: false
+  xy: 1417, 615
+  size: 394, 177
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00168
+  rotate: false
+  xy: 1316, 1284
+  size: 395, 186
+  orig: 400, 200
+  offset: 1, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00169
+  rotate: false
+  xy: 1316, 1096
+  size: 395, 186
+  orig: 400, 200
+  offset: 1, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00170
+  rotate: false
+  xy: 1016, 340
+  size: 398, 183
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00171
+  rotate: false
+  xy: 2, 165
+  size: 399, 163
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00207
+  rotate: false
+  xy: 2, 2
+  size: 399, 161
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00210
+  rotate: false
+  xy: 1416, 351
+  size: 398, 172
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00211
+  rotate: false
+  xy: 1519, 922
+  size: 398, 172
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00215
+  rotate: false
+  xy: 1416, 178
+  size: 398, 171
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00216
+  rotate: false
+  xy: 914, 1302
+  size: 400, 168
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00217
+  rotate: false
+  xy: 2, 991
+  size: 400, 168
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00128
+  rotate: false
+  xy: 2, 1463
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00129
+  rotate: false
+  xy: 104, 1463
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00130
+  rotate: false
+  xy: 206, 1463
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00131
+  rotate: false
+  xy: 2, 1161
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00132
+  rotate: false
+  xy: 104, 1161
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00133
+  rotate: false
+  xy: 206, 1161
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00134
+  rotate: false
+  xy: 710, 1301
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00135
+  rotate: false
+  xy: 1002, 1472
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00136
+  rotate: false
+  xy: 812, 1301
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00137
+  rotate: false
+  xy: 1104, 1472
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00138
+  rotate: false
+  xy: 1206, 1472
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00139
+  rotate: false
+  xy: 1308, 1472
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00140
+  rotate: false
+  xy: 404, 937
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00141
+  rotate: false
+  xy: 506, 937
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00142
+  rotate: false
+  xy: 608, 937
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00143
+  rotate: false
+  xy: 1112, 1000
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00144
+  rotate: false
+  xy: 710, 819
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00145
+  rotate: false
+  xy: 404, 635
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00146
+  rotate: false
+  xy: 506, 635
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00147
+  rotate: false
+  xy: 608, 635
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00148
+  rotate: false
+  xy: 812, 819
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00149
+  rotate: false
+  xy: 914, 819
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00150
+  rotate: false
+  xy: 1214, 1000
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00151
+  rotate: false
+  xy: 1410, 1473
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00152
+  rotate: false
+  xy: 1512, 1473
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00153
+  rotate: false
+  xy: 1614, 1473
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00154
+  rotate: false
+  xy: 1417, 794
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00155
+  rotate: false
+  xy: 1111, 525
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00156
+  rotate: false
+  xy: 710, 344
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00157
+  rotate: false
+  xy: 404, 333
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00158
+  rotate: false
+  xy: 506, 333
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00159
+  rotate: false
+  xy: 608, 333
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00160
+  rotate: false
+  xy: 812, 344
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00161
+  rotate: false
+  xy: 914, 344
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00162
+  rotate: false
+  xy: 1213, 525
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00163
+  rotate: false
+  xy: 1315, 525
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00164
+  rotate: false
+  xy: 710, 42
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00165
+  rotate: false
+  xy: 812, 42
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00166
+  rotate: false
+  xy: 914, 42
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00167
+  rotate: false
+  xy: 403, 31
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00168
+  rotate: false
+  xy: 505, 31
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00169
+  rotate: false
+  xy: 607, 31
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00170
+  rotate: false
+  xy: 1813, 620
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00171
+  rotate: false
+  xy: 1713, 1171
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00172
+  rotate: false
+  xy: 1788, 1648
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00173
+  rotate: false
+  xy: 1815, 1346
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00174
+  rotate: false
+  xy: 1890, 1648
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00175
+  rotate: false
+  xy: 1917, 1346
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00176
+  rotate: false
+  xy: 1816, 318
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00177
+  rotate: false
+  xy: 1915, 620
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00178
+  rotate: false
+  xy: 1919, 1044
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00179
+  rotate: false
+  xy: 1816, 16
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00180
+  rotate: false
+  xy: 1918, 318
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00181
+  rotate: false
+  xy: 1918, 16
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1634,1242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00166
+  rotate: false
+  xy: 206, 908
+  size: 394, 166
+  orig: 400, 200
+  offset: 2, 0
+  index: -1
+FIRE/Close-Up_Wide_Ground_Fire/Wide_Ground_Fire_00214
+  rotate: false
+  xy: 206, 1076
+  size: 395, 164
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00182
+  rotate: false
+  xy: 2, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00183
+  rotate: false
+  xy: 104, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00184
+  rotate: false
+  xy: 603, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00185
+  rotate: false
+  xy: 2, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00186
+  rotate: false
+  xy: 104, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00187
+  rotate: false
+  xy: 602, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00188
+  rotate: false
+  xy: 206, 606
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00189
+  rotate: false
+  xy: 2, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00190
+  rotate: false
+  xy: 104, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00191
+  rotate: false
+  xy: 308, 606
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00192
+  rotate: false
+  xy: 410, 606
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00193
+  rotate: false
+  xy: 704, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00194
+  rotate: false
+  xy: 705, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00195
+  rotate: false
+  xy: 806, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00196
+  rotate: false
+  xy: 807, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00197
+  rotate: false
+  xy: 908, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00198
+  rotate: false
+  xy: 909, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00199
+  rotate: false
+  xy: 1010, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00200
+  rotate: false
+  xy: 1011, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00201
+  rotate: false
+  xy: 1112, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00202
+  rotate: false
+  xy: 1113, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00203
+  rotate: false
+  xy: 1214, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00204
+  rotate: false
+  xy: 1215, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00205
+  rotate: false
+  xy: 1316, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00206
+  rotate: false
+  xy: 1317, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00207
+  rotate: false
+  xy: 1418, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00208
+  rotate: false
+  xy: 1419, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00209
+  rotate: false
+  xy: 1520, 638
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00210
+  rotate: false
+  xy: 1521, 940
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00211
+  rotate: false
+  xy: 512, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00212
+  rotate: false
+  xy: 206, 304
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00213
+  rotate: false
+  xy: 2, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00214
+  rotate: false
+  xy: 104, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00215
+  rotate: false
+  xy: 308, 304
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00216
+  rotate: false
+  xy: 410, 304
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00217
+  rotate: false
+  xy: 614, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00218
+  rotate: false
+  xy: 716, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00219
+  rotate: false
+  xy: 818, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00220
+  rotate: false
+  xy: 920, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00221
+  rotate: false
+  xy: 1022, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00222
+  rotate: false
+  xy: 1124, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00223
+  rotate: false
+  xy: 1226, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00224
+  rotate: false
+  xy: 1328, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00225
+  rotate: false
+  xy: 1430, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00226
+  rotate: false
+  xy: 1532, 336
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00227
+  rotate: false
+  xy: 512, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00228
+  rotate: false
+  xy: 206, 2
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00229
+  rotate: false
+  xy: 308, 2
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00230
+  rotate: false
+  xy: 410, 2
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00231
+  rotate: false
+  xy: 614, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00232
+  rotate: false
+  xy: 716, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00233
+  rotate: false
+  xy: 818, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00234
+  rotate: false
+  xy: 920, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00235
+  rotate: false
+  xy: 1022, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00236
+  rotate: false
+  xy: 1124, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00237
+  rotate: false
+  xy: 1226, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00238
+  rotate: false
+  xy: 1328, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+FIRE/Wall_Fire/Wall_Fire_00239
+  rotate: false
+  xy: 1430, 34
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1

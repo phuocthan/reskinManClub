@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 577
+  rotate: true
+  xy: 133, 54
+  size: 194, 127
+  orig: 194, 127
+  offset: 0, 0
+  index: -1
+Layer 578
+  rotate: true
+  xy: 2, 54
+  size: 194, 129
+  orig: 194, 129
+  offset: 0, 0
+  index: -1
+icons8-left_up2
+  rotate: true
+  xy: 184, 2
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 2, 5
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+xoay2
+  rotate: false
+  xy: 93, 5
+  size: 89, 47
+  orig: 89, 47
+  offset: 0, 0
+  index: -1
+—Pngtree—retro casino sign board._4124282
+  rotate: false
+  xy: 262, 121
+  size: 194, 127
+  orig: 194, 127
+  offset: 0, 0
+  index: -1

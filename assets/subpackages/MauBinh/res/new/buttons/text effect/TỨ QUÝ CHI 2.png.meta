@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "43380767-34fe-4c93-99f2-4306a9f89051",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 315,
+  "height": 50,
+  "platformSettings": {},
+  "subMetas": {
+    "TỨ QUÝ CHI 2": {
+      "ver": "1.0.4",
+      "uuid": "bab8d187-70c0-4eda-a9d5-17ad27a6a13e",
+      "rawTextureUuid": "43380767-34fe-4c93-99f2-4306a9f89051",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 315,
+      "height": 50,
+      "rawWidth": 315,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

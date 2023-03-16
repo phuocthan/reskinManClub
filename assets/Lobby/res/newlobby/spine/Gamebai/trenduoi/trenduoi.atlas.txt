@@ -1,0 +1,69 @@
+
+trenduoi.png
+size: 367,367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_BG
+  rotate: false
+  xy: 2, 2
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+4_a1
+  rotate: false
+  xy: 269, 272
+  size: 79, 93
+  orig: 79, 93
+  offset: 0, 0
+  index: -1
+4_a2
+  rotate: false
+  xy: 200, 145
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+4_duoi
+  rotate: true
+  xy: 280, 129
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+4_khung
+  rotate: false
+  xy: 2, 176
+  size: 196, 189
+  orig: 196, 189
+  offset: 0, 0
+  index: -1
+4_led1
+  rotate: false
+  xy: 350, 281
+  size: 3, 84
+  orig: 3, 84
+  offset: 0, 0
+  index: -1
+4_muiten1
+  rotate: false
+  xy: 183, 33
+  size: 58, 110
+  orig: 58, 110
+  offset: 0, 0
+  index: -1
+4_muiten2
+  rotate: false
+  xy: 200, 239
+  size: 67, 126
+  orig: 67, 126
+  offset: 0, 0
+  index: -1
+4_tren
+  rotate: false
+  xy: 280, 217
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1

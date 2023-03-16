@@ -1,0 +1,27 @@
+
+asphalt_symbols.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_fuel_1
+  rotate: true
+  xy: 840, 2
+  size: 111, 158
+  orig: 111, 158
+  offset: 0, 0
+  index: -1
+icon_fuel_hover
+  rotate: false
+  xy: 853, 574
+  size: 117, 153
+  orig: 117, 153
+  offset: 0, 0
+  index: -1
+icon_fuel_par
+  rotate: true
+  xy: 977, 906
+  size: 112, 159
+  orig: 112, 159
+  offset: 0, 0
+  index: -1

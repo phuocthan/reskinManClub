@@ -1,0 +1,27 @@
+
+asphalt_symbols.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_ticket
+  rotate: true
+  xy: 2, 681
+  size: 167, 158
+  orig: 167, 158
+  offset: 0, 0
+  index: -1
+icon_ticket_hover
+  rotate: false
+  xy: 2, 332
+  size: 154, 165
+  orig: 154, 165
+  offset: 0, 0
+  index: -1
+icon_ticket_par
+  rotate: true
+  xy: 162, 685
+  size: 163, 153
+  orig: 163, 153
+  offset: 0, 0
+  index: -1

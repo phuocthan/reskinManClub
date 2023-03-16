@@ -1,0 +1,55 @@
+
+Bigcity_symbol.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ship
+  rotate: false
+  xy: 1575, 1653
+  size: 150, 99
+  orig: 150, 99
+  offset: 0, 0
+  index: -1
+ship_1
+  rotate: false
+  xy: 1727, 1645
+  size: 150, 99
+  orig: 150, 99
+  offset: 0, 0
+  index: -1
+ship_light
+  rotate: false
+  xy: 2, 1044
+  size: 251, 217
+  orig: 251, 217
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 1206, 2008
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 1696, 2002
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 1554, 2004
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+w4
+  rotate: false
+  xy: 1397, 2006
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1

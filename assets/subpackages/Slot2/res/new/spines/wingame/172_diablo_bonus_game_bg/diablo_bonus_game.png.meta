@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b4483407-2037-484e-a4af-f2d54980994c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "diablo_bonus_game": {
+      "ver": "1.0.4",
+      "uuid": "8dac17f0-92d8-47fd-9930-2c224a16f4c6",
+      "rawTextureUuid": "b4483407-2037-484e-a4af-f2d54980994c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -23.5,
+      "offsetY": 126,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1997,
+      "height": 1792,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

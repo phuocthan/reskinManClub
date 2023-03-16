@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "43ffb7db-2985-4e7e-b719-11f33d4ae091",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "diablo_bg_play_trial": {
+      "ver": "1.0.4",
+      "uuid": "cecfcd82-250f-4e99-aa3b-bf8ca38a7c9f",
+      "rawTextureUuid": "43ffb7db-2985-4e7e-b719-11f33d4ae091",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 124,
+      "height": 60,
+      "rawWidth": 124,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

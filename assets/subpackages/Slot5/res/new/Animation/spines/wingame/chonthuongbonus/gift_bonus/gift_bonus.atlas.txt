@@ -1,0 +1,13 @@
+
+gift_bonus.png
+size: 256,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_gift
+  rotate: false
+  xy: 2, 6
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1

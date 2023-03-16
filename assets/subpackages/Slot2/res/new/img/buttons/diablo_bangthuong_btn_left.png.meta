@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "71a5cb02-729d-4bfe-84ff-3bfeaf2de47b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 109,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "diablo_bangthuong_btn_left": {
+      "ver": "1.0.4",
+      "uuid": "7dad3fe0-3cb2-45e3-92c5-06f6a589dcdd",
+      "rawTextureUuid": "71a5cb02-729d-4bfe-84ff-3bfeaf2de47b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 1.5,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 104,
+      "height": 88,
+      "rawWidth": 109,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

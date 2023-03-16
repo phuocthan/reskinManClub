@@ -1,0 +1,13 @@
+
+ketqua.png
+size: 256,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+ketqua
+  rotate: false
+  xy: 2, 18
+  size: 127, 109
+  orig: 127, 109
+  offset: 0, 0
+  index: -1

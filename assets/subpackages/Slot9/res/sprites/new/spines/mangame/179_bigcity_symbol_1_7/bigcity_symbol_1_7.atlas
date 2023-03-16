@@ -1,0 +1,27 @@
+
+Bigcity_symbol.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shoe_light
+  rotate: false
+  xy: 1776, 1080
+  size: 215, 210
+  orig: 215, 210
+  offset: 0, 0
+  index: -1
+shoe_p
+  rotate: false
+  xy: 653, 1955
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+shoe_t
+  rotate: true
+  xy: 1538, 1932
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1

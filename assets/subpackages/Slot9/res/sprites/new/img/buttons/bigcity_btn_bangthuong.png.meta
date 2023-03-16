@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1e626903-0845-4be8-b15b-3f68f7e060f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 193,
+  "height": 153,
+  "platformSettings": {},
+  "subMetas": {
+    "bigcity_btn_bangthuong": {
+      "ver": "1.0.4",
+      "uuid": "0e7720fe-6682-45fd-adc5-2fb407061b7b",
+      "rawTextureUuid": "1e626903-0845-4be8-b15b-3f68f7e060f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 193,
+      "height": 153,
+      "rawWidth": 193,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,223 @@
+
+item6.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/smoke/smoke_00
+  rotate: false
+  xy: 2, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_01
+  rotate: false
+  xy: 168, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_02
+  rotate: false
+  xy: 2, 614
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_03
+  rotate: false
+  xy: 270, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_04
+  rotate: false
+  xy: 2, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_05
+  rotate: false
+  xy: 372, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_06
+  rotate: false
+  xy: 2, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_07
+  rotate: false
+  xy: 474, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_08
+  rotate: false
+  xy: 2, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_09
+  rotate: false
+  xy: 576, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_10
+  rotate: false
+  xy: 2, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_11
+  rotate: false
+  xy: 678, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_12
+  rotate: false
+  xy: 2, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_13
+  rotate: false
+  xy: 780, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_14
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/smoke/smoke_15
+  rotate: false
+  xy: 882, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_00
+  rotate: false
+  xy: 104, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_01
+  rotate: false
+  xy: 104, 614
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_02
+  rotate: false
+  xy: 104, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_03
+  rotate: false
+  xy: 104, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_04
+  rotate: false
+  xy: 104, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_05
+  rotate: false
+  xy: 104, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_06
+  rotate: false
+  xy: 104, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_07
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_08
+  rotate: false
+  xy: 206, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_09
+  rotate: false
+  xy: 206, 676
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_10
+  rotate: false
+  xy: 308, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_11
+  rotate: false
+  xy: 206, 574
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_12
+  rotate: false
+  xy: 308, 676
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_13
+  rotate: false
+  xy: 410, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+it6
+  rotate: false
+  xy: 2, 818
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1

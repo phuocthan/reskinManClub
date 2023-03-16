@@ -1,0 +1,76 @@
+
+itemwild.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/water/13 (1)
+  rotate: false
+  xy: 175, 381
+  size: 169, 628
+  orig: 169, 628
+  offset: 0, 0
+  index: -1
+effect/water/13 (2)
+  rotate: false
+  xy: 520, 381
+  size: 165, 628
+  orig: 165, 628
+  offset: 0, 0
+  index: -1
+effect/water/13 (3)
+  rotate: true
+  xy: 2, 220
+  size: 159, 626
+  orig: 159, 626
+  offset: 0, 0
+  index: -1
+effect/water/13 (4)
+  rotate: true
+  xy: 2, 65
+  size: 153, 625
+  orig: 153, 625
+  offset: 0, 0
+  index: -1
+effect/water/13 (5)
+  rotate: false
+  xy: 346, 386
+  size: 172, 623
+  orig: 172, 623
+  offset: 0, 0
+  index: -1
+effect/water/13 (6)
+  rotate: false
+  xy: 687, 381
+  size: 164, 628
+  orig: 164, 628
+  offset: 0, 0
+  index: -1
+effect/water/13 (7)
+  rotate: false
+  xy: 853, 381
+  size: 158, 628
+  orig: 158, 628
+  offset: 0, 0
+  index: -1
+effect/water/13 (8)
+  rotate: false
+  xy: 2, 381
+  size: 171, 628
+  orig: 171, 628
+  offset: 0, 0
+  index: -1
+itewild
+  rotate: false
+  xy: 630, 223
+  size: 154, 156
+  orig: 154, 156
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 2, 34
+  size: 110, 29
+  orig: 110, 29
+  offset: 0, 0
+  index: -1

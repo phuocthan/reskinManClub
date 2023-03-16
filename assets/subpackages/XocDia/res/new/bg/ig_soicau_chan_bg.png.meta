@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c6494fcc-8873-4c6b-8771-a546cc0cf662",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 180,
+  "height": 81,
+  "platformSettings": {},
+  "subMetas": {
+    "ig_soicau_chan_bg": {
+      "ver": "1.0.4",
+      "uuid": "947e600e-772c-4309-b0ed-c911b4b3f253",
+      "rawTextureUuid": "c6494fcc-8873-4c6b-8771-a546cc0cf662",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 180,
+      "height": 81,
+      "rawWidth": 180,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

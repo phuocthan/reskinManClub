@@ -1,0 +1,20 @@
+
+ava.png
+size: 329,327
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ava_nhay
+  rotate: false
+  xy: 2, 105
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+khungava
+  rotate: false
+  xy: 2, 209
+  size: 325, 116
+  orig: 325, 116
+  offset: 0, 0
+  index: -1

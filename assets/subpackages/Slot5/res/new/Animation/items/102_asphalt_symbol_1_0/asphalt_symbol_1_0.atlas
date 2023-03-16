@@ -1,0 +1,41 @@
+
+asphalt_symbols.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_circle
+  rotate: true
+  xy: 2, 850
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+font_WILD
+  rotate: false
+  xy: 535, 850
+  size: 120, 38
+  orig: 120, 38
+  offset: 0, 0
+  index: -1
+icon_wild
+  rotate: false
+  xy: 601, 397
+  size: 137, 146
+  orig: 137, 146
+  offset: 0, 0
+  index: -1
+icon_wild_hover
+  rotate: false
+  xy: 461, 379
+  size: 138, 147
+  orig: 138, 148
+  offset: 0, 1
+  index: -1
+icon_wild_par
+  rotate: true
+  xy: 549, 894
+  size: 124, 147
+  orig: 124, 147
+  offset: 0, 0
+  index: -1

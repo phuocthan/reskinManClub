@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 447,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background_light
+  rotate: false
+  xy: 2, 38
+  size: 190, 720
+  orig: 190, 720
+  offset: 0, 0
+  index: -1
+lobby_partical_1
+  rotate: false
+  xy: 2, 26
+  size: 443, 10
+  orig: 443, 10
+  offset: 0, 0
+  index: -1
+lobby_partical_2
+  rotate: false
+  xy: 2, 14
+  size: 443, 10
+  orig: 443, 10
+  offset: 0, 0
+  index: -1
+lobby_partical_3
+  rotate: false
+  xy: 2, 2
+  size: 443, 10
+  orig: 443, 10
+  offset: 0, 0
+  index: -1

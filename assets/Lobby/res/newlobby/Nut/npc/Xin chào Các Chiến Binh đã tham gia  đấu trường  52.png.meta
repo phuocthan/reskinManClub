@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "040110c6-fe82-4669-a8b9-d22fddf4d516",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 517,
+  "height": 54,
+  "platformSettings": {},
+  "subMetas": {
+    "Xin chào Các Chiến Binh đã tham gia  đấu trường  52": {
+      "ver": "1.0.4",
+      "uuid": "544a728f-5e31-41fd-bfaf-61d875e5537a",
+      "rawTextureUuid": "040110c6-fe82-4669-a8b9-d22fddf4d516",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 517,
+      "height": 54,
+      "rawWidth": 517,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

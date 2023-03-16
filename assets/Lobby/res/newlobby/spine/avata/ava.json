@@ -1,0 +1,43 @@
+{
+"skeleton": { "hash": "B8rK/0iPTOOOeBAf7EttT1C4weU", "spine": "3.6.53", "width": 2606.63, "height": 906.69, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "ava", "parent": "root", "x": -109.63, "y": 7.64 },
+	{ "name": "ava_nhay", "parent": "ava", "x": 15.81, "y": 10.18 }
+],
+"slots": [
+	{ "name": "khungava", "bone": "ava", "attachment": "khungava" },
+	{ "name": "ava_nhay", "bone": "ava_nhay", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"ava_nhay": {
+			"ava_nhay": { "x": -13.68, "y": -10.83, "width": 102, "height": 102 }
+		},
+		"khungava": {
+			"khungava": { "x": 109.63, "y": -7.64, "width": 325, "height": 116 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"ava_nhay": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.2333, "name": "ava_nhay" },
+					{ "time": 0.5333, "name": null },
+					{ "time": 0.7667, "name": "ava_nhay" },
+					{ "time": 1.0667, "name": null },
+					{ "time": 1.3, "name": "ava_nhay" },
+					{ "time": 1.6, "name": null },
+					{ "time": 1.8333, "name": "ava_nhay" },
+					{ "time": 2.1333, "name": null },
+					{ "time": 2.3667, "name": "ava_nhay" },
+					{ "time": 2.6667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

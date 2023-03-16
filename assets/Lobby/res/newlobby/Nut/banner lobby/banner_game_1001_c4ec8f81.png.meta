@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "acc0bac6-726b-45dc-8e24-ddbcfc99878d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 278,
+  "height": 440,
+  "platformSettings": {},
+  "subMetas": {
+    "banner_game_1001_c4ec8f81": {
+      "ver": "1.0.4",
+      "uuid": "37eac8db-baba-4206-8d56-ecd255f85924",
+      "rawTextureUuid": "acc0bac6-726b-45dc-8e24-ddbcfc99878d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 278,
+      "height": 440,
+      "rawWidth": 278,
+      "rawHeight": 440,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,34 @@
+
+shadow.png
+size: 716,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+441
+  rotate: false
+  xy: 413, 226
+  size: 300, 314
+  orig: 300, 314
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 131
+  size: 409, 409
+  orig: 409, 409
+  offset: 0, 0
+  index: -1
+club
+  rotate: false
+  xy: 2, 2
+  size: 321, 127
+  orig: 321, 127
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 413, 100
+  size: 264, 124
+  orig: 264, 124
+  offset: 0, 0
+  index: -1

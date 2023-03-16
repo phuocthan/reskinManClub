@@ -1,0 +1,48 @@
+
+1K.png
+size: 305,443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_1
+  rotate: false
+  xy: 83, 394
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1
+back_2
+  rotate: false
+  xy: 72, 345
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1
+light_1
+  rotate: false
+  xy: 2, 434
+  size: 79, 7
+  orig: 79, 7
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: true
+  xy: 2, 373
+  size: 59, 68
+  orig: 79, 84
+  offset: 20, 0
+  index: -1
+lobby_bet_10000
+  rotate: true
+  xy: 2, 2
+  size: 250, 301
+  orig: 250, 301
+  offset: 0, 0
+  index: -1
+lobby_bet_box_1
+  rotate: false
+  xy: 2, 254
+  size: 282, 89
+  orig: 282, 89
+  offset: 0, 0
+  index: -1

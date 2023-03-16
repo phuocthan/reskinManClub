@@ -1,0 +1,34 @@
+
+tien.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 115
+  size: 152, 134
+  orig: 152, 134
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 156, 143
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 272, 147
+  size: 114, 102
+  orig: 114, 102
+  offset: 0, 0
+  index: -1

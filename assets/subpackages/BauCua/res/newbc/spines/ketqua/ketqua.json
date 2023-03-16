@@ -1,0 +1,34 @@
+{
+"skeleton": { "hash": "ZzR5zrblSTpy7WeVB2pdyVoOAz4", "spine": "3.6.53", "width": 127, "height": 109, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "ketqua", "parent": "root" }
+],
+"slots": [
+	{ "name": "ketqua", "bone": "ketqua", "attachment": "ketqua" },
+	{ "name": "ketqua2", "bone": "ketqua", "attachment": "ketqua", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"ketqua": {
+			"ketqua": { "width": 127, "height": 109 }
+		},
+		"ketqua2": {
+			"ketqua": { "width": 127, "height": 109 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"ketqua2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffff" },
+					{ "time": 0.2, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

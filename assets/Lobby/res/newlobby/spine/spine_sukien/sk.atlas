@@ -1,0 +1,153 @@
+
+sk.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lj_lightning_bolt_fx_000
+  rotate: false
+  xy: 1771, 43
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_001
+  rotate: false
+  xy: 1559, 16
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_002
+  rotate: false
+  xy: 129, 4
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_003
+  rotate: false
+  xy: 940, 2
+  size: 61, 24
+  orig: 61, 24
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_004
+  rotate: false
+  xy: 1445, 15
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_005
+  rotate: false
+  xy: 194, 2
+  size: 110, 16
+  orig: 110, 16
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_006
+  rotate: false
+  xy: 572, 12
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_007
+  rotate: false
+  xy: 692, 15
+  size: 119, 47
+  orig: 119, 47
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_008
+  rotate: false
+  xy: 1323, 24
+  size: 120, 38
+  orig: 120, 38
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_009
+  rotate: false
+  xy: 448, 4
+  size: 122, 58
+  orig: 122, 58
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_010
+  rotate: false
+  xy: 194, 20
+  size: 124, 42
+  orig: 124, 42
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_011
+  rotate: false
+  xy: 1068, 31
+  size: 126, 31
+  orig: 126, 31
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_012
+  rotate: false
+  xy: 813, 26
+  size: 125, 36
+  orig: 125, 36
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_013
+  rotate: false
+  xy: 320, 23
+  size: 126, 39
+  orig: 126, 39
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_014
+  rotate: false
+  xy: 940, 28
+  size: 126, 34
+  orig: 126, 34
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_015
+  rotate: false
+  xy: 1196, 34
+  size: 125, 28
+  orig: 125, 28
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_016
+  rotate: false
+  xy: 320, 2
+  size: 125, 19
+  orig: 125, 19
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_017
+  rotate: false
+  xy: 1670, 30
+  size: 99, 32
+  orig: 99, 32
+  offset: 0, 0
+  index: -1
+lj_lightning_bolt_fx_018
+  rotate: false
+  xy: 2, 2
+  size: 125, 15
+  orig: 125, 15
+  offset: 0, 0
+  index: -1
+sk
+  rotate: false
+  xy: 2, 19
+  size: 190, 43
+  orig: 190, 43
+  offset: 0, 0
+  index: -1
+sk2
+  rotate: false
+  xy: 1559, 34
+  size: 109, 28
+  orig: 109, 28
+  offset: 0, 0
+  index: -1

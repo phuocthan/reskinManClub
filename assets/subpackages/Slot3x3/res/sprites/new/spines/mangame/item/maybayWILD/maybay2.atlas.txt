@@ -1,0 +1,174 @@
+
+maybay2.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/explo/explo_03
+  rotate: false
+  xy: 2, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_04
+  rotate: false
+  xy: 2, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_06
+  rotate: false
+  xy: 104, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_08
+  rotate: false
+  xy: 2, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_10
+  rotate: false
+  xy: 104, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_12
+  rotate: false
+  xy: 206, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_14
+  rotate: false
+  xy: 2, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_16
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_18
+  rotate: false
+  xy: 104, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_20
+  rotate: false
+  xy: 206, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_22
+  rotate: false
+  xy: 308, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_24
+  rotate: false
+  xy: 410, 410
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_26
+  rotate: false
+  xy: 104, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_28
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_30
+  rotate: false
+  xy: 206, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_32
+  rotate: false
+  xy: 308, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_34
+  rotate: false
+  xy: 410, 308
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_36
+  rotate: false
+  xy: 206, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_38
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_40
+  rotate: false
+  xy: 308, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_42
+  rotate: false
+  xy: 410, 206
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_44
+  rotate: false
+  xy: 308, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+itemwild
+  rotate: false
+  xy: 308, 24
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 410, 174
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1

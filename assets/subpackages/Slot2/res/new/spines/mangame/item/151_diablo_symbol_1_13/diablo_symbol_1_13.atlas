@@ -1,0 +1,132 @@
+
+diablo_symbols.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: true
+  xy: 980, 935
+  size: 124, 40
+  orig: 124, 40
+  offset: 0, 0
+  index: -1
+icon_bonus_light
+  rotate: true
+  xy: 2, 549
+  size: 125, 133
+  orig: 128, 139
+  offset: 1, 2
+  index: -1
+icon_bonus_non
+  rotate: true
+  xy: 831, 528
+  size: 123, 131
+  orig: 128, 139
+  offset: 2, 3
+  index: -1
+light
+  rotate: false
+  xy: 330, 1132
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+win_ele/ele_bonus_00000
+  rotate: true
+  xy: 285, 137
+  size: 62, 67
+  orig: 75, 75
+  offset: 9, 6
+  index: -1
+win_ele/ele_bonus_00001
+  rotate: true
+  xy: 2, 63
+  size: 64, 69
+  orig: 75, 75
+  offset: 6, 4
+  index: -1
+win_ele/ele_bonus_00002
+  rotate: true
+  xy: 213, 146
+  size: 64, 70
+  orig: 75, 75
+  offset: 6, 4
+  index: -1
+win_ele/ele_bonus_00003
+  rotate: true
+  xy: 399, 195
+  size: 64, 69
+  orig: 75, 75
+  offset: 7, 4
+  index: -1
+win_ele/ele_bonus_00004
+  rotate: true
+  xy: 470, 192
+  size: 63, 68
+  orig: 75, 75
+  offset: 8, 4
+  index: -1
+win_ele/ele_bonus_00005
+  rotate: true
+  xy: 177, 80
+  size: 64, 66
+  orig: 75, 75
+  offset: 6, 5
+  index: -1
+win_ele/ele_bonus_00006
+  rotate: false
+  xy: 73, 57
+  size: 63, 62
+  orig: 75, 75
+  offset: 7, 7
+  index: -1
+win_ele/ele_bonus_00007
+  rotate: true
+  xy: 770, 622
+  size: 63, 59
+  orig: 75, 75
+  offset: 7, 7
+  index: -1
+win_ele/ele_bonus_00008
+  rotate: false
+  xy: 2, 2
+  size: 63, 59
+  orig: 75, 75
+  offset: 7, 8
+  index: -1
+win_ele/ele_bonus_00009
+  rotate: true
+  xy: 965, 639
+  size: 64, 57
+  orig: 75, 75
+  offset: 8, 8
+  index: -1
+win_ele/ele_bonus_00010
+  rotate: false
+  xy: 354, 134
+  size: 62, 59
+  orig: 75, 75
+  offset: 8, 8
+  index: -1
+win_ele/ele_bonus_00013
+  rotate: false
+  xy: 245, 75
+  size: 61, 60
+  orig: 75, 75
+  offset: 9, 8
+  index: -1
+win_ele/ele_bonus_00015
+  rotate: false
+  xy: 683, 226
+  size: 48, 62
+  orig: 75, 75
+  offset: 13, 7
+  index: -1
+win_ele/ele_bonus_00017
+  rotate: false
+  xy: 683, 290
+  size: 52, 62
+  orig: 75, 75
+  offset: 11, 7
+  index: -1

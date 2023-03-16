@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "05fb7db8-c796-48a0-8002-09efd3a465cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 679,
+  "height": 703,
+  "platformSettings": {},
+  "subMetas": {
+    "huong dan mini poker": {
+      "ver": "1.0.4",
+      "uuid": "d7fca5ff-20ce-4557-a966-eafe3a94b5ca",
+      "rawTextureUuid": "05fb7db8-c796-48a0-8002-09efd3a465cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 679,
+      "height": 703,
+      "rawWidth": 679,
+      "rawHeight": 703,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

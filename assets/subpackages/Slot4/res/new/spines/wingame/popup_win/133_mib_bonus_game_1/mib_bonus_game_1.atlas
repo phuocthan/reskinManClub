@@ -1,0 +1,34 @@
+
+mib_bonus_game.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonusgame_file
+  rotate: true
+  xy: 1791, 778
+  size: 119, 134
+  orig: 119, 134
+  offset: 0, 0
+  index: -1
+bonusgame_sym_win
+  rotate: true
+  xy: 703, 809
+  size: 101, 133
+  orig: 101, 133
+  offset: 0, 0
+  index: -1
+keycard
+  rotate: false
+  xy: 2, 731
+  size: 137, 121
+  orig: 137, 121
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 2, 862
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1

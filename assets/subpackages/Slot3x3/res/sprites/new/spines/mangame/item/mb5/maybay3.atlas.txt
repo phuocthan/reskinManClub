@@ -1,0 +1,90 @@
+
+maybay3.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+K33wU
+  rotate: false
+  xy: 204, 36
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+effect/spark/spark_00
+  rotate: false
+  xy: 2, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_01
+  rotate: false
+  xy: 2, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_02
+  rotate: false
+  xy: 204, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_03
+  rotate: false
+  xy: 2, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_04
+  rotate: false
+  xy: 204, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_05
+  rotate: true
+  xy: 406, 310
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_06
+  rotate: false
+  xy: 2, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_07
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_08
+  rotate: false
+  xy: 204, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_09
+  rotate: false
+  xy: 204, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+it2
+  rotate: false
+  xy: 406, 243
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1

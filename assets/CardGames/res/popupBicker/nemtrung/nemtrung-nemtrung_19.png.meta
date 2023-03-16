@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3c6c8136-f3ce-4f75-a000-93ce969aac93",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 355,
+  "height": 356,
+  "platformSettings": {},
+  "subMetas": {
+    "nemtrung-nemtrung_19": {
+      "ver": "1.0.4",
+      "uuid": "8eeb9e1e-a5ba-46a3-b4b6-b45ff4088263",
+      "rawTextureUuid": "3c6c8136-f3ce-4f75-a000-93ce969aac93",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 7.5,
+      "trimX": 128,
+      "trimY": 121,
+      "width": 101,
+      "height": 99,
+      "rawWidth": 355,
+      "rawHeight": 356,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

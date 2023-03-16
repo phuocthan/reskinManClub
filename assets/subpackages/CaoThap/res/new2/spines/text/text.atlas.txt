@@ -1,0 +1,13 @@
+
+text.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+text
+  rotate: false
+  xy: 2, 321
+  size: 359, 38
+  orig: 359, 38
+  offset: 0, 0
+  index: -1

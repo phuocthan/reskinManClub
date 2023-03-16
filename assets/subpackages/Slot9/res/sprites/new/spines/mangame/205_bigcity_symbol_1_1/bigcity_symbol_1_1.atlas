@@ -1,0 +1,62 @@
+
+Bigcity_symbol.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JP_box
+  rotate: false
+  xy: 721, 1567
+  size: 146, 119
+  orig: 150, 119
+  offset: 4, 0
+  index: -1
+JP_chain
+  rotate: true
+  xy: 253, 2023
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+JP_light1
+  rotate: false
+  xy: 1219, 1352
+  size: 182, 165
+  orig: 185, 177
+  offset: 3, 8
+  index: -1
+JP_light2
+  rotate: false
+  xy: 41, 2032
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+JP_money
+  rotate: false
+  xy: 293, 1964
+  size: 107, 53
+  orig: 107, 53
+  offset: 0, 0
+  index: -1
+JP_money1
+  rotate: false
+  xy: 288, 2023
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+JP_text
+  rotate: false
+  xy: 1363, 1936
+  size: 173, 67
+  orig: 173, 67
+  offset: 0, 0
+  index: -1
+JP_text1
+  rotate: false
+  xy: 471, 2017
+  size: 138, 29
+  orig: 138, 29
+  offset: 0, 0
+  index: -1

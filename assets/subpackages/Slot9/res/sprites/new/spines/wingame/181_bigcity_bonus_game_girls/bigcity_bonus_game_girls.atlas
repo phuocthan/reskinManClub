@@ -1,0 +1,83 @@
+
+bigcity_bonus_game.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Girl_A
+  rotate: true
+  xy: 1612, 635
+  size: 196, 281
+  orig: 196, 281
+  offset: 0, 0
+  index: -1
+Girl_A_1
+  rotate: false
+  xy: 1136, 188
+  size: 279, 250
+  orig: 280, 251
+  offset: 0, 1
+  index: -1
+Girl_B
+  rotate: true
+  xy: 1333, 663
+  size: 191, 277
+  orig: 193, 284
+  offset: 1, 7
+  index: -1
+Girl_B_1
+  rotate: true
+  xy: 284, 281
+  size: 240, 277
+  orig: 244, 284
+  offset: 1, 7
+  index: -1
+Girl_C
+  rotate: true
+  xy: 2, 548
+  size: 198, 251
+  orig: 199, 258
+  offset: 1, 7
+  index: -1
+Girl_C_1
+  rotate: true
+  xy: 2, 748
+  size: 189, 251
+  orig: 191, 258
+  offset: 1, 7
+  index: -1
+X1
+  rotate: false
+  xy: 707, 1056
+  size: 165, 96
+  orig: 166, 106
+  offset: 0, 5
+  index: -1
+X2
+  rotate: false
+  xy: 1178, 1044
+  size: 165, 97
+  orig: 166, 107
+  offset: 0, 5
+  index: -1
+X3
+  rotate: false
+  xy: 874, 1055
+  size: 165, 96
+  orig: 166, 107
+  offset: 0, 5
+  index: -1
+X4
+  rotate: false
+  xy: 540, 1062
+  size: 165, 94
+  orig: 166, 106
+  offset: 0, 6
+  index: -1
+X5
+  rotate: false
+  xy: 1345, 1041
+  size: 165, 97
+  orig: 166, 107
+  offset: 0, 5
+  index: -1

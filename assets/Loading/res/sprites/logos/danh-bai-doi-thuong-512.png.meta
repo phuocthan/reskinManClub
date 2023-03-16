@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ac6b41b4-ad67-419a-8a1e-2cd20fb29ec8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "danh-bai-doi-thuong-512": {
+      "ver": "1.0.4",
+      "uuid": "785a717b-3c66-42f2-b5af-01b5a6d5e8b3",
+      "rawTextureUuid": "ac6b41b4-ad67-419a-8a1e-2cd20fb29ec8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 256,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

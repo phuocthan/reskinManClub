@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7608b94d-a771-4e6d-868e-445964af8666",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 246,
+  "height": 69,
+  "platformSettings": {},
+  "subMetas": {
+    "nen win avatar": {
+      "ver": "1.0.4",
+      "uuid": "99ade69f-1762-4892-837a-fd0719c610d0",
+      "rawTextureUuid": "7608b94d-a771-4e6d-868e-445964af8666",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 246,
+      "height": 69,
+      "rawWidth": 246,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

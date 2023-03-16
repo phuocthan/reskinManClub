@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BẦU CUA
+  rotate: true
+  xy: 344, 290
+  size: 220, 87
+  orig: 220, 87
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: false
+  xy: 2, 2
+  size: 116, 135
+  orig: 116, 135
+  offset: 0, 0
+  index: -1
+Group 2
+  rotate: true
+  xy: 120, 11
+  size: 126, 120
+  orig: 126, 120
+  offset: 0, 0
+  index: -1
+Group 3
+  rotate: true
+  xy: 242, 31
+  size: 106, 98
+  orig: 106, 98
+  offset: 0, 0
+  index: -1
+Group 4
+  rotate: false
+  xy: 2, 139
+  size: 281, 371
+  orig: 281, 371
+  offset: 0, 0
+  index: -1
+Layer 1 copy 2
+  rotate: true
+  xy: 342, 24
+  size: 197, 193
+  orig: 203, 208
+  offset: 6, 8
+  index: -1
+icon_vang_small
+  rotate: true
+  xy: 285, 180
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+lb_khung_ten
+  rotate: true
+  xy: 285, 223
+  size: 287, 57
+  orig: 287, 57
+  offset: 0, 0
+  index: -1

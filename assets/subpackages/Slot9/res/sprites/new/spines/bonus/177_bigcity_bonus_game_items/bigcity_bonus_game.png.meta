@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d5bac81c-3bfe-4ac2-a894-fbf61e9d70a0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "bigcity_bonus_game": {
+      "ver": "1.0.4",
+      "uuid": "78c64df1-6737-4624-828c-c9cafecdcde1",
+      "rawTextureUuid": "d5bac81c-3bfe-4ac2-a894-fbf61e9d70a0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -23.5,
+      "offsetY": 412,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1997,
+      "height": 1220,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

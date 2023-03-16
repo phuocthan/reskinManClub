@@ -1,0 +1,27 @@
+
+caidat.png
+size: 130,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidat
+  rotate: true
+  xy: 73, 7
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+de_caidat
+  rotate: false
+  xy: 2, 83
+  size: 126, 43
+  orig: 126, 43
+  offset: 0, 0
+  index: -1
+nut_caidat
+  rotate: false
+  xy: 2, 10
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1

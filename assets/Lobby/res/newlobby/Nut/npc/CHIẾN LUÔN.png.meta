@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f45b639e-a85b-473f-adc3-a28a6227c651",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 230,
+  "height": 62,
+  "platformSettings": {},
+  "subMetas": {
+    "CHIẾN LUÔN": {
+      "ver": "1.0.4",
+      "uuid": "fbdd090f-3bff-4156-9c85-41bc3f6c5d59",
+      "rawTextureUuid": "f45b639e-a85b-473f-adc3-a28a6227c651",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 230,
+      "height": 62,
+      "rawWidth": 230,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

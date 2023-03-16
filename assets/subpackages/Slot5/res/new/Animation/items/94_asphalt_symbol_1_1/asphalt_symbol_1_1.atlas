@@ -1,0 +1,41 @@
+
+asphalt_symbols.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_circle
+  rotate: true
+  xy: 2, 850
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+font_JACKPOT
+  rotate: false
+  xy: 169, 850
+  size: 202, 38
+  orig: 202, 38
+  offset: 0, 0
+  index: -1
+icon_jackpot
+  rotate: true
+  xy: 295, 42
+  size: 158, 133
+  orig: 158, 133
+  offset: 0, 0
+  index: -1
+icon_jackpot_hover
+  rotate: true
+  xy: 317, 689
+  size: 159, 133
+  orig: 159, 133
+  offset: 0, 0
+  index: -1
+icon_jackpot_par
+  rotate: true
+  xy: 305, 524
+  size: 159, 135
+  orig: 159, 135
+  offset: 0, 0
+  index: -1

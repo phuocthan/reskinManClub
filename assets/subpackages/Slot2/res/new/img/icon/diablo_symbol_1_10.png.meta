@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5b152c46-05e7-4f21-9c3e-ad204c669a49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 167,
+  "height": 141,
+  "platformSettings": {},
+  "subMetas": {
+    "diablo_symbol_1_10": {
+      "ver": "1.0.4",
+      "uuid": "501b7a3b-9aaa-4842-9470-6cb7d5e519ae",
+      "rawTextureUuid": "5b152c46-05e7-4f21-9c3e-ad204c669a49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 167,
+      "height": 141,
+      "rawWidth": 167,
+      "rawHeight": 141,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

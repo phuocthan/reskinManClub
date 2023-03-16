@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1928,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AS
+  rotate: false
+  xy: 1698, 2
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+BIGWIN_TEXT
+  rotate: true
+  xy: 2, 60
+  size: 552, 248
+  orig: 552, 248
+  offset: 0, 0
+  index: -1
+BIGWIN_TEXT1
+  rotate: true
+  xy: 1502, 60
+  size: 552, 194
+  orig: 552, 194
+  offset: 0, 0
+  index: -1
+BIGWIN_TEXT2
+  rotate: true
+  xy: 252, 60
+  size: 552, 248
+  orig: 552, 248
+  offset: 0, 0
+  index: -1
+BIGWIN_TEXT3
+  rotate: true
+  xy: 502, 60
+  size: 552, 248
+  orig: 552, 248
+  offset: 0, 0
+  index: -1
+BIGWIN_TEXT4
+  rotate: true
+  xy: 752, 60
+  size: 552, 248
+  orig: 552, 248
+  offset: 0, 0
+  index: -1
+BIGWIN_TEXT5
+  rotate: true
+  xy: 1002, 60
+  size: 552, 248
+  orig: 552, 248
+  offset: 0, 0
+  index: -1
+BIGWIN_TEXT6
+  rotate: true
+  xy: 1252, 60
+  size: 552, 248
+  orig: 552, 248
+  offset: 0, 0
+  index: -1
+Gun
+  rotate: false
+  xy: 1698, 171
+  size: 228, 219
+  orig: 228, 219
+  offset: 0, 0
+  index: -1
+GunT
+  rotate: false
+  xy: 1698, 392
+  size: 228, 220
+  orig: 228, 220
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 2, 22
+  size: 100, 36
+  orig: 100, 36
+  offset: 0, 0
+  index: -1
+xich
+  rotate: false
+  xy: 104, 16
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1

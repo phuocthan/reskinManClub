@@ -1,0 +1,27 @@
+
+effect.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+hit/common_light2
+  rotate: false
+  xy: 2, 200
+  size: 280, 249
+  orig: 280, 249
+  offset: 0, 0
+  index: -1
+hit/common_power2
+  rotate: false
+  xy: 2, 2
+  size: 210, 196
+  orig: 210, 196
+  offset: 0, 0
+  index: -1
+hit/skill1_core
+  rotate: false
+  xy: 284, 321
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

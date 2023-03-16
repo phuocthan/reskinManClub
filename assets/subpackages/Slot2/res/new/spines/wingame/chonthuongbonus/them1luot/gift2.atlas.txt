@@ -1,0 +1,13 @@
+
+gift2.png
+size: 64,64
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_gift3
+  rotate: false
+  xy: 2, 7
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1

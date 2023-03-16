@@ -1,0 +1,13 @@
+
+item_tom.png
+size: 128,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+tomitem
+  rotate: false
+  xy: 2, 2
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1

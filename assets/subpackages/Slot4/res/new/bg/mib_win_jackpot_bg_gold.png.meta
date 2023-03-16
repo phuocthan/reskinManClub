@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "611c6397-f561-4c9e-bdcf-d7ad22dd0612",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 508,
+  "height": 136,
+  "platformSettings": {},
+  "subMetas": {
+    "mib_win_jackpot_bg_gold": {
+      "ver": "1.0.4",
+      "uuid": "72228da4-c4df-4e91-ac95-631a4120e44f",
+      "rawTextureUuid": "611c6397-f561-4c9e-bdcf-d7ad22dd0612",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 504,
+      "height": 133,
+      "rawWidth": 508,
+      "rawHeight": 136,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,48 @@
+
+vippoint.png
+size: 152,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+de_vippoint
+  rotate: false
+  xy: 2, 105
+  size: 126, 43
+  orig: 126, 43
+  offset: 0, 0
+  index: -1
+nut_vippoint
+  rotate: false
+  xy: 2, 33
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+vippoint
+  rotate: false
+  xy: 2, 8
+  size: 86, 23
+  orig: 86, 23
+  offset: 0, 0
+  index: -1
+vp_bai1
+  rotate: false
+  xy: 120, 42
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+vp_bai2
+  rotate: true
+  xy: 120, 72
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+vp_che
+  rotate: true
+  xy: 100, 49
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+diablo_symbols.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JACKPOT
+  rotate: false
+  xy: 2, 949
+  size: 159, 48
+  orig: 159, 48
+  offset: 0, 0
+  index: -1
+icon_jackpot_light
+  rotate: true
+  xy: 660, 1057
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+icon_jackpot_non
+  rotate: true
+  xy: 492, 1049
+  size: 138, 155
+  orig: 138, 155
+  offset: 0, 0
+  index: -1
+jackpot_FX/jackpot_00002
+  rotate: false
+  xy: 817, 1063
+  size: 16, 32
+  orig: 75, 75
+  offset: 6, 36
+  index: -1
+jackpot_FX/jackpot_00003
+  rotate: false
+  xy: 817, 1097
+  size: 16, 34
+  orig: 75, 75
+  offset: 6, 34
+  index: -1
+jackpot_FX/jackpot_00004
+  rotate: false
+  xy: 105, 121
+  size: 70, 61
+  orig: 75, 75
+  offset: 5, 7
+  index: -1
+jackpot_FX/jackpot_00005
+  rotate: true
+  xy: 514, 257
+  size: 72, 64
+  orig: 75, 75
+  offset: 3, 11
+  index: -1
+jackpot_FX/jackpot_00006
+  rotate: false
+  xy: 325, 201
+  size: 72, 64
+  orig: 75, 75
+  offset: 3, 11
+  index: -1
+jackpot_FX/jackpot_00007
+  rotate: false
+  xy: 910, 53
+  size: 74, 63
+  orig: 75, 75
+  offset: 1, 12
+  index: -1
+jackpot_FX/jackpot_00008
+  rotate: false
+  xy: 749, 471
+  size: 75, 72
+  orig: 75, 75
+  offset: 0, 3
+  index: -1
+jackpot_FX/jackpot_00009
+  rotate: false
+  xy: 750, 545
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+jackpot_FX/jackpot_00010
+  rotate: true
+  xy: 749, 397
+  size: 72, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+jackpot_FX/jackpot_00011
+  rotate: true
+  xy: 940, 425
+  size: 72, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+jackpot_FX/jackpot_00012
+  rotate: true
+  xy: 940, 354
+  size: 69, 75
+  orig: 75, 75
+  offset: 3, 0
+  index: -1
+jackpot_FX/jackpot_00013
+  rotate: false
+  xy: 556, 533
+  size: 70, 74
+  orig: 75, 75
+  offset: 2, 0
+  index: -1
+jackpot_FX/jackpot_00014
+  rotate: true
+  xy: 940, 283
+  size: 69, 75
+  orig: 75, 75
+  offset: 3, 0
+  index: -1
+jackpot_FX/jackpot_00015
+  rotate: true
+  xy: 742, 329
+  size: 66, 75
+  orig: 75, 75
+  offset: 4, 0
+  index: -1
+jackpot_FX/jackpot_00016
+  rotate: true
+  xy: 737, 261
+  size: 66, 75
+  orig: 75, 75
+  offset: 4, 0
+  index: -1
+jackpot_FX/jackpot_00017
+  rotate: true
+  xy: 910, 118
+  size: 64, 75
+  orig: 75, 75
+  offset: 6, 0
+  index: -1
+jackpot_FX/jackpot_00018
+  rotate: true
+  xy: 733, 193
+  size: 66, 75
+  orig: 75, 75
+  offset: 6, 0
+  index: -1
+jackpot_FX/jackpot_00019
+  rotate: true
+  xy: 556, 609
+  size: 72, 71
+  orig: 75, 75
+  offset: 2, 4
+  index: -1
+jackpot_FX/jackpot_00020
+  rotate: false
+  xy: 439, 261
+  size: 73, 68
+  orig: 75, 75
+  offset: 1, 7
+  index: -1
+jackpot_FX/jackpot_00021
+  rotate: true
+  xy: 965, 705
+  size: 72, 57
+  orig: 75, 75
+  offset: 0, 7
+  index: -1
+jackpot_FX/jackpot_00022
+  rotate: true
+  xy: 964, 499
+  size: 69, 54
+  orig: 75, 75
+  offset: 0, 11
+  index: -1
+jackpot_FX/jackpot_00023
+  rotate: true
+  xy: 964, 570
+  size: 67, 55
+  orig: 75, 75
+  offset: 0, 10
+  index: -1
+jackpot_FX/jackpot_00024
+  rotate: false
+  xy: 786, 880
+  size: 25, 33
+  orig: 75, 75
+  offset: 3, 8
+  index: -1
+jackpot_FX/jackpot_00025
+  rotate: false
+  xy: 817, 1133
+  size: 21, 29
+  orig: 75, 75
+  offset: 7, 8
+  index: -1
+light
+  rotate: false
+  xy: 330, 1132
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+side
+  rotate: false
+  xy: 817, 906
+  size: 15, 155
+  orig: 15, 155
+  offset: 0, 0
+  index: -1

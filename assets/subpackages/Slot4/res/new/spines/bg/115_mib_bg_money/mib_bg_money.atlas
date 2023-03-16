@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 301,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ingme_num_totalmoney
+  rotate: false
+  xy: 2, 34
+  size: 297, 124
+  orig: 297, 124
+  offset: 0, 0
+  index: -1
+totalmoney
+  rotate: false
+  xy: 2, 2
+  size: 175, 30
+  orig: 175, 30
+  offset: 0, 0
+  index: -1

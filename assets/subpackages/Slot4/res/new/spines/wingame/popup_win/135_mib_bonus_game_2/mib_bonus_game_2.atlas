@@ -1,0 +1,139 @@
+
+mib_bonus_game.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alien1_1
+  rotate: true
+  xy: 838, 806
+  size: 104, 141
+  orig: 104, 141
+  offset: 0, 0
+  index: -1
+alien1_2
+  rotate: true
+  xy: 1319, 587
+  size: 206, 222
+  orig: 206, 222
+  offset: 0, 0
+  index: -1
+alien1_3
+  rotate: true
+  xy: 266, 939
+  size: 43, 124
+  orig: 43, 124
+  offset: 0, 0
+  index: -1
+alien1_4
+  rotate: true
+  xy: 132, 946
+  size: 36, 132
+  orig: 36, 132
+  offset: 0, 0
+  index: -1
+alien1_5
+  rotate: true
+  xy: 534, 820
+  size: 90, 167
+  orig: 90, 167
+  offset: 0, 0
+  index: -1
+alien1_6
+  rotate: true
+  xy: 392, 920
+  size: 62, 140
+  orig: 62, 140
+  offset: 0, 0
+  index: -1
+alien1_6-2
+  rotate: true
+  xy: 1418, 907
+  size: 75, 150
+  orig: 75, 150
+  offset: 0, 0
+  index: -1
+alien2_1
+  rotate: false
+  xy: 301, 688
+  size: 152, 131
+  orig: 152, 131
+  offset: 0, 0
+  index: -1
+alien2_2
+  rotate: true
+  xy: 1285, 908
+  size: 74, 131
+  orig: 74, 131
+  offset: 0, 0
+  index: -1
+alien2_3
+  rotate: true
+  xy: 249, 838
+  size: 99, 135
+  orig: 99, 135
+  offset: 0, 0
+  index: -1
+alien3_1
+  rotate: false
+  xy: 1543, 576
+  size: 217, 207
+  orig: 217, 207
+  offset: 0, 0
+  index: -1
+alien3_2
+  rotate: true
+  xy: 111, 854
+  size: 90, 136
+  orig: 90, 136
+  offset: 0, 0
+  index: -1
+alien3_4
+  rotate: true
+  xy: 1570, 902
+  size: 80, 124
+  orig: 80, 124
+  offset: 0, 0
+  index: -1
+alien4_1
+  rotate: true
+  xy: 1144, 631
+  size: 162, 173
+  orig: 162, 173
+  offset: 0, 0
+  index: -1
+alien4_2
+  rotate: true
+  xy: 1128, 910
+  size: 72, 155
+  orig: 72, 155
+  offset: 0, 0
+  index: -1
+alien4_3
+  rotate: true
+  xy: 386, 821
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+alien5_1
+  rotate: true
+  xy: 965, 632
+  size: 161, 177
+  orig: 161, 177
+  offset: 0, 0
+  index: -1
+alien5_2
+  rotate: true
+  xy: 1696, 902
+  size: 80, 141
+  orig: 80, 141
+  offset: 0, 0
+  index: -1
+alien5_3
+  rotate: true
+  xy: 1839, 899
+  size: 83, 121
+  orig: 83, 121
+  offset: 0, 0
+  index: -1

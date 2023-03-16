@@ -1,0 +1,321 @@
+
+tengame.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bang
+  rotate: false
+  xy: 2, 744
+  size: 552, 219
+  orig: 552, 219
+  offset: 0, 0
+  index: -1
+cang1
+  rotate: false
+  xy: 954, 968
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+cang2
+  rotate: true
+  xy: 954, 920
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+cang3
+  rotate: false
+  xy: 456, 184
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+cang4
+  rotate: false
+  xy: 964, 843
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+chonocuoc
+  rotate: false
+  xy: 406, 633
+  size: 127, 109
+  orig: 127, 109
+  offset: 0, 0
+  index: -1
+cua
+  rotate: false
+  xy: 556, 861
+  size: 160, 102
+  orig: 160, 102
+  offset: 0, 0
+  index: -1
+elect/elect_00
+  rotate: false
+  xy: 556, 759
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_01
+  rotate: false
+  xy: 406, 531
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_02
+  rotate: false
+  xy: 109, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_03
+  rotate: false
+  xy: 406, 429
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_04
+  rotate: false
+  xy: 211, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_05
+  rotate: false
+  xy: 406, 327
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_06
+  rotate: false
+  xy: 406, 225
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_07
+  rotate: false
+  xy: 313, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_08
+  rotate: false
+  xy: 658, 759
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_09
+  rotate: false
+  xy: 750, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect/elect_11
+  rotate: false
+  xy: 852, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+elect1/elect1_00
+  rotate: false
+  xy: 2, 340
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+elect1/elect1_02
+  rotate: false
+  xy: 204, 542
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+elect1/elect1_04
+  rotate: false
+  xy: 2, 138
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+elect1/elect1_06
+  rotate: false
+  xy: 204, 340
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+elect1/elect1_09
+  rotate: false
+  xy: 204, 138
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+elect1/elect1_11
+  rotate: false
+  xy: 2, 542
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 1004, 1004
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+khunglogo
+  rotate: false
+  xy: 2, 965
+  size: 746, 55
+  orig: 746, 55
+  offset: 0, 0
+  index: -1
+spark/spark_00
+  rotate: false
+  xy: 760, 818
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_01
+  rotate: false
+  xy: 862, 818
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_02
+  rotate: false
+  xy: 760, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_03
+  rotate: false
+  xy: 862, 716
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_04
+  rotate: false
+  xy: 508, 531
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_05
+  rotate: false
+  xy: 508, 429
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_06
+  rotate: false
+  xy: 508, 327
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_08
+  rotate: false
+  xy: 508, 225
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_10
+  rotate: false
+  xy: 535, 642
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_12
+  rotate: false
+  xy: 637, 657
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_14
+  rotate: false
+  xy: 739, 614
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spark/spark_16
+  rotate: false
+  xy: 841, 614
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+text/A
+  rotate: false
+  xy: 406, 164
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+text/A2
+  rotate: false
+  xy: 964, 746
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+text/B
+  rotate: true
+  xy: 964, 868
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+text/C
+  rotate: false
+  xy: 519, 181
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+text/U2
+  rotate: false
+  xy: 964, 794
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+xoaylogo
+  rotate: false
+  xy: 2, 32
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1

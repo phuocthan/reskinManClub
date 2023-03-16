@@ -1,0 +1,97 @@
+
+effect.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/spark/spark_00
+  rotate: false
+  xy: 2, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_01
+  rotate: false
+  xy: 2, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_02
+  rotate: false
+  xy: 204, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_03
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_04
+  rotate: false
+  xy: 204, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_05
+  rotate: false
+  xy: 406, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_06
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_07
+  rotate: false
+  xy: 204, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_08
+  rotate: false
+  xy: 406, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_09
+  rotate: false
+  xy: 608, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_10
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_11
+  rotate: false
+  xy: 204, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/spark/spark_12
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

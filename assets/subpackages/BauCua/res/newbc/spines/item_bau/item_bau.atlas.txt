@@ -1,0 +1,13 @@
+
+item_bau.png
+size: 128,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bauitem
+  rotate: false
+  xy: 2, 2
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1

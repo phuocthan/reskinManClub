@@ -1,0 +1,48 @@
+
+mib_main_ui.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ellipse 3
+  rotate: false
+  xy: 902, 141
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+Ellipse 4
+  rotate: true
+  xy: 563, 87
+  size: 119, 133
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+effect_2
+  rotate: true
+  xy: 233, 9
+  size: 17, 153
+  orig: 17, 154
+  offset: 0, 1
+  index: -1
+totalbet_1
+  rotate: false
+  xy: 303, 82
+  size: 258, 102
+  orig: 258, 102
+  offset: 0, 0
+  index: -1
+totalbet_3
+  rotate: false
+  xy: 529, 208
+  size: 141, 116
+  orig: 141, 116
+  offset: 0, 0
+  index: -1
+totalbet_4
+  rotate: true
+  xy: 2, 178
+  size: 332, 226
+  orig: 332, 226
+  offset: 0, 0
+  index: -1

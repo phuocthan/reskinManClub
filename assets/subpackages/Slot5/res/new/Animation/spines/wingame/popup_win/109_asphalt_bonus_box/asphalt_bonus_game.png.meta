@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1eafe0af-5103-439b-997c-f378774bde46",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "asphalt_bonus_game": {
+      "ver": "1.0.4",
+      "uuid": "97380918-36e4-4cf9-a488-2f1bae45b353",
+      "rawTextureUuid": "1eafe0af-5103-439b-997c-f378774bde46",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 3.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2040,
+      "height": 2037,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

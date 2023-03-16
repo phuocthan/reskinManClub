@@ -1,0 +1,20 @@
+
+select_bonus.png
+size: 512,512
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_select1
+  rotate: false
+  xy: 2, 139
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+1_unselect1
+  rotate: false
+  xy: 2, 2
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1

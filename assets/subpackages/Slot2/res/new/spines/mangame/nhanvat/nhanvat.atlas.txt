@@ -1,0 +1,273 @@
+
+nhanvat.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+2_head
+  rotate: false
+  xy: 846, 656
+  size: 123, 150
+  orig: 123, 150
+  offset: 0, 0
+  index: -1
+2_head_xe
+  rotate: false
+  xy: 846, 808
+  size: 151, 196
+  orig: 151, 196
+  offset: 0, 0
+  index: -1
+2_khan
+  rotate: false
+  xy: 846, 569
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+2_light
+  rotate: false
+  xy: 846, 519
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+effect/storm/21 (1)
+  rotate: false
+  xy: 2, 504
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (10)
+  rotate: false
+  xy: 2, 2
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (11)
+  rotate: false
+  xy: 424, 504
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (12)
+  rotate: false
+  xy: 424, 2
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+
+nhanvat2.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/storm/21 (13)
+  rotate: false
+  xy: 2, 504
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (14)
+  rotate: false
+  xy: 2, 2
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (15)
+  rotate: false
+  xy: 424, 504
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (2)
+  rotate: false
+  xy: 424, 2
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+
+nhanvat3.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/storm/21 (3)
+  rotate: false
+  xy: 2, 504
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (4)
+  rotate: false
+  xy: 2, 2
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (5)
+  rotate: false
+  xy: 424, 504
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (6)
+  rotate: false
+  xy: 424, 2
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+
+nhanvat4.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+2_body
+  rotate: true
+  xy: 424, 2
+  size: 236, 214
+  orig: 236, 214
+  offset: 0, 0
+  index: -1
+effect/sand/1 (1)
+  rotate: false
+  xy: 424, 240
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (13)
+  rotate: false
+  xy: 424, 240
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/storm/21 (7)
+  rotate: false
+  xy: 2, 522
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (8)
+  rotate: false
+  xy: 2, 20
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+effect/storm/21 (9)
+  rotate: true
+  xy: 424, 602
+  size: 420, 500
+  orig: 420, 500
+  offset: 0, 0
+  index: -1
+
+nhanvat5.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/sand/1 (10)
+  rotate: false
+  xy: 2, 364
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (11)
+  rotate: false
+  xy: 2, 2
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (12)
+  rotate: false
+  xy: 404, 364
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (2)
+  rotate: false
+  xy: 404, 2
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+
+nhanvat6.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/sand/1 (3)
+  rotate: false
+  xy: 2, 364
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (4)
+  rotate: false
+  xy: 2, 2
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (5)
+  rotate: false
+  xy: 404, 364
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (6)
+  rotate: false
+  xy: 404, 2
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+
+nhanvat7.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+effect/sand/1 (7)
+  rotate: false
+  xy: 2, 364
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (8)
+  rotate: false
+  xy: 2, 2
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1
+effect/sand/1 (9)
+  rotate: false
+  xy: 404, 364
+  size: 400, 360
+  orig: 400, 360
+  offset: 0, 0
+  index: -1

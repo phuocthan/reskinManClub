@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 660,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+433-4339128_scary-smoke-face-halloween-dark-light-creature
+  rotate: true
+  xy: 2, 322
+  size: 583, 637
+  orig: 583, 637
+  offset: 0, 0
+  index: -1
+5k
+  rotate: false
+  xy: 487, 57
+  size: 85, 69
+  orig: 85, 69
+  offset: 0, 0
+  index: -1
+bet_3
+  rotate: true
+  xy: 2, 2
+  size: 318, 483
+  orig: 318, 483
+  offset: 0, 0
+  index: -1
+eye light
+  rotate: false
+  xy: 574, 103
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+skull_3
+  rotate: true
+  xy: 487, 128
+  size: 192, 171
+  orig: 192, 171
+  offset: 0, 0
+  index: -1

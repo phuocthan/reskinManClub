@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "84752cbd-533b-4d6f-9e35-017643c353d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 106,
+  "height": 112,
+  "platformSettings": {},
+  "subMetas": {
+    "RÚT CHIP": {
+      "ver": "1.0.4",
+      "uuid": "71d96dd0-5289-4afb-9879-6ccc07d7a734",
+      "rawTextureUuid": "84752cbd-533b-4d6f-9e35-017643c353d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 106,
+      "height": 112,
+      "rawWidth": 106,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

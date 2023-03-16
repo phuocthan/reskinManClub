@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 325,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_DEMO
+  rotate: false
+  xy: 2, 51
+  size: 321, 78
+  orig: 321, 78
+  offset: 0, 0
+  index: -1
+icon/back_1
+  rotate: false
+  xy: 163, 2
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1
+icon/back_2
+  rotate: false
+  xy: 2, 2
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "uV2YZANh2q9asZcLf6DsDdr+hvs", "spine": "3.6.53", "width": 151, "height": 135, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "1", "parent": "root", "x": 348.5, "y": -115.5 },
+	{ "name": "1_select1", "parent": "1", "x": -375.1, "y": 80.19 },
+	{ "name": "EF_spark", "parent": "1_select1", "x": 21.33, "y": 35.04 }
+],
+"slots": [
+	{ "name": "effect/spark/spark_00", "bone": "EF_spark", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"effect/spark/spark_00": {
+			"effect/spark/spark_00": { "width": 200, "height": 200 },
+			"effect/spark/spark_01": { "width": 200, "height": 200 },
+			"effect/spark/spark_02": { "width": 200, "height": 200 },
+			"effect/spark/spark_03": { "width": 200, "height": 200 },
+			"effect/spark/spark_04": { "width": 200, "height": 200 },
+			"effect/spark/spark_05": { "width": 200, "height": 200 },
+			"effect/spark/spark_06": { "width": 200, "height": 200 },
+			"effect/spark/spark_07": { "width": 200, "height": 200 },
+			"effect/spark/spark_08": { "width": 200, "height": 200 },
+			"effect/spark/spark_09": { "width": 200, "height": 200 },
+			"effect/spark/spark_10": { "width": 200, "height": 200 },
+			"effect/spark/spark_11": { "width": 200, "height": 200 },
+			"effect/spark/spark_12": { "width": 200, "height": 200 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"effect/spark/spark_00": {
+				"attachment": [
+					{ "time": 0.1667, "name": "effect/spark/spark_00" },
+					{ "time": 0.2, "name": "effect/spark/spark_01" },
+					{ "time": 0.2333, "name": "effect/spark/spark_02" },
+					{ "time": 0.2667, "name": "effect/spark/spark_03" },
+					{ "time": 0.3, "name": "effect/spark/spark_04" },
+					{ "time": 0.3333, "name": "effect/spark/spark_05" },
+					{ "time": 0.3667, "name": "effect/spark/spark_06" },
+					{ "time": 0.4, "name": "effect/spark/spark_07" },
+					{ "time": 0.4333, "name": "effect/spark/spark_08" },
+					{ "time": 0.4667, "name": "effect/spark/spark_09" },
+					{ "time": 0.5, "name": "effect/spark/spark_10" },
+					{ "time": 0.5333, "name": "effect/spark/spark_11" },
+					{ "time": 0.5667, "name": "effect/spark/spark_12" },
+					{ "time": 0.6, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,13 @@
+
+item_cua.png
+size: 128,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+cuaitem
+  rotate: false
+  xy: 2, 37
+  size: 117, 80
+  orig: 117, 80
+  offset: 0, 0
+  index: -1

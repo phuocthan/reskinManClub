@@ -1,0 +1,27 @@
+
+mib_symbols.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: false
+  xy: 122, 468
+  size: 122, 83
+  orig: 122, 83
+  offset: 0, 0
+  index: -1
+BONUS_2
+  rotate: true
+  xy: 910, 316
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+BONUS_glow
+  rotate: false
+  xy: 2, 479
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+xamco.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+electtext1/electtext1_00
+  rotate: false
+  xy: 2, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_02
+  rotate: false
+  xy: 2, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_03
+  rotate: false
+  xy: 204, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_05
+  rotate: false
+  xy: 2, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_06
+  rotate: false
+  xy: 204, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_08
+  rotate: false
+  xy: 406, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_09
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_10
+  rotate: false
+  xy: 204, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_11
+  rotate: false
+  xy: 406, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_12
+  rotate: false
+  xy: 608, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_13
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_14
+  rotate: false
+  xy: 204, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+electtext1/electtext1_15
+  rotate: false
+  xy: 406, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+xamco
+  rotate: true
+  xy: 608, 484
+  size: 324, 71
+  orig: 324, 71
+  offset: 0, 0
+  index: -1

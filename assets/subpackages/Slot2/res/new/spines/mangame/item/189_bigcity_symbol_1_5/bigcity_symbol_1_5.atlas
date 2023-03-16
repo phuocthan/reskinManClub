@@ -1,0 +1,27 @@
+
+Bigcity_symbol.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rolex
+  rotate: false
+  xy: 1257, 1939
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+rolex_light
+  rotate: false
+  xy: 228, 2026
+  size: 23, 20
+  orig: 28, 27
+  offset: 0, 4
+  index: -1
+rolex_light_2
+  rotate: false
+  xy: 152, 1447
+  size: 154, 144
+  orig: 154, 144
+  offset: 0, 0
+  index: -1

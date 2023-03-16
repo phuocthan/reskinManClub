@@ -1,0 +1,13 @@
+
+item_ga.png
+size: 128,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+gaitem
+  rotate: false
+  xy: 2, 2
+  size: 80, 92
+  orig: 80, 92
+  offset: 0, 0
+  index: -1

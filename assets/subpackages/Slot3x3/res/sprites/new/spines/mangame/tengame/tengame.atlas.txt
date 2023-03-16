@@ -1,0 +1,300 @@
+
+tengame.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+C
+  rotate: false
+  xy: 463, 640
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 2, 2
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+F
+  rotate: true
+  xy: 43, 3
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 982, 983
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 463, 681
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 410, 579
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 982, 942
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+Y
+  rotate: false
+  xy: 308, 69
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+effect/explo/explo_03
+  rotate: false
+  xy: 763, 718
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_04
+  rotate: false
+  xy: 865, 718
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_06
+  rotate: false
+  xy: 157, 620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_08
+  rotate: false
+  xy: 259, 620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_10
+  rotate: false
+  xy: 361, 620
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_12
+  rotate: false
+  xy: 104, 518
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_14
+  rotate: false
+  xy: 104, 416
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_16
+  rotate: false
+  xy: 206, 518
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_18
+  rotate: false
+  xy: 104, 314
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_20
+  rotate: false
+  xy: 206, 416
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_22
+  rotate: false
+  xy: 308, 518
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_24
+  rotate: false
+  xy: 104, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_26
+  rotate: false
+  xy: 206, 314
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_28
+  rotate: false
+  xy: 308, 416
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_30
+  rotate: false
+  xy: 104, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_32
+  rotate: false
+  xy: 206, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_34
+  rotate: false
+  xy: 308, 314
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_36
+  rotate: false
+  xy: 206, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_38
+  rotate: false
+  xy: 308, 212
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_40
+  rotate: false
+  xy: 308, 110
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_42
+  rotate: false
+  xy: 104, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/explo/explo_44
+  rotate: false
+  xy: 206, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_00
+  rotate: false
+  xy: 578, 922
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_01
+  rotate: true
+  xy: 2, 441
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_02
+  rotate: false
+  xy: 157, 722
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_03
+  rotate: false
+  xy: 780, 922
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_04
+  rotate: true
+  xy: 2, 239
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_05
+  rotate: false
+  xy: 359, 722
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_06
+  rotate: true
+  xy: 2, 37
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_07
+  rotate: false
+  xy: 578, 820
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_08
+  rotate: false
+  xy: 780, 820
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_09
+  rotate: false
+  xy: 561, 718
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 824
+  size: 574, 198
+  orig: 574, 198
+  offset: 0, 0
+  index: -1
+maybay
+  rotate: false
+  xy: 2, 643
+  size: 153, 179
+  orig: 153, 179
+  offset: 0, 0
+  index: -1

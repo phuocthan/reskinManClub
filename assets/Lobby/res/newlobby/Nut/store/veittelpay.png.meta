@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f82936a2-36a1-44e5-bc14-6772b53b9505",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 131,
+  "height": 85,
+  "platformSettings": {},
+  "subMetas": {
+    "veittelpay": {
+      "ver": "1.0.4",
+      "uuid": "cfbee07e-9a30-4b4d-9bd4-b01429e631d2",
+      "rawTextureUuid": "f82936a2-36a1-44e5-bc14-6772b53b9505",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 131,
+      "height": 85,
+      "rawWidth": 131,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

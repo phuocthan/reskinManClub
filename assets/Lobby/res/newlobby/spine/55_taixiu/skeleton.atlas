@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: true
+  xy: 661, 86
+  size: 385, 219
+  orig: 385, 219
+  offset: 0, 0
+  index: -1
+Layer 1 copy 4
+  rotate: true
+  xy: 882, 125
+  size: 191, 89
+  orig: 191, 89
+  offset: 0, 0
+  index: -1
+abstract
+  rotate: false
+  xy: 2, 112
+  size: 290, 359
+  orig: 290, 359
+  offset: 0, 0
+  index: -1
+baseAB
+  rotate: true
+  xy: 294, 196
+  size: 275, 365
+  orig: 275, 365
+  offset: 0, 0
+  index: -1
+dice_1
+  rotate: false
+  xy: 882, 318
+  size: 140, 153
+  orig: 140, 153
+  offset: 0, 0
+  index: -1
+dice_2
+  rotate: false
+  xy: 488, 80
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+dice_3
+  rotate: false
+  xy: 389, 16
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+led_1
+  rotate: false
+  xy: 294, 106
+  size: 192, 88
+  orig: 192, 88
+  offset: 0, 0
+  index: -1
+led_1-2
+  rotate: false
+  xy: 2, 19
+  size: 196, 91
+  orig: 196, 91
+  offset: 0, 0
+  index: -1
+led_2
+  rotate: false
+  xy: 200, 15
+  size: 187, 89
+  orig: 187, 89
+  offset: 0, 0
+  index: -1
+tài
+  rotate: true
+  xy: 480, 2
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+xỉu
+  rotate: true
+  xy: 564, 4
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1

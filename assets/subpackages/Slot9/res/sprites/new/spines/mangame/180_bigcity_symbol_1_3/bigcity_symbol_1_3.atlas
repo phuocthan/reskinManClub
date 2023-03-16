@@ -1,0 +1,48 @@
+
+Bigcity_symbol.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g2_bg
+  rotate: false
+  xy: 1879, 1507
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+g2_body
+  rotate: false
+  xy: 2, 1718
+  size: 98, 92
+  orig: 99, 92
+  offset: 1, 0
+  index: -1
+g2_hand
+  rotate: true
+  xy: 93, 1977
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+g2_head
+  rotate: true
+  xy: 1629, 1929
+  size: 71, 93
+  orig: 71, 93
+  offset: 0, 0
+  index: -1
+g2_khung
+  rotate: false
+  xy: 580, 1415
+  size: 156, 150
+  orig: 156, 150
+  offset: 0, 0
+  index: -1
+g2_light
+  rotate: true
+  xy: 728, 2016
+  size: 30, 34
+  orig: 30, 37
+  offset: 0, 3
+  index: -1

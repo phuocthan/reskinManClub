@@ -1,0 +1,20 @@
+
+item3.png
+size: 256,256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+K33wU
+  rotate: false
+  xy: 2, 2
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+it2
+  rotate: false
+  xy: 2, 70
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1

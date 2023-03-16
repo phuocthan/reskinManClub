@@ -1,0 +1,139 @@
+
+thungphasanh.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+electtext2/electtext2_02
+  rotate: false
+  xy: 2, 1746
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_03
+  rotate: false
+  xy: 2, 1528
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_04
+  rotate: false
+  xy: 2, 1310
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_05
+  rotate: false
+  xy: 2, 1092
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_06
+  rotate: false
+  xy: 2, 874
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_07
+  rotate: false
+  xy: 2, 656
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_08
+  rotate: false
+  xy: 2, 438
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_09
+  rotate: false
+  xy: 2, 220
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_10
+  rotate: false
+  xy: 2, 2
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_11
+  rotate: true
+  xy: 388, 1578
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_12
+  rotate: true
+  xy: 388, 1192
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_13
+  rotate: true
+  xy: 388, 806
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_14
+  rotate: true
+  xy: 388, 420
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_15
+  rotate: true
+  xy: 388, 34
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_16
+  rotate: false
+  xy: 606, 1822
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_17
+  rotate: false
+  xy: 606, 1604
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_18
+  rotate: false
+  xy: 992, 1822
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_19
+  rotate: false
+  xy: 606, 1386
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+thungphasanh
+  rotate: false
+  xy: 2, 1964
+  size: 579, 74
+  orig: 579, 74
+  offset: 0, 0
+  index: -1

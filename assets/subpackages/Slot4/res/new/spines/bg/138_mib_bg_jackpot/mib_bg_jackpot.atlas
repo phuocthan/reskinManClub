@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 336,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ingme_num_jackpot
+  rotate: false
+  xy: 2, 11
+  size: 299, 124
+  orig: 299, 124
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: true
+  xy: 303, 2
+  size: 133, 31
+  orig: 133, 33
+  offset: 0, 1
+  index: -1

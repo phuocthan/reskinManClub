@@ -1,0 +1,209 @@
+
+btn_batdau.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+btn/btn_01
+  rotate: false
+  xy: 2, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_02
+  rotate: false
+  xy: 2, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_03
+  rotate: false
+  xy: 304, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_04
+  rotate: false
+  xy: 2, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_05
+  rotate: false
+  xy: 304, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_06
+  rotate: false
+  xy: 606, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_07
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_08
+  rotate: false
+  xy: 304, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_09
+  rotate: false
+  xy: 606, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_10
+  rotate: false
+  xy: 908, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_11
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_12
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_13
+  rotate: false
+  xy: 606, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_14
+  rotate: false
+  xy: 908, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_15
+  rotate: false
+  xy: 1210, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_16
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_17
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_18
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_19
+  rotate: false
+  xy: 908, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_20
+  rotate: false
+  xy: 1210, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_21
+  rotate: false
+  xy: 1512, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_22
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_23
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_24
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_25
+  rotate: false
+  xy: 1210, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_26
+  rotate: false
+  xy: 1512, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_27
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_28
+  rotate: false
+  xy: 908, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+btn/btn_29
+  rotate: false
+  xy: 1210, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1

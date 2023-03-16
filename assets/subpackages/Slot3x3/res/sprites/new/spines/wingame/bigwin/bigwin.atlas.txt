@@ -1,0 +1,111 @@
+
+bigwin.png
+size: 1024,1024
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+1_bigwin
+  rotate: true
+  xy: 935, 790
+  size: 199, 56
+  orig: 199, 56
+  offset: 0, 0
+  index: -1
+1_khung
+  rotate: false
+  xy: 2, 635
+  size: 385, 104
+  orig: 385, 104
+  offset: 0, 0
+  index: -1
+1_line
+  rotate: false
+  xy: 2, 741
+  size: 643, 248
+  orig: 643, 248
+  offset: 0, 0
+  index: -1
+1_maybay
+  rotate: false
+  xy: 647, 750
+  size: 184, 239
+  orig: 184, 239
+  offset: 0, 0
+  index: -1
+effect/spark/spark_00
+  rotate: false
+  xy: 389, 639
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_01
+  rotate: true
+  xy: 833, 789
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_02
+  rotate: false
+  xy: 2, 410
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_03
+  rotate: false
+  xy: 2, 308
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_04
+  rotate: false
+  xy: 2, 206
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_05
+  rotate: false
+  xy: 2, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_06
+  rotate: false
+  xy: 2, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_07
+  rotate: true
+  xy: 204, 310
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_08
+  rotate: true
+  xy: 204, 108
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+effect/spark/spark_09
+  rotate: false
+  xy: 247, 533
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+sp1_stream1
+  rotate: false
+  xy: 2, 512
+  size: 243, 121
+  orig: 243, 121
+  offset: 0, 0
+  index: -1

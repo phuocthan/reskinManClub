@@ -1,0 +1,27 @@
+
+asphalt_symbols.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_gold
+  rotate: true
+  xy: 1000, 3
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: -1
+icon_gold_hover
+  rotate: false
+  xy: 591, 706
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+icon_gold_par
+  rotate: true
+  xy: 846, 280
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1

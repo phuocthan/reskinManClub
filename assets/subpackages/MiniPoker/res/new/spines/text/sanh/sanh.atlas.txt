@@ -1,0 +1,139 @@
+
+sanh.png
+size: 2048,2048
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+electtext2/electtext2_02
+  rotate: false
+  xy: 2, 1712
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_03
+  rotate: false
+  xy: 2, 1494
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_04
+  rotate: false
+  xy: 388, 1712
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_05
+  rotate: false
+  xy: 2, 1276
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_06
+  rotate: false
+  xy: 388, 1494
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_07
+  rotate: false
+  xy: 774, 1712
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_08
+  rotate: false
+  xy: 2, 1058
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_09
+  rotate: false
+  xy: 388, 1276
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_10
+  rotate: false
+  xy: 774, 1494
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_11
+  rotate: false
+  xy: 1160, 1712
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_12
+  rotate: false
+  xy: 2, 840
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_13
+  rotate: false
+  xy: 388, 1058
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_14
+  rotate: false
+  xy: 774, 1276
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_15
+  rotate: false
+  xy: 1160, 1494
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_16
+  rotate: false
+  xy: 1546, 1712
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_17
+  rotate: false
+  xy: 2, 622
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_18
+  rotate: false
+  xy: 388, 840
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+electtext2/electtext2_19
+  rotate: false
+  xy: 774, 1058
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1
+sanh
+  rotate: false
+  xy: 1160, 1418
+  size: 231, 74
+  orig: 231, 74
+  offset: 0, 0
+  index: -1

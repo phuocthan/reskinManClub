@@ -1,0 +1,76 @@
+
+asphalt_main_ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 44
+  rotate: false
+  xy: 1809, 251
+  size: 203, 204
+  orig: 203, 204
+  offset: 0, 0
+  index: -
+finger
+  rotate: false
+  xy: 1506, 232
+  size: 301, 194
+  orig: 302, 195
+  offset: 1, 1
+  index: -1
+hold to
+  rotate: true
+  xy: 711, 711
+  size: 330, 37
+  orig: 330, 37
+  offset: 0, 0
+  index: -1
+rou
+  rotate: true
+  xy: 984, 1325
+  size: 141, 41
+  orig: 141, 41
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 469, 1633
+  size: 412, 413
+  orig: 414, 414
+  offset: 1, 0
+  index: -1
+spin_but_h_light
+  rotate: false
+  xy: 1827, 986
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+spin_but_light
+  rotate: false
+  xy: 570, 1226
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+spin_but_n
+  rotate: false
+  xy: 570, 1043
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+spin_effet
+  rotate: false
+  xy: 883, 1633
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+tap to
+  rotate: true
+  xy: 246, 100
+  size: 241, 37
+  orig: 241, 37
+  offset: 0, 0
+  index: -1

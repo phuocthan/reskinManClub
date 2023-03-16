@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7ab452a2-9d30-4f01-b958-91fa425ea180",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 707,
+  "height": 326,
+  "platformSettings": {},
+  "subMetas": {
+    "diablo_mng_bg_thongbao": {
+      "ver": "1.0.4",
+      "uuid": "c0d39dc9-fcc9-40d7-85d4-f55ee2da8bb6",
+      "rawTextureUuid": "7ab452a2-9d30-4f01-b958-91fa425ea180",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 706,
+      "height": 324,
+      "rawWidth": 707,
+      "rawHeight": 326,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

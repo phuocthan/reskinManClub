@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "dbf58664-a83f-4fdb-98f1-24bd3e136d1d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1565,
+  "height": 1563,
+  "platformSettings": {},
+  "subMetas": {
+    "B52_Noel2020": {
+      "ver": "1.0.4",
+      "uuid": "4ce32afa-d30d-4d15-b1a8-90e3447e94a0",
+      "rawTextureUuid": "dbf58664-a83f-4fdb-98f1-24bd3e136d1d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -585.5,
+      "trimX": 2,
+      "trimY": 1173,
+      "width": 1561,
+      "height": 388,
+      "rawWidth": 1565,
+      "rawHeight": 1563,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

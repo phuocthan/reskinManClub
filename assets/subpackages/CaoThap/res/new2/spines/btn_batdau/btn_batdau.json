@@ -1,0 +1,125 @@
+{
+"skeleton": { "hash": "Xnt9FAwaCumevD1nx/h1T5PGcsY", "spine": "3.6.53", "width": 300, "height": 300, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "EFF", "parent": "root" },
+	{ "name": "EFF2", "parent": "root" }
+],
+"slots": [
+	{ "name": "btn/btn_01", "bone": "EFF", "attachment": "btn/btn_01", "blend": "additive" },
+	{ "name": "btn/btn_1", "bone": "EFF2", "attachment": "btn/btn_01", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"btn/btn_01": {
+			"btn/btn_01": { "width": 300, "height": 300 },
+			"btn/btn_02": { "width": 300, "height": 300 },
+			"btn/btn_03": { "width": 300, "height": 300 },
+			"btn/btn_04": { "width": 300, "height": 300 },
+			"btn/btn_05": { "width": 300, "height": 300 },
+			"btn/btn_06": { "width": 300, "height": 300 },
+			"btn/btn_07": { "width": 300, "height": 300 },
+			"btn/btn_08": { "width": 300, "height": 300 },
+			"btn/btn_09": { "width": 300, "height": 300 },
+			"btn/btn_10": { "width": 300, "height": 300 },
+			"btn/btn_11": { "width": 300, "height": 300 },
+			"btn/btn_12": { "width": 300, "height": 300 },
+			"btn/btn_13": { "width": 300, "height": 300 },
+			"btn/btn_14": { "width": 300, "height": 300 },
+			"btn/btn_15": { "width": 300, "height": 300 },
+			"btn/btn_16": { "width": 300, "height": 300 },
+			"btn/btn_17": { "width": 300, "height": 300 },
+			"btn/btn_18": { "width": 300, "height": 300 },
+			"btn/btn_19": { "width": 300, "height": 300 },
+			"btn/btn_20": { "width": 300, "height": 300 },
+			"btn/btn_21": { "width": 300, "height": 300 },
+			"btn/btn_22": { "width": 300, "height": 300 },
+			"btn/btn_23": { "width": 300, "height": 300 },
+			"btn/btn_24": { "width": 300, "height": 300 },
+			"btn/btn_25": { "width": 300, "height": 300 },
+			"btn/btn_26": { "width": 300, "height": 300 },
+			"btn/btn_27": { "width": 300, "height": 300 },
+			"btn/btn_28": { "width": 300, "height": 300 },
+			"btn/btn_29": { "width": 300, "height": 300 }
+		},
+		"btn/btn_1": {
+			"btn/btn_01": { "width": 300, "height": 300 },
+			"btn/btn_02": { "width": 300, "height": 300 },
+			"btn/btn_03": { "width": 300, "height": 300 },
+			"btn/btn_04": { "width": 300, "height": 300 },
+			"btn/btn_05": { "width": 300, "height": 300 },
+			"btn/btn_06": { "width": 300, "height": 300 },
+			"btn/btn_07": { "width": 300, "height": 300 },
+			"btn/btn_08": { "width": 300, "height": 300 },
+			"btn/btn_09": { "width": 300, "height": 300 },
+			"btn/btn_10": { "width": 300, "height": 300 },
+			"btn/btn_11": { "width": 300, "height": 300 },
+			"btn/btn_12": { "width": 300, "height": 300 },
+			"btn/btn_13": { "width": 300, "height": 300 },
+			"btn/btn_14": { "width": 300, "height": 300 },
+			"btn/btn_15": { "width": 300, "height": 300 },
+			"btn/btn_16": { "width": 300, "height": 300 },
+			"btn/btn_17": { "width": 300, "height": 300 },
+			"btn/btn_18": { "width": 300, "height": 300 },
+			"btn/btn_19": { "width": 300, "height": 300 },
+			"btn/btn_20": { "width": 300, "height": 300 },
+			"btn/btn_21": { "width": 300, "height": 300 },
+			"btn/btn_22": { "width": 300, "height": 300 },
+			"btn/btn_23": { "width": 300, "height": 300 },
+			"btn/btn_24": { "width": 300, "height": 300 },
+			"btn/btn_25": { "width": 300, "height": 300 },
+			"btn/btn_26": { "width": 300, "height": 300 },
+			"btn/btn_27": { "width": 300, "height": 300 },
+			"btn/btn_28": { "width": 300, "height": 300 },
+			"btn/btn_29": { "width": 300, "height": 300 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"btn/btn_01": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.0333, "name": "btn/btn_01" },
+					{ "time": 0.0667, "name": "btn/btn_02" },
+					{ "time": 0.1, "name": "btn/btn_03" },
+					{ "time": 0.1333, "name": "btn/btn_04" },
+					{ "time": 0.1667, "name": "btn/btn_05" },
+					{ "time": 0.2, "name": "btn/btn_06" },
+					{ "time": 0.2333, "name": "btn/btn_07" },
+					{ "time": 0.2667, "name": "btn/btn_08" },
+					{ "time": 0.3, "name": "btn/btn_09" },
+					{ "time": 0.3333, "name": "btn/btn_10" },
+					{ "time": 0.3667, "name": "btn/btn_11" },
+					{ "time": 0.4, "name": "btn/btn_12" },
+					{ "time": 0.4333, "name": "btn/btn_13" },
+					{ "time": 0.4667, "name": "btn/btn_14" },
+					{ "time": 0.5, "name": "btn/btn_15" },
+					{ "time": 0.5333, "name": "btn/btn_16" },
+					{ "time": 0.5667, "name": "btn/btn_17" },
+					{ "time": 0.6, "name": "btn/btn_18" },
+					{ "time": 0.6333, "name": "btn/btn_19" },
+					{ "time": 0.6667, "name": "btn/btn_20" }
+				]
+			},
+			"btn/btn_1": {
+				"attachment": [
+					{ "time": 0, "name": "btn/btn_20" },
+					{ "time": 0.0333, "name": "btn/btn_21" },
+					{ "time": 0.0667, "name": "btn/btn_22" },
+					{ "time": 0.1, "name": "btn/btn_23" },
+					{ "time": 0.1333, "name": "btn/btn_24" },
+					{ "time": 0.1667, "name": "btn/btn_25" },
+					{ "time": 0.2, "name": "btn/btn_26" },
+					{ "time": 0.2333, "name": "btn/btn_27" },
+					{ "time": 0.2667, "name": "btn/btn_28" },
+					{ "time": 0.3, "name": "btn/btn_29" },
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.6667, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,20 @@
+
+bigcity_main.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BOY11_0000_BOY1
+  rotate: false
+  xy: 2, 106
+  size: 302, 147
+  orig: 308, 153
+  offset: 3, 4
+  index: -1
+BOY11_0000_BOY12
+  rotate: false
+  xy: 350, 2
+  size: 247, 110
+  orig: 308, 153
+  offset: 30, 13
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6a71280c-9796-484e-896b-c414011d5a02",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 931,
+  "height": 137,
+  "platformSettings": {},
+  "subMetas": {
+    "diablo_win_jackpot_bg_gold": {
+      "ver": "1.0.4",
+      "uuid": "f1270487-1457-4a7c-af2c-8130c56a8d69",
+      "rawTextureUuid": "6a71280c-9796-484e-896b-c414011d5a02",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 931,
+      "height": 136,
+      "rawWidth": 931,
+      "rawHeight": 137,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,146 @@
+
+oantuti.png
+size: 1196,1195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_BG
+  rotate: false
+  xy: 1004, 1021
+  size: 179, 172
+  orig: 179, 172
+  offset: 0, 0
+  index: -1
+16_bang
+  rotate: false
+  xy: 200, 64
+  size: 158, 127
+  orig: 158, 127
+  offset: 0, 0
+  index: -1
+16_hand1
+  rotate: false
+  xy: 1106, 883
+  size: 84, 71
+  orig: 84, 71
+  offset: 0, 0
+  index: -1
+16_hand2
+  rotate: false
+  xy: 1106, 956
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+16_khung
+  rotate: false
+  xy: 2, 2
+  size: 196, 189
+  orig: 196, 189
+  offset: 0, 0
+  index: -1
+16_oan
+  rotate: false
+  xy: 200, 20
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+16_ti
+  rotate: false
+  xy: 1004, 367
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+16_tu
+  rotate: false
+  xy: 870, 149
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_00
+  rotate: false
+  xy: 1004, 919
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_01
+  rotate: false
+  xy: 360, 91
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_02
+  rotate: false
+  xy: 1004, 817
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_03
+  rotate: false
+  xy: 462, 91
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_04
+  rotate: false
+  xy: 1004, 715
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_05
+  rotate: false
+  xy: 564, 91
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_06
+  rotate: false
+  xy: 1004, 613
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_07
+  rotate: false
+  xy: 666, 91
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_08
+  rotate: false
+  xy: 1004, 511
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_09
+  rotate: false
+  xy: 768, 91
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_11
+  rotate: false
+  xy: 1004, 409
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/spark2/spark1_13
+  rotate: false
+  xy: 2, 193
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+mini.png
+size: 181,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 133, 28
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+but_1
+  rotate: false
+  xy: 2, 2
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+but_2
+  rotate: false
+  xy: 94, 72
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+but_3
+  rotate: false
+  xy: 2, 67
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+mini_2
+  rotate: false
+  xy: 71, 17
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1

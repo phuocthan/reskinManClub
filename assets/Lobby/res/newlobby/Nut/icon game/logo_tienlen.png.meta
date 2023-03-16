@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1463eb9e-5049-4cae-bf22-c17857d57906",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 306,
+  "height": 205,
+  "platformSettings": {},
+  "subMetas": {
+    "logo_tienlen": {
+      "ver": "1.0.4",
+      "uuid": "1b3ba98e-2071-4174-b9ae-e867ca868d00",
+      "rawTextureUuid": "1463eb9e-5049-4cae-bf22-c17857d57906",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 306,
+      "height": 205,
+      "rawWidth": 306,
+      "rawHeight": 205,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

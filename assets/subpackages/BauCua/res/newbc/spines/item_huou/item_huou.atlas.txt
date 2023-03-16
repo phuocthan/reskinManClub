@@ -1,0 +1,13 @@
+
+item_huou.png
+size: 128,128
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+huouitem
+  rotate: false
+  xy: 2, 2
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1

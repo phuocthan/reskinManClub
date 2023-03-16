@@ -1,0 +1,209 @@
+
+asphalt_bonus_game.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BONUS
+  rotate: true
+  xy: 660, 4
+  size: 650, 135
+  orig: 650, 135
+  offset: 0, 0
+  index: -1
+LUCKY BOX
+  rotate: false
+  xy: 184, 960
+  size: 232, 31
+  orig: 232, 31
+  offset: 0, 0
+  index: -1
+LUCKY PACK
+  rotate: true
+  xy: 486, 177
+  size: 391, 45
+  orig: 391, 45
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 796
+  size: 400, 135
+  orig: 400, 135
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 11
+  rotate: false
+  xy: 2, 570
+  size: 656, 61
+  orig: 656, 61
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 12
+  rotate: true
+  xy: 465, 93
+  size: 475, 19
+  orig: 475, 19
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 13
+  rotate: false
+  xy: 2, 3
+  size: 461, 27
+  orig: 461, 27
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 14
+  rotate: true
+  xy: 431, 114
+  size: 454, 24
+  orig: 454, 24
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 15
+  rotate: true
+  xy: 797, 2
+  size: 652, 59
+  orig: 652, 59
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 16
+  rotate: true
+  xy: 1102, 633
+  size: 684, 23
+  orig: 684, 23
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 17
+  rotate: true
+  xy: 616, 144
+  size: 424, 14
+  orig: 424, 14
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 18
+  rotate: true
+  xy: 1127, 532
+  size: 785, 20
+  orig: 785, 20
+  offset: 0, 0
+  index: -1
+X1
+  rotate: false
+  xy: 645, 725
+  size: 77, 55
+  orig: 77, 55
+  offset: 0, 0
+  index: -1
+X2
+  rotate: true
+  xy: 533, 238
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+X3
+  rotate: true
+  xy: 254, 189
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+X4
+  rotate: false
+  xy: 486, 120
+  size: 98, 55
+  orig: 98, 55
+  offset: 0, 0
+  index: -1
+X5
+  rotate: true
+  xy: 533, 334
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+ar_1
+  rotate: true
+  xy: 645, 782
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+ar_2
+  rotate: false
+  xy: 418, 1001
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+ar_3
+  rotate: false
+  xy: 465, 15
+  size: 149, 76
+  orig: 149, 76
+  offset: 0, 0
+  index: -1
+ar_4
+  rotate: false
+  xy: 184, 993
+  size: 157, 84
+  orig: 157, 84
+  offset: 0, 0
+  index: -1
+back_!
+  rotate: true
+  xy: 995, 673
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1
+back_2
+  rotate: true
+  xy: 995, 834
+  size: 159, 47
+  orig: 159, 47
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 1319
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+background_light
+  rotate: true
+  xy: 2, 1127
+  size: 190, 720
+  orig: 190, 720
+  offset: 0, 0
+  index: -1
+congratulation
+  rotate: true
+  xy: 1048, 656
+  size: 661, 52
+  orig: 661, 52
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 1564, 930
+  size: 1109, 478
+  orig: 1389, 478
+  offset: 140, 0
+  index: -1
+light_1
+  rotate: true
+  xy: 418, 941
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+rouX
+  rotate: false
+  xy: 995, 510
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1

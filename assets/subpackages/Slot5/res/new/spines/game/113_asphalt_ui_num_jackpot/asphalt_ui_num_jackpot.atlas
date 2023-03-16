@@ -1,0 +1,146 @@
+
+asphalt_main_ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+num_jackpot
+  rotate: false
+  xy: 2, 1954
+  size: 465, 92
+  orig: 465, 92
+  offset: 0, 0
+  index: -1
+speed/speed_00000
+  rotate: true
+  xy: 226, 343
+  size: 461, 94
+  orig: 467, 94
+  offset: 3, 0
+  index: -1
+speed/speed_00001
+  rotate: false
+  xy: 1476, 1635
+  size: 461, 92
+  orig: 467, 94
+  offset: 3, 0
+  index: -1
+speed/speed_00002
+  rotate: true
+  xy: 1064, 544
+  size: 461, 89
+  orig: 467, 94
+  offset: 3, 0
+  index: -1
+speed/speed_00003
+  rotate: true
+  xy: 569, 386
+  size: 461, 94
+  orig: 467, 94
+  offset: 3, 0
+  index: -1
+speed/speed_00004
+  rotate: false
+  xy: 1256, 1280
+  size: 461, 94
+  orig: 467, 94
+  offset: 3, 0
+  index: -1
+speed/speed_00005
+  rotate: false
+  xy: 1476, 1729
+  size: 461, 93
+  orig: 467, 94
+  offset: 3, 1
+  index: -1
+speed/speed_00006
+  rotate: false
+  xy: 1379, 1192
+  size: 461, 86
+  orig: 467, 94
+  offset: 3, 7
+  index: -1
+speed/speed_00007
+  rotate: true
+  xy: 1618, 428
+  size: 461, 80
+  orig: 467, 94
+  offset: 3, 12
+  index: -1
+speed/speed_00008
+  rotate: true
+  xy: 1433, 119
+  size: 461, 71
+  orig: 467, 94
+  offset: 3, 11
+  index: -1
+speed/speed_00009
+  rotate: false
+  xy: 1155, 582
+  size: 461, 76
+  orig: 467, 94
+  offset: 3, 11
+  index: -1
+speed/speed_00010
+  rotate: false
+  xy: 1155, 660
+  size: 461, 80
+  orig: 467, 94
+  offset: 3, 7
+  index: -1
+speed/speed_00011
+  rotate: true
+  xy: 886, 320
+  size: 461, 82
+  orig: 467, 94
+  offset: 3, 5
+  index: -1
+speed/speed_00012
+  rotate: true
+  xy: 1939, 1585
+  size: 461, 81
+  orig: 467, 94
+  offset: 3, 5
+  index: -1
+speed/speed_00013
+  rotate: false
+  xy: 1379, 891
+  size: 461, 82
+  orig: 467, 94
+  offset: 3, 5
+  index: -1
+speed/speed_00014
+  rotate: true
+  xy: 757, 24
+  size: 461, 89
+  orig: 467, 94
+  offset: 3, 5
+  index: -1
+speed/speed_00015
+  rotate: false
+  xy: 970, 453
+  size: 461, 89
+  orig: 467, 94
+  offset: 3, 5
+  index: -1
+speed/speed_00016
+  rotate: false
+  xy: 1155, 742
+  size: 461, 89
+  orig: 467, 94
+  offset: 3, 5
+  index: -1
+speed/speed_00017
+  rotate: true
+  xy: 972, 544
+  size: 461, 90
+  orig: 467, 94
+  offset: 3, 4
+  index: -1
+speed/speed_00018
+  rotate: true
+  xy: 665, 24
+  size: 461, 90
+  orig: 467, 94
+  offset: 3, 4
+  index: -1

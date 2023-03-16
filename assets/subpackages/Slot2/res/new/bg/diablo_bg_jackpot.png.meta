@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4c7ffaa7-a663-4906-9bb5-3aead2801faa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 372,
+  "height": 61,
+  "platformSettings": {},
+  "subMetas": {
+    "diablo_bg_jackpot": {
+      "ver": "1.0.4",
+      "uuid": "cbb967ba-1c46-4e5f-82bb-46d941988049",
+      "rawTextureUuid": "4c7ffaa7-a663-4906-9bb5-3aead2801faa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 370,
+      "height": 59,
+      "rawWidth": 372,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

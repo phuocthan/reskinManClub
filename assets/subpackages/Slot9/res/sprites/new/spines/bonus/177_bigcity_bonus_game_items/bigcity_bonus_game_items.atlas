@@ -1,0 +1,97 @@
+
+bigcity_bonus_game.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon_A
+  rotate: true
+  xy: 1041, 1046
+  size: 102, 135
+  orig: 102, 135
+  offset: 0, 0
+  index: -1
+Icon_B
+  rotate: true
+  xy: 1184, 1144
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+Icon_C
+  rotate: true
+  xy: 1813, 1137
+  size: 85, 167
+  orig: 85, 167
+  offset: 0, 0
+  index: -1
+Icon_D
+  rotate: true
+  xy: 249, 1072
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+Icon_E
+  rotate: true
+  xy: 383, 1072
+  size: 94, 155
+  orig: 94, 155
+  offset: 0, 0
+  index: -1
+Icon_F
+  rotate: true
+  xy: 974, 1153
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+Icon_G
+  rotate: true
+  xy: 1555, 1139
+  size: 83, 142
+  orig: 83, 142
+  offset: 0, 0
+  index: -1
+Icon_H
+  rotate: true
+  xy: 1402, 1140
+  size: 82, 151
+  orig: 82, 151
+  offset: 0, 0
+  index: -1
+Icon_I
+  rotate: true
+  xy: 1699, 1139
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+Icon_K
+  rotate: true
+  xy: 2, 948
+  size: 128, 185
+  orig: 128, 185
+  offset: 0, 0
+  index: -1
+Icon_L
+  rotate: true
+  xy: 143, 1078
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+Icon_M
+  rotate: true
+  xy: 776, 1154
+  size: 68, 196
+  orig: 68, 197
+  offset: 0, 0
+  index: -1
+sadow
+  rotate: false
+  xy: 96, 1176
+  size: 196, 46
+  orig: 225, 54
+  offset: 12, 6
+  index: -1

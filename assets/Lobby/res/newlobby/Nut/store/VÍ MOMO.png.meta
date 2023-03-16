@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "40cba19d-30b3-48a1-9d6c-08e4faeea17e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 216,
+  "height": 71,
+  "platformSettings": {},
+  "subMetas": {
+    "VÍ MOMO": {
+      "ver": "1.0.4",
+      "uuid": "da643e16-2457-48f0-aeed-8935ebfcaf75",
+      "rawTextureUuid": "40cba19d-30b3-48a1-9d6c-08e4faeea17e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 216,
+      "height": 71,
+      "rawWidth": 216,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

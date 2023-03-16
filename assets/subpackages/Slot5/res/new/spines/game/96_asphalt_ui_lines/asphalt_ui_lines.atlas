@@ -1,0 +1,27 @@
+
+asphalt_main_ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line
+  rotate: true
+  xy: 1027, 1399
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+line_back
+  rotate: true
+  xy: 226, 943
+  size: 117, 111
+  orig: 117, 111
+  offset: 0, 0
+  index: -1
+num_line
+  rotate: false
+  xy: 984, 1546
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+skeleton.png
+size: 127,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_tab_1
+  rotate: true
+  xy: 2, 254
+  size: 157, 85
+  orig: 157, 85
+  offset: 0, 0
+  index: -1
+spark_up/spark_00000
+  rotate: false
+  xy: 89, 299
+  size: 36, 32
+  orig: 50, 50
+  offset: 5, 2
+  index: -1
+spark_up/spark_00001
+  rotate: false
+  xy: 89, 299
+  size: 36, 32
+  orig: 50, 50
+  offset: 5, 2
+  index: -1
+spark_up/spark_00002
+  rotate: false
+  xy: 84, 42
+  size: 38, 28
+  orig: 50, 50
+  offset: 5, 2
+  index: -1
+spark_up/spark_00003
+  rotate: false
+  xy: 84, 72
+  size: 38, 29
+  orig: 50, 50
+  offset: 5, 2
+  index: -1
+spark_up/spark_00004
+  rotate: false
+  xy: 2, 68
+  size: 38, 31
+  orig: 50, 50
+  offset: 5, 1
+  index: -1
+spark_up/spark_00005
+  rotate: false
+  xy: 44, 68
+  size: 38, 33
+  orig: 50, 50
+  offset: 5, 1
+  index: -1
+spark_up/spark_00006
+  rotate: false
+  xy: 44, 68
+  size: 38, 33
+  orig: 50, 50
+  offset: 5, 1
+  index: -1
+spark_up/spark_00007
+  rotate: false
+  xy: 47, 138
+  size: 39, 33
+  orig: 50, 50
+  offset: 4, 2
+  index: -1
+spark_up/spark_00008
+  rotate: false
+  xy: 44, 103
+  size: 39, 33
+  orig: 50, 50
+  offset: 4, 2
+  index: -1
+spark_up/spark_00009
+  rotate: true
+  xy: 89, 258
+  size: 39, 35
+  orig: 50, 50
+  offset: 4, 3
+  index: -1
+spark_up/spark_00010
+  rotate: true
+  xy: 89, 372
+  size: 39, 36
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+spark_up/spark_00011
+  rotate: true
+  xy: 89, 372
+  size: 39, 36
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+spark_up/spark_00012
+  rotate: true
+  xy: 2, 101
+  size: 38, 40
+  orig: 50, 50
+  offset: 5, 2
+  index: -1
+spark_up/spark_00013
+  rotate: false
+  xy: 88, 175
+  size: 37, 41
+  orig: 50, 50
+  offset: 5, 2
+  index: -1
+spark_up/spark_00014
+  rotate: false
+  xy: 47, 173
+  size: 39, 40
+  orig: 50, 50
+  offset: 4, 5
+  index: -1
+spark_up/spark_00015
+  rotate: true
+  xy: 2, 177
+  size: 39, 43
+  orig: 50, 50
+  offset: 4, 3
+  index: -1
+spark_up/spark_00016
+  rotate: true
+  xy: 2, 177
+  size: 39, 43
+  orig: 50, 50
+  offset: 4, 3
+  index: -1
+spark_up/spark_00017
+  rotate: true
+  xy: 2, 141
+  size: 34, 43
+  orig: 50, 50
+  offset: 9, 4
+  index: -1
+spark_up/spark_00018
+  rotate: true
+  xy: 2, 218
+  size: 34, 47
+  orig: 50, 50
+  offset: 9, 1
+  index: -1
+spark_up/spark_00019
+  rotate: false
+  xy: 41, 2
+  size: 37, 30
+  orig: 50, 50
+  offset: 6, 1
+  index: -1
+spark_up/spark_00020
+  rotate: false
+  xy: 41, 34
+  size: 37, 32
+  orig: 50, 50
+  offset: 6, 1
+  index: -1
+spark_up/spark_00021
+  rotate: false
+  xy: 41, 34
+  size: 37, 32
+  orig: 50, 50
+  offset: 6, 1
+  index: -1
+spark_up/spark_00022
+  rotate: false
+  xy: 88, 139
+  size: 37, 34
+  orig: 50, 50
+  offset: 6, 1
+  index: -1
+spark_up/spark_00023
+  rotate: false
+  xy: 88, 103
+  size: 37, 34
+  orig: 50, 50
+  offset: 6, 2
+  index: -1
+spark_up/spark_00024
+  rotate: false
+  xy: 2, 32
+  size: 37, 34
+  orig: 50, 50
+  offset: 6, 3
+  index: -1
+spark_up/spark_00025
+  rotate: true
+  xy: 89, 333
+  size: 37, 36
+  orig: 50, 50
+  offset: 6, 3
+  index: -1
+spark_up/spark_00026
+  rotate: true
+  xy: 89, 333
+  size: 37, 36
+  orig: 50, 50
+  offset: 6, 3
+  index: -1
+spark_up/spark_00027
+  rotate: false
+  xy: 80, 8
+  size: 37, 32
+  orig: 50, 50
+  offset: 6, 4
+  index: -1
+spark_up/spark_00028
+  rotate: false
+  xy: 51, 215
+  size: 35, 37
+  orig: 50, 50
+  offset: 6, 1
+  index: -1
+spark_up/spark_00029
+  rotate: false
+  xy: 89, 218
+  size: 35, 38
+  orig: 50, 50
+  offset: 6, 1
+  index: -1

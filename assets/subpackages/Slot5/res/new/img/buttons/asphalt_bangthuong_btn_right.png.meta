@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5a6dfb37-b993-4e3a-9fb9-9a3e295b0d67",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 53,
+  "height": 169,
+  "platformSettings": {},
+  "subMetas": {
+    "asphalt_bangthuong_btn_right": {
+      "ver": "1.0.4",
+      "uuid": "1713c3a1-8584-4d75-8f66-293203511b04",
+      "rawTextureUuid": "5a6dfb37-b993-4e3a-9fb9-9a3e295b0d67",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 53,
+      "height": 169,
+      "rawWidth": 53,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

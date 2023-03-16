@@ -1,0 +1,34 @@
+
+tps_symbols.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item
+  rotate: false
+  xy: 377, 285
+  size: 126, 121
+  orig: 127, 121
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 244, 124
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 281, 126
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 373, 138
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1

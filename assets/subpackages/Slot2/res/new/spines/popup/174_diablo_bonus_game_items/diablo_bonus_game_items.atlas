@@ -1,0 +1,160 @@
+
+diablo_bonus_game.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armor
+  rotate: true
+  xy: 2, 518
+  size: 208, 214
+  orig: 208, 214
+  offset: 0, 0
+  index: -1
+armor_equiped
+  rotate: true
+  xy: 1417, 1570
+  size: 122, 149
+  orig: 122, 149
+  offset: 0, 0
+  index: -1
+axe
+  rotate: true
+  xy: 638, 888
+  size: 196, 224
+  orig: 196, 224
+  offset: 0, 0
+  index: -1
+axe_equiped
+  rotate: true
+  xy: 1133, 1709
+  size: 85, 161
+  orig: 85, 161
+  offset: 0, 0
+  index: -1
+boots
+  rotate: false
+  xy: 307, 1339
+  size: 191, 166
+  orig: 191, 166
+  offset: 0, 0
+  index: -1
+boots_equiped
+  rotate: false
+  xy: 1867, 1675
+  size: 132, 119
+  orig: 132, 119
+  offset: 0, 0
+  index: -1
+gloove
+  rotate: false
+  xy: 1396, 1223
+  size: 195, 180
+  orig: 195, 180
+  offset: 0, 0
+  index: -1
+gloove_equiped
+  rotate: false
+  xy: 1296, 1588
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 1618, 598
+  size: 201, 239
+  orig: 201, 239
+  offset: 0, 0
+  index: -1
+helmet_equiped
+  rotate: true
+  xy: 1459, 1694
+  size: 100, 126
+  orig: 100, 126
+  offset: 0, 0
+  index: -1
+shield
+  rotate: true
+  xy: 1151, 1243
+  size: 179, 243
+  orig: 179, 243
+  offset: 0, 0
+  index: -1
+shield_equiped
+  rotate: true
+  xy: 1296, 1709
+  size: 85, 161
+  orig: 85, 161
+  offset: 0, 0
+  index: -1
+spark_B/spark_B_00000
+  rotate: true
+  xy: 2, 1758
+  size: 36, 37
+  orig: 200, 200
+  offset: 82, 81
+  index: -1
+spark_B/spark_B_00001
+  rotate: false
+  xy: 405, 1145
+  size: 188, 187
+  orig: 200, 200
+  offset: 4, 7
+  index: -1
+spark_B/spark_B_00002
+  rotate: false
+  xy: 864, 850
+  size: 197, 197
+  orig: 200, 200
+  offset: 0, 1
+  index: -1
+spark_B/spark_B_00003
+  rotate: false
+  xy: 2, 752
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+spark_B/spark_B_00004
+  rotate: true
+  xy: 1063, 849
+  size: 198, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+spark_B/spark_B_00005
+  rotate: true
+  xy: 1395, 1024
+  size: 197, 196
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+spark_B/spark_B_00006
+  rotate: true
+  xy: 678, 1319
+  size: 174, 181
+  orig: 200, 200
+  offset: 21, 5
+  index: -1
+spark_B/spark_B_00007
+  rotate: true
+  xy: 500, 1334
+  size: 171, 176
+  orig: 200, 200
+  offset: 21, 8
+  index: -1
+spark_B/spark_B_00008
+  rotate: false
+  xy: 1757, 1387
+  size: 151, 148
+  orig: 200, 200
+  offset: 22, 31
+  index: -1
+spark_B/spark_B_00009
+  rotate: false
+  xy: 1274, 1424
+  size: 151, 144
+  orig: 200, 200
+  offset: 22, 32
+  index: -1
