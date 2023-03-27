@@ -83,22 +83,37 @@ class PanelMenu {
         this.settingPanel.runAction(cc.sequence(
             cc.spawn( 
                 cc.fadeIn(0.275),
-                cc.moveTo(0.275, cc.v2(this.settingPanel.x, 0)).easing(cc.easeOut(2.0))
+                cc.moveTo(0.275, cc.v2(0, 0)).easing(cc.easeOut(2.0))
+                // cc.moveTo(0.275, cc.v2(this.settingPanel.x, 0)).easing(cc.easeOut(2.0))
                 ),
-            cc.moveTo(0.15, cc.v2(Configs.App.DEVICE_RESOLUTION.width/2 - this.settingPanel.width/2, 0))
+            cc.moveTo(0.15, cc.v2(0, 0))
+            // cc.moveTo(0.15, cc.v2(Configs.App.DEVICE_RESOLUTION.width/2 - this.settingPanel.width/2, 0))
         ));
+        this.settingPanel.scale = 0.5;
+        this.settingPanel.active = true;
+        cc.tween(this.settingPanel)
+        .to(0.15, {scale : 1.1})
+        .to(0.1, {scale : 1})
+        .start();
+
     }
 
     dismiss() {
         this.node.active = false;
 
-        this.settingPanel.runAction(cc.sequence(
-            cc.spawn( 
-                cc.fadeIn(0.275),
-                cc.moveTo(0.275, cc.v2(this.settingPanel.x, 0)).easing(cc.easeOut(2.0))
-                ),
-            cc.moveTo(0.15, cc.v2(Configs.App.DEVICE_RESOLUTION.width/2 - this.settingPanel.width/2 + 500, 0))
-        ));
+        // this.settingPanel.runAction(cc.sequence(
+        //     cc.spawn( 
+        //         cc.fadeIn(0.275),
+        //         cc.moveTo(0.275, cc.v2(this.settingPanel.x, 0)).easing(cc.easeOut(2.0))
+        //         ),
+        //     cc.moveTo(0.15, cc.v2(Configs.App.DEVICE_RESOLUTION.width/2 - this.settingPanel.width/2 + 500, 0))
+        // ));
+        // cc.tween(this.settingPanel)
+        // .to(0.2, {scale : 0.5}).call( () => {
+        //     this.settingPanel.active = false;
+        // })
+        // .start();
+        
     }
 
     toggle() {
@@ -118,6 +133,8 @@ export default class LobbyController extends cc.Component {
     panelNotLogin: cc.Node = null;
     @property(cc.Node)
     panelLogined: cc.Node = null;
+    @property(cc.Node)
+    topBarLogined: cc.Node = null;
     @property(PanelMenu)
     panelMenu: PanelMenu = null;
     @property(cc.Sprite)
@@ -355,6 +372,7 @@ export default class LobbyController extends cc.Component {
             Configs.Login.clear();
             this.panelNotLogin.active = true;
             this.panelLogined.active = false;
+            this.topBarLogined.active = false;
             // this.edbUsername.string = SPUtils.getUserName();
             // this.edbPassword.string = SPUtils.getUserPass();
             MiniGameNetworkClient.getInstance().close();
@@ -564,6 +582,7 @@ export default class LobbyController extends cc.Component {
 
             this.panelNotLogin.active = true;
             this.panelLogined.active = false;
+            this.topBarLogined.active = false;
             App.instance.buttonMiniGame.hidden();
 
             //fake jackpot
@@ -580,6 +599,13 @@ export default class LobbyController extends cc.Component {
         } else {
             this.panelNotLogin.active = false;
             this.panelLogined.active = true;
+            this.topBarLogined.opacity = 0;
+            this.topBarLogined.active = true;
+            cc.tween(this.topBarLogined)
+            .delay(1)
+            .to(0.25, { opacity : 255})
+            .start();
+            this.topBarLogined.active = true;
             BroadcastReceiver.send(BroadcastReceiver.USER_INFO_UPDATED);
             SlotNetworkClient.getInstance().sendCheck(new cmd.ReqSubcribeHallSlot());
             MiniGameNetworkClient.getInstance().send(new cmd.ReqSubcribeJackpots());
@@ -828,6 +854,12 @@ export default class LobbyController extends cc.Component {
 
                 this.panelNotLogin.active = false;
                 this.panelLogined.active = true;
+                this.topBarLogined.opacity = 0;
+                this.topBarLogined.active = true;
+                cc.tween(this.topBarLogined)
+                .delay(1)
+                .to(0.25, { opacity : 255})
+                .start();
 
                 SPUtils.setUserName(Configs.Login.Username);
                 SPUtils.setUserPass(Configs.Login.Password);
@@ -1477,7 +1509,19 @@ export default class LobbyController extends cc.Component {
     }
 
     actSafeBoxClick() {
-        App.instance.showToast("Coming soon");
+        this.notReadyYet();
+    }
+
+    onHonorClick() {
+
+    }
+
+    onMissionClick() {
+
+    }
+
+    notReadyYet() {
+        App.instance.showToast("Tính năng này chưa sẵn sàng!");
     }
 
     actAddCoinCard() {

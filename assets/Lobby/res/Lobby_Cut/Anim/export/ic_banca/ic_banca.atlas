@@ -1,0 +1,62 @@
+
+ic_banca.png
+size: 525,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_ca1
+  rotate: false
+  xy: 2, 152
+  size: 297, 414
+  orig: 297, 414
+  offset: 0, 0
+  index: -1
+1_hand
+  rotate: true
+  xy: 2, 50
+  size: 100, 257
+  orig: 100, 257
+  offset: 0, 0
+  index: -1
+1_toungle
+  rotate: true
+  xy: 127, 5
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 301, 175
+  size: 221, 391
+  orig: 221, 391
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 261, 126
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ca2
+  rotate: true
+  xy: 301, 40
+  size: 133, 171
+  orig: 133, 171
+  offset: 0, 0
+  index: -1
+sanca
+  rotate: true
+  xy: 474, 2
+  size: 171, 49
+  orig: 171, 49
+  offset: 0, 0
+  index: -1
+vua
+  rotate: false
+  xy: 2, 3
+  size: 123, 45
+  orig: 123, 45
+  offset: 0, 0
+  index: -1

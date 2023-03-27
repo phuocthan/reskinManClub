@@ -286,6 +286,7 @@ export default class PopupVip extends Dialog {
             // console.log("vipPointNextLevel: " + vipPointNextLevel);
             // console.log("vipPointStartLevel: " + vipPointStartLevel);
             // console.log("vipPointIdx: " + vipPointIdx);
+            // Configs.Login.VipPoint = 1000;
             let delta = (Configs.Login.VipPoint - vipPointStartLevel) / (vipPointNextLevel - vipPointStartLevel);
             // console.log("delta: " + delta);
             this.tabVip.spriteProgressVipPoint.fillRange = vipPointIdx * (1 / 6) + delta * (1 / 6);
