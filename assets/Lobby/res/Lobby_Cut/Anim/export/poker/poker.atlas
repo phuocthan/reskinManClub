@@ -1,0 +1,27 @@
+
+poker.png
+size: 334,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21_BG
+  rotate: false
+  xy: 2, 2
+  size: 193, 187
+  orig: 196, 190
+  offset: 1, 2
+  index: -1
+21_chip
+  rotate: false
+  xy: 197, 54
+  size: 135, 135
+  orig: 137, 137
+  offset: 1, 1
+  index: -1
+21_poker
+  rotate: false
+  xy: 197, 15
+  size: 132, 37
+  orig: 134, 39
+  offset: 1, 1
+  index: -1

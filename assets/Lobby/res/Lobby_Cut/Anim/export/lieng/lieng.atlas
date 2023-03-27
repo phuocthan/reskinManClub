@@ -1,0 +1,41 @@
+
+lieng.png
+size: 338,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16_BG
+  rotate: false
+  xy: 2, 102
+  size: 193, 187
+  orig: 196, 190
+  offset: 1, 2
+  index: -1
+16_bai1
+  rotate: true
+  xy: 197, 169
+  size: 120, 138
+  orig: 125, 144
+  offset: 2, 3
+  index: -1
+16_bai2
+  rotate: true
+  xy: 2, 2
+  size: 98, 127
+  orig: 103, 132
+  offset: 3, 3
+  index: -1
+16_bai3
+  rotate: true
+  xy: 197, 48
+  size: 119, 139
+  orig: 124, 143
+  offset: 2, 2
+  index: -1
+16_lieng
+  rotate: true
+  xy: 131, 2
+  size: 98, 34
+  orig: 100, 36
+  offset: 1, 1
+  index: -1

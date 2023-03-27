@@ -1,0 +1,48 @@
+
+naptien.png
+size: 257,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_BGnaptien
+  rotate: false
+  xy: 2, 22
+  size: 195, 77
+  orig: 198, 81
+  offset: 2, 3
+  index: -1
+0_coin1
+  rotate: true
+  xy: 202, 155
+  size: 39, 48
+  orig: 42, 52
+  offset: 1, 2
+  index: -1
+0_coin2
+  rotate: false
+  xy: 202, 196
+  size: 53, 67
+  orig: 56, 70
+  offset: 1, 2
+  index: -1
+0_led1
+  rotate: false
+  xy: 2, 183
+  size: 198, 80
+  orig: 201, 84
+  offset: 1, 2
+  index: -1
+0_led2
+  rotate: false
+  xy: 2, 101
+  size: 198, 80
+  orig: 202, 84
+  offset: 2, 2
+  index: -1
+0_naptien
+  rotate: true
+  xy: 202, 2
+  size: 151, 41
+  orig: 153, 43
+  offset: 1, 1
+  index: -1

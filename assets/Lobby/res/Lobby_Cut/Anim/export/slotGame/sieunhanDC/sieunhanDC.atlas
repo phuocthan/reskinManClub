@@ -1,0 +1,125 @@
+
+sieunhanDC.png
+size: 1610,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_BG
+  rotate: false
+  xy: 2, 3
+  size: 219, 389
+  orig: 222, 392
+  offset: 1, 2
+  index: -1
+11_khung
+  rotate: true
+  xy: 960, 9
+  size: 156, 102
+  orig: 158, 104
+  offset: 1, 1
+  index: -1
+11_shadow
+  rotate: false
+  xy: 759, 2
+  size: 199, 163
+  orig: 201, 167
+  offset: 1, 1
+  index: -1
+5_DC
+  rotate: false
+  xy: 1440, 45
+  size: 126, 59
+  orig: 126, 59
+  offset: 0, 0
+  index: -1
+5_set
+  rotate: true
+  xy: 1246, 10
+  size: 114, 134
+  orig: 118, 140
+  offset: 2, 3
+  index: -1
+5_sieunhan
+  rotate: false
+  xy: 1382, 106
+  size: 174, 61
+  orig: 174, 61
+  offset: 0, 0
+  index: -1
+9_batman
+  rotate: true
+  xy: 1160, 169
+  size: 223, 405
+  orig: 231, 463
+  offset: 8, 58
+  index: -1
+9_eye
+  rotate: false
+  xy: 1558, 110
+  size: 50, 14
+  orig: 52, 15
+  offset: 1, 1
+  index: -1
+9_superman
+  rotate: true
+  xy: 223, 9
+  size: 383, 534
+  orig: 383, 534
+  offset: 0, 0
+  index: -1
+9_ww
+  rotate: true
+  xy: 759, 167
+  size: 225, 399
+  orig: 226, 399
+  offset: 1, 0
+  index: -1
+elect/elec1_00000
+  rotate: true
+  xy: 1567, 126
+  size: 87, 31
+  orig: 100, 100
+  offset: 3, 33
+  index: -1
+elect/elec1_00002
+  rotate: true
+  xy: 1382, 19
+  size: 85, 29
+  orig: 100, 100
+  offset: 4, 34
+  index: -1
+elect/elec1_00004
+  rotate: true
+  xy: 1413, 19
+  size: 85, 25
+  orig: 100, 100
+  offset: 4, 36
+  index: -1
+elect/elec1_00006
+  rotate: false
+  xy: 1246, 137
+  size: 86, 30
+  orig: 100, 100
+  offset: 3, 35
+  index: -1
+elect/elec1_00009
+  rotate: true
+  xy: 1567, 305
+  size: 87, 38
+  orig: 100, 100
+  offset: 2, 29
+  index: -1
+elect/elec1_00011
+  rotate: true
+  xy: 1567, 215
+  size: 88, 36
+  orig: 100, 100
+  offset: 1, 30
+  index: -1
+lightDC
+  rotate: true
+  xy: 1064, 11
+  size: 154, 180
+  orig: 320, 180
+  offset: 90, 0
+  index: -1

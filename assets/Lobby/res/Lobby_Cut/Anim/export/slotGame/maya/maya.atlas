@@ -1,0 +1,76 @@
+
+maya.png
+size: 1216,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_la
+  rotate: false
+  xy: 392, 10
+  size: 257, 75
+  orig: 257, 75
+  offset: 0, 0
+  index: -1
+10_maya
+  rotate: false
+  xy: 937, 58
+  size: 268, 104
+  orig: 294, 128
+  offset: 12, 12
+  index: -1
+13_BG
+  rotate: true
+  xy: 2, 2
+  size: 218, 388
+  orig: 221, 391
+  offset: 1, 2
+  index: -1
+13_khung
+  rotate: true
+  xy: 833, 64
+  size: 156, 102
+  orig: 158, 104
+  offset: 1, 1
+  index: -1
+13_shadow
+  rotate: false
+  xy: 758, 222
+  size: 199, 193
+  orig: 201, 200
+  offset: 1, 1
+  index: -1
+5_body
+  rotate: true
+  xy: 392, 87
+  size: 133, 439
+  orig: 133, 456
+  offset: 0, 17
+  index: -1
+5_coat
+  rotate: true
+  xy: 959, 164
+  size: 251, 255
+  orig: 258, 260
+  offset: 4, 0
+  index: -1
+5_hair
+  rotate: true
+  xy: 456, 245
+  size: 170, 300
+  orig: 170, 300
+  offset: 0, 0
+  index: -1
+5_hand1
+  rotate: false
+  xy: 651, 35
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+5_hand2
+  rotate: true
+  xy: 2, 222
+  size: 193, 452
+  orig: 193, 452
+  offset: 0, 0
+  index: -1

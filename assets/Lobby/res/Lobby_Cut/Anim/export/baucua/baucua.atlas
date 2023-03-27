@@ -1,0 +1,34 @@
+
+baucua.png
+size: 872,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6_BG
+  rotate: true
+  xy: 2, 11
+  size: 216, 385
+  orig: 219, 388
+  offset: 1, 2
+  index: -1
+6_baucua
+  rotate: true
+  xy: 389, 2
+  size: 225, 322
+  orig: 225, 322
+  offset: 0, 0
+  index: -1
+6_khung
+  rotate: true
+  xy: 843, 69
+  size: 158, 27
+  orig: 160, 29
+  offset: 1, 1
+  index: -1
+aura1
+  rotate: false
+  xy: 713, 99
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

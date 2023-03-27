@@ -1,0 +1,83 @@
+
+lode.png
+size: 637,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_BG
+  rotate: true
+  xy: 2, 12
+  size: 195, 189
+  orig: 198, 192
+  offset: 1, 2
+  index: -1
+8_bong1
+  rotate: false
+  xy: 340, 65
+  size: 115, 142
+  orig: 117, 144
+  offset: 1, 1
+  index: -1
+8_bong1glow
+  rotate: false
+  xy: 193, 36
+  size: 145, 171
+  orig: 150, 180
+  offset: 2, 4
+  index: -1
+8_bong2
+  rotate: false
+  xy: 492, 6
+  size: 59, 59
+  orig: 61, 61
+  offset: 1, 1
+  index: -1
+8_bong2glow
+  rotate: false
+  xy: 457, 118
+  size: 89, 89
+  orig: 90, 90
+  offset: 0, 1
+  index: -1
+8_lode
+  rotate: false
+  xy: 340, 5
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+coin/coin1
+  rotate: false
+  xy: 548, 124
+  size: 82, 83
+  orig: 95, 96
+  offset: 7, 7
+  index: -1
+coin/coin2
+  rotate: true
+  xy: 457, 67
+  size: 49, 83
+  orig: 95, 96
+  offset: 24, 7
+  index: -1
+coin/coin3
+  rotate: true
+  xy: 193, 5
+  size: 29, 83
+  orig: 95, 96
+  offset: 35, 7
+  index: -1
+coin/coin4
+  rotate: true
+  xy: 542, 77
+  size: 39, 82
+  orig: 95, 96
+  offset: 28, 7
+  index: -1
+coin/coin5
+  rotate: true
+  xy: 553, 2
+  size: 73, 82
+  orig: 95, 96
+  offset: 11, 7
+  index: -1

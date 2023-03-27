@@ -1,0 +1,13 @@
+
+minigame.png
+size: 103,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_minigame
+  rotate: false
+  xy: 2, 2
+  size: 99, 99
+  orig: 101, 101
+  offset: 1, 1
+  index: -1

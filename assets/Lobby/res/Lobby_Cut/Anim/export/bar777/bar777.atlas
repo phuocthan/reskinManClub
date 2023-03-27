@@ -1,0 +1,41 @@
+
+bar777.png
+size: 401,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_777
+  rotate: false
+  xy: 277, 2
+  size: 81, 33
+  orig: 84, 35
+  offset: 2, 1
+  index: -1
+7_BG
+  rotate: true
+  xy: 2, 12
+  size: 195, 189
+  orig: 198, 192
+  offset: 1, 2
+  index: -1
+7_bar
+  rotate: false
+  xy: 193, 2
+  size: 82, 33
+  orig: 84, 35
+  offset: 1, 1
+  index: -1
+7_main
+  rotate: true
+  xy: 304, 37
+  size: 170, 95
+  orig: 170, 95
+  offset: 0, 0
+  index: -1
+7_mainblur
+  rotate: true
+  xy: 193, 37
+  size: 170, 109
+  orig: 170, 110
+  offset: 0, 1
+  index: -1

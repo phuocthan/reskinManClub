@@ -1,0 +1,55 @@
+
+golddigger.png
+size: 794,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14_BG
+  rotate: true
+  xy: 404, 27
+  size: 218, 388
+  orig: 221, 391
+  offset: 1, 2
+  index: -1
+14_khung
+  rotate: true
+  xy: 661, 346
+  size: 156, 102
+  orig: 158, 104
+  offset: 1, 1
+  index: -1
+14_shadow
+  rotate: false
+  xy: 2, 2
+  size: 199, 182
+  orig: 201, 188
+  offset: 1, 1
+  index: -1
+9_den
+  rotate: true
+  xy: 203, 29
+  size: 155, 144
+  orig: 159, 146
+  offset: 3, 1
+  index: -1
+9_gold
+  rotate: true
+  xy: 661, 298
+  size: 46, 47
+  orig: 303, 96
+  offset: 182, 45
+  index: -1
+9_nv
+  rotate: true
+  xy: 2, 186
+  size: 316, 400
+  orig: 317, 402
+  offset: 0, 1
+  index: -1
+rays
+  rotate: false
+  xy: 404, 247
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+tienlensolo.png
+size: 272,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+18_BG
+  rotate: false
+  xy: 2, 93
+  size: 193, 187
+  orig: 196, 190
+  offset: 1, 2
+  index: -1
+18_solo
+  rotate: true
+  xy: 197, 92
+  size: 104, 31
+  orig: 107, 33
+  offset: 2, 1
+  index: -1
+18_tienlen
+  rotate: false
+  xy: 2, 53
+  size: 146, 38
+  orig: 149, 40
+  offset: 2, 1
+  index: -1
+coin/coin1
+  rotate: false
+  xy: 172, 7
+  size: 82, 83
+  orig: 95, 96
+  offset: 7, 7
+  index: -1
+coin/coin2
+  rotate: true
+  xy: 2, 2
+  size: 49, 83
+  orig: 95, 96
+  offset: 24, 7
+  index: -1
+coin/coin3
+  rotate: true
+  xy: 87, 22
+  size: 29, 83
+  orig: 95, 96
+  offset: 35, 7
+  index: -1
+coin/coin4
+  rotate: false
+  xy: 230, 114
+  size: 39, 82
+  orig: 95, 96
+  offset: 28, 7
+  index: -1
+coin/coin5
+  rotate: false
+  xy: 197, 198
+  size: 73, 82
+  orig: 95, 96
+  offset: 11, 7
+  index: -1

@@ -1476,6 +1476,10 @@ export default class LobbyController extends cc.Component {
         // }
     }
 
+    actSafeBoxClick() {
+        App.instance.showToast("Coming soon");
+    }
+
     actAddCoinCard() {
         if (!Configs.Login.IsLogin) {
             // App.instance.alertDialog.showMsg("Bạn chưa đăng nhập."); // hna comment

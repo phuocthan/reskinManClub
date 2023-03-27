@@ -1,0 +1,69 @@
+
+ruttien.png
+size: 451,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_BGruttien
+  rotate: false
+  xy: 121, 171
+  size: 320, 101
+  orig: 326, 105
+  offset: 3, 3
+  index: -1
+0_ruttien
+  rotate: false
+  xy: 267, 33
+  size: 176, 68
+  orig: 178, 71
+  offset: 1, 2
+  index: -1
+0_vuongmien
+  rotate: true
+  xy: 121, 31
+  size: 138, 49
+  orig: 142, 51
+  offset: 3, 1
+  index: -1
+0_vuongmien_00
+  rotate: false
+  xy: 267, 103
+  size: 182, 66
+  orig: 200, 72
+  offset: 7, 2
+  index: -1
+1_coin1
+  rotate: false
+  xy: 121, 2
+  size: 29, 27
+  orig: 40, 31
+  offset: 11, 3
+  index: -1
+1_coin2
+  rotate: false
+  xy: 182, 9
+  size: 22, 22
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+1_coin3
+  rotate: true
+  xy: 152, 2
+  size: 27, 28
+  orig: 28, 29
+  offset: 0, 1
+  index: -1
+2_fx
+  rotate: true
+  xy: 2, 17
+  size: 255, 117
+  orig: 315, 120
+  offset: 2, 2
+  index: -1
+2_fx2
+  rotate: true
+  xy: 172, 33
+  size: 136, 93
+  orig: 139, 122
+  offset: 2, 1
+  index: -1

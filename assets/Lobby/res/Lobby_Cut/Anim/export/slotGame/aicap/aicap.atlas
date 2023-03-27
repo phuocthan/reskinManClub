@@ -1,0 +1,62 @@
+
+aicap.png
+size: 824,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12_BG
+  rotate: true
+  xy: 349, 308
+  size: 219, 389
+  orig: 222, 392
+  offset: 1, 2
+  index: -1
+12_khung
+  rotate: false
+  xy: 637, 3
+  size: 156, 102
+  orig: 158, 104
+  offset: 1, 1
+  index: -1
+12_shadow
+  rotate: true
+  xy: 556, 107
+  size: 199, 162
+  orig: 201, 166
+  offset: 1, 1
+  index: -1
+6_aicap
+  rotate: true
+  xy: 740, 301
+  size: 226, 82
+  orig: 228, 86
+  offset: 1, 2
+  index: -1
+6_khung
+  rotate: true
+  xy: 795, 141
+  size: 158, 27
+  orig: 160, 29
+  offset: 1, 1
+  index: -1
+6_khungg
+  rotate: false
+  xy: 349, 2
+  size: 286, 97
+  orig: 288, 99
+  offset: 1, 1
+  index: -1
+8_circle
+  rotate: false
+  xy: 349, 101
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+8_nv
+  rotate: false
+  xy: 2, 23
+  size: 345, 504
+  orig: 382, 539
+  offset: 30, 0
+  index: -1
