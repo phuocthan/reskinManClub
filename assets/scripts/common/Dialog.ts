@@ -33,17 +33,24 @@ export default class Dialog extends cc.Component {
         this.container.stopAllActions();
         this.container.opacity = 0;
         // this.container.y = Configs.App.DEVICE_RESOLUTION.height/2 + this.container.height/2; // hna comment
-        this.container.x = Configs.App.DEVICE_RESOLUTION.width/2 + this.container.width/2;
+        this.container.x = 0;
+        // this.container.x = Configs.App.DEVICE_RESOLUTION.width/2 + this.container.width/2;
         this.container.y = 0;
 
         this.container.runAction(cc.sequence(
             cc.spawn( 
                 cc.fadeIn(this.phaseLong),
-                cc.moveTo(this.phaseLong, cc.v2(this.container.x, 0)).easing(cc.easeOut(2.0))
+                cc.moveTo(this.phaseLong, cc.v2(0, 0)).easing(cc.easeOut(2.0))
+                // cc.moveTo(this.phaseLong, cc.v2(this.container.x, 0)).easing(cc.easeOut(2.0))
                 ),
             cc.moveTo(this.phaseShort, cc.v2(0, 0)),
             cc.callFunc(_this._onShowed.bind(this))
         ));
+        this.container.scale = 0.5;
+        cc.tween(this.container)
+        .to(0.15, {scale : 1.1})
+        .to(0.1, {scale : 1})
+        .start();
     }
 
     showRight(needSetTop: any = true, needAutoScale: any = false): void {

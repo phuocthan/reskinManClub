@@ -248,7 +248,7 @@ export default class LobbyController extends cc.Component {
     setupCenterElementPosition() {
         this.centerNode.width = Configs.App.DEVICE_RESOLUTION.width;
         // this.tabs.x = -this.centerNode.width / 2; // hna comment
-        this.tabs.x = -this.tabs.width * this.tabs.scaleX / 2; // hna add
+        // this.tabs.x = -this.tabs.width * this.tabs.scaleX / 2; // hna add
         // this.bannerPageView.node.x = this.tabs.x + this.tabs.width + this.bannerPageView.node.width / 2; // hna comment
         this.bannerPageView.node.x = -this.centerNode.width / 2 + this.bannerPageView.node.width / 2 + 30; // hna add
         this.listGame.x = this.bannerPageView.node.x + this.bannerPageView.node.width / 2 + 20;
@@ -262,8 +262,8 @@ export default class LobbyController extends cc.Component {
         this.topBar.getChildByName('Topbar').height = this.topBar.getChildByName('Topbar').height * this.centerNode.width/this.topBar.getChildByName('Topbar').width;
         this.topBar.getChildByName('Topbar').width = this.centerNode.width;
 
-        this.botBar.scaleX = Configs.App.DEVICE_RESOLUTION.width/this.botBar.width;
-        this.botBar.scaleY = Configs.App.DEVICE_RESOLUTION.width/this.botBar.width;
+        // this.botBar.scaleX = Configs.App.DEVICE_RESOLUTION.width/this.botBar.width;
+        // this.botBar.scaleY = Configs.App.DEVICE_RESOLUTION.width/this.botBar.width;
         this.botBar.y = -Configs.App.DEVICE_RESOLUTION.height/2 + this.botBar.height * this.botBar.scaleY/2;
 
         this.buttonListJackpot.node.x = -this.centerNode.width/2 + this.buttonListJackpot.node.width/2;
@@ -762,6 +762,66 @@ export default class LobbyController extends cc.Component {
         });
     }
     // end
+
+    onEvenBtnClick() {
+        this.actEventMailBox();
+        // this.actClickEvent();
+    }
+
+    onMailBtnClick() {
+        AudioManager.getInstance().playEffect(this.soundClickBtn);
+        if (!Configs.Login.IsLogin) {
+            // App.instance.alertDialog.showMsg("Bạn chưa đăng nhập."); // hna comment
+            LobbyController.instance.actLogin(); // hna add
+            return;
+        }
+        App.instance.showLoading(true);
+        PopupMailBox.hidePopup();
+        PopupEvent.hidePopup();
+        this.popupEventMailbox.active = true;
+
+        let popupContainer = this.popupEventMailbox.getChildByName('Container');
+        popupContainer.x = 0;
+        popupContainer.runAction(cc.sequence(
+            cc.spawn( 
+                cc.fadeIn(0.275),
+                cc.moveTo(0.275, cc.v2(0, 0)).easing(cc.easeOut(2.0))
+                // cc.moveTo(0.275, cc.v2(popupContainer.x, 0)).easing(cc.easeOut(2.0))
+                ),
+            cc.moveTo(0.15, cc.v2(0, 0))
+            // cc.moveTo(0.15, cc.v2(Configs.App.DEVICE_RESOLUTION.width/2 - popupContainer.width/2, 0))
+        ));
+        popupContainer.scale = 0.5;
+        cc.tween(popupContainer)
+        .to(0.15, {scale : 1.1})
+        .to(0.1, {scale : 1})
+        .start();
+
+
+        // this.popupMailboxActive.active = false;
+        this.popupMailboxActive.active = true;
+
+        Http.get(Configs.App.PAY_URL + '/x3_info', { "nickname": Configs.Login.Nickname }, (err, json) => {
+            App.instance.showLoading(false);
+            if (err != null) {
+                return;
+            }
+            App.instance.showLoading(false);
+
+            Configs.App.X3PROGRESS = json;
+            
+            PopupMailBox.createAndShow(this.popupEventMailboxContents);
+            this.actClickMailBox();
+            
+        });
+
+        
+
+        FacebookTracking.logMail();
+
+        // this.actEventMailBox();
+        // this.actClickMailBox();
+    }
     
     actLogin_bk(): void {
         // console.log("actLogin");
@@ -1021,13 +1081,21 @@ export default class LobbyController extends cc.Component {
         this.popupEventMailbox.active = true;
 
         let popupContainer = this.popupEventMailbox.getChildByName('Container');
+        popupContainer.x = 0;
         popupContainer.runAction(cc.sequence(
             cc.spawn( 
                 cc.fadeIn(0.275),
-                cc.moveTo(0.275, cc.v2(popupContainer.x, 0)).easing(cc.easeOut(2.0))
+                cc.moveTo(0.275, cc.v2(0, 0)).easing(cc.easeOut(2.0))
+                // cc.moveTo(0.275, cc.v2(popupContainer.x, 0)).easing(cc.easeOut(2.0))
                 ),
-            cc.moveTo(0.15, cc.v2(Configs.App.DEVICE_RESOLUTION.width/2 - popupContainer.width/2, 0))
+            cc.moveTo(0.15, cc.v2(0, 0))
+            // cc.moveTo(0.15, cc.v2(Configs.App.DEVICE_RESOLUTION.width/2 - popupContainer.width/2, 0))
         ));
+        popupContainer.scale = 0.5;
+        cc.tween(popupContainer)
+        .to(0.15, {scale : 1.1})
+        .to(0.1, {scale : 1})
+        .start();
 
         this.popupMailboxActive.active = false;
         this.popupEventActive.active = true;

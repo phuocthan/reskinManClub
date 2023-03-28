@@ -1156,15 +1156,16 @@ export default class PopupShop extends Dialog {
             this.tabs.toggleItems[i].node.children[1].active = isActive;
             let tabContent = this.tabContents.children[i];
 
-            if(isActive) {
-                this.scheduleOnce(() => {
-                    tabContent.active = true;
-                    tabContent.opacity = 0;
-                    tabContent.runAction(cc.fadeIn(0.2));
-                }, 0.05);
-            } else {
-                tabContent.active = false;
-            }
+            // if(isActive) {
+            //     this.scheduleOnce(() => {
+            //         tabContent.active = true;
+            //         tabContent.opacity = 0;
+            //         tabContent.runAction(cc.fadeIn(0.2));
+            //     }, 0.05);
+            // } else {
+            //     tabContent.active = false;
+            // }
+            tabContent.active = isActive
         }
 
         switch (PopupShop.tabSelectedIdx) {
