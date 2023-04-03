@@ -1,0 +1,55 @@
+
+fx.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+51 (1)
+  rotate: false
+  xy: 0, 735
+  size: 241, 243
+  orig: 241, 243
+  offset: 0, 0
+  index: -1
+51 (2)
+  rotate: false
+  xy: 0, 490
+  size: 241, 243
+  orig: 241, 243
+  offset: 0, 0
+  index: -1
+51 (3)
+  rotate: false
+  xy: 243, 735
+  size: 241, 243
+  orig: 241, 243
+  offset: 0, 0
+  index: -1
+51 (4)
+  rotate: false
+  xy: 0, 245
+  size: 241, 243
+  orig: 241, 243
+  offset: 0, 0
+  index: -1
+51 (5)
+  rotate: false
+  xy: 243, 490
+  size: 241, 243
+  orig: 241, 243
+  offset: 0, 0
+  index: -1
+51 (6)
+  rotate: false
+  xy: 486, 735
+  size: 241, 243
+  orig: 241, 243
+  offset: 0, 0
+  index: -1
+51 (7)
+  rotate: false
+  xy: 0, 0
+  size: 241, 243
+  orig: 241, 243
+  offset: 0, 0
+  index: -1

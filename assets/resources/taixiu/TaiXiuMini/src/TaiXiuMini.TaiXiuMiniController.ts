@@ -424,6 +424,8 @@ export default class TaiXiuMiniController extends cc.Component {
 
                     this.tai.getComponent(sp.Skeleton).setAnimation(0, `loop_TAI`, true);
                     this.xiu.getComponent(sp.Skeleton).setAnimation(0, `loop_XIU`, true);
+                    this.tai.children[0].active = this.xiu.children[0].active = false;
+
                     // end
                     this.stopWin();
                     break;
@@ -793,8 +795,11 @@ export default class TaiXiuMiniController extends cc.Component {
             // hna add
             this.lblScore.node.color = cc.Color.BLACK.fromHEX("#ffffff");
             this.lblScore.string = "" + this.lastScore;
-            this.tai.getComponent(sp.Skeleton).setAnimation(0, `win_TAI`, true);
-            this.xiu.getComponent(sp.Skeleton).setAnimation(0, `fade_XIU`, true);
+            // this.tai.getComponent(sp.Skeleton).setAnimation(0, `win_TAI`, true);
+            // this.xiu.getComponent(sp.Skeleton).setAnimation(0, `fade_XIU`, true);
+            this.tai.children[0].active = true;
+            this.tai.children[0].getComponent(sp.Skeleton).setAnimation(0, `animation`, true);
+            this.xiu.children[0].active = false
             // end
 
             // this.vongXoayTai.node.active = true; // hna comment
@@ -809,8 +814,11 @@ export default class TaiXiuMiniController extends cc.Component {
             // hna add
             this.lblScore.node.color = cc.Color.BLACK.fromHEX("#240107");
             this.lblScore.string = "" + this.lastScore;
-            this.xiu.getComponent(sp.Skeleton).setAnimation(0, `win_XIU`, true);
-            this.tai.getComponent(sp.Skeleton).setAnimation(0, `fade_TAI`, true);
+            // this.xiu.getComponent(sp.Skeleton).setAnimation(0, `win_XIU`, true);
+            // this.tai.getComponent(sp.Skeleton).setAnimation(0, `fade_TAI`, true);
+            this.xiu.children[0].active = true;
+            this.xiu.children[0].getComponent(sp.Skeleton).setAnimation(0, `animation`, true);
+            this.tai.children[0].active = false
             // end
 
             // this.vongXoayXiu.node.active = true; // hna comment
@@ -821,6 +829,7 @@ export default class TaiXiuMiniController extends cc.Component {
     }
 
     private stopWin() {
+        this.tai.children[0].active = this.xiu.children[0].active = false;
         this.tai.stopAllActions();
         // this.tai.runAction(cc.spawn(cc.scaleTo(0.3, 1), cc.tintTo(0.3, 255, 255, 255))); // hna comment
 

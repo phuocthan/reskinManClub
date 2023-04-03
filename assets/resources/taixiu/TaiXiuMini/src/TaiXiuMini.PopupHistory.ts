@@ -74,6 +74,7 @@ namespace taixiumini {
                 if (err != null) return;
                 if (!res["success"]) return;
 
+                console.log('@@ res ',res)
                 if(res["transactions"].length == 0) {
                     App.instance.showToast(Configs.LANG.ALERT_EMPTY);
                     return;
@@ -99,7 +100,15 @@ namespace taixiumini {
                         item.getChildByName("lblSession").getComponent(cc.Label).string = "#" + itemData["referenceId"];
                         item.getChildByName("lblTime").getComponent(cc.Label).string = itemData["timestamp"];
                         item.getChildByName("lblBetDoor").getComponent(cc.Label).string = itemData["betSide"] == 1 ? "TÀI" : "XỈU";
-                        item.getChildByName("lblResult").getComponent(cc.Label).string = itemData["resultPhien"];
+                        // console.log('@@@ ', itemData["resultPhien"])
+                        const isBetTai = itemData["betSide"] == 1;
+                        let extraText = '';
+                        if ( isBetTai ) {
+                            extraText = itemData["totalPrize"] > 0 ? 'TÀI' : 'XỈU'
+                        } else {
+                            extraText = itemData["totalPrize"] > 0 ? 'XỈU' : 'TÀI'
+                        }
+                        item.getChildByName("lblResult").getComponent(cc.Label).string = itemData["resultPhien"] + ' ' + extraText;
                         item.getChildByName("lblBet").getComponent(cc.Label).string = Utils.formatNumber(itemData["betValue"]);
                         item.getChildByName("lblRefund").getComponent(cc.Label).string = Utils.formatNumber(itemData["totalRefund"]);
                         item.getChildByName("lblWin").getComponent(cc.Label).string = Utils.formatNumber(itemData["totalPrize"]);

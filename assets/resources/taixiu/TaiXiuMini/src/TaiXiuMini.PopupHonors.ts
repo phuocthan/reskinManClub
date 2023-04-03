@@ -59,6 +59,9 @@ namespace taixiumini {
                         if (i < res["topTX"].length) {
                             let itemData = res["topTX"][i];
                             item.getChildByName("bg").opacity = i % 2 == 0 ? 10 : 0;
+                            if ( i <= 2) {
+                                item.getChildByName("lblRank").children[i].active = true;
+                            }
                             item.getChildByName("lblRank").getComponent(cc.Label).string = (i + 1).toString();
                             item.getChildByName("lblAccount").getComponent(cc.Label).string = itemData["username"];
                             item.getChildByName("lblWin").getComponent(cc.Label).string = Utils.formatNumber(itemData["money"]);

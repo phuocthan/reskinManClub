@@ -103,20 +103,21 @@ namespace taixiumini {
 
         private drawPage1() {
             var data = TaiXiuMiniController.instance.histories.slice();
-            if (data.length > 22) {
-                data.splice(0, data.length - 22);
+            if (data.length > 21) {
+                data.splice(0, data.length - 21);
             }
             var last = data[data.length - 1];
             var lastDices = last.dices;
             var lastScore = lastDices[0] + lastDices[1] + lastDices[2];
-            this.lblLastSession.string = "Phiên gần nhất: (#" + last.session + ")";
+            this.lblLastSession.string = "Phiên gần nhất: " + (lastScore >= 11 ? "Tài" : "Xỉu") ;
 
             // hna add
-            this.lblLastSessionResult.string = (lastScore >= 11 ? "TÀI" : "XỈU") + "  " + lastScore + "(" + lastDices[0] + "-" + lastDices[1] + "-" + lastDices[2] + ")";
+            this.lblLastSessionResult.string = " " + lastScore + "(" + lastDices[0] + "-" + lastDices[1] + "-" + lastDices[2] + ") #"  + last.session;
+            // this.lblLastSessionResult.string = (lastScore >= 11 ? "TÀI" : "XỈU") + "  " + lastScore + "(" + lastDices[0] + "-" + lastDices[1] + "-" + lastDices[2] + ")";
             // end
 
             let endPosX = 311;
-            let startPosY = -195.822;
+            let startPosY = -227.822;
             let startPosY123 = -4.234;
             this.xx1Draw.removeAllChildren();
             this.xx2Draw.removeAllChildren();
@@ -125,7 +126,7 @@ namespace taixiumini {
 
             let _i = 0;
             var spacingX = 28.3;
-            var spacingY = 30.2;
+            var spacingY = 29.8;
             for (var i = data.length - 1; i >= 0; i--) {
                 var dices = data[i].dices;
                 var score = dices[0] + dices[1] + dices[2];
@@ -202,7 +203,7 @@ namespace taixiumini {
 
         private drawPage2() {
             var startPosX = -283.773;
-            var startPosY = 132.93;
+            var startPosY = 150.93;
             var spacingX = 28.3;
             var spacingY = 30.2;
 
@@ -273,7 +274,7 @@ namespace taixiumini {
             }
 
             startPosX = -281.793;
-            startPosY = -58.447;
+            startPosY = -74;
             var column = 0;
             var row = 0;
             var countTai = 0;
