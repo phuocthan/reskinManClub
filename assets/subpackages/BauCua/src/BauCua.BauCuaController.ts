@@ -185,7 +185,7 @@ export default class BauCuaController extends MiniGame {
 
                     // console.log(res);
                     this.isBetting = res.bettingState;
-                    this.lblSession.string = "#" + res.referenceId;
+                    this.lblSession.string = "Phiên: #" + res.referenceId;
                     this.lblTime.string = this.longToTime(res.remainTime);
 
 

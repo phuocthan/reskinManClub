@@ -57,6 +57,9 @@ export default class PopupHonors extends Dialog {
                         let itemData = res["topBC"][i];
                         item.getChildByName("bg").opacity = i % 2 == 0 ? 10 : 0;
                         item.getChildByName("Rank").getComponent(cc.Label).string = (i + 1).toString();
+                        if ( i <= 2) {
+                            item.getChildByName("Rank").children[i].active = true;
+                        }
                         item.getChildByName("Account").getComponent(cc.Label).string = itemData["username"];
                         item.getChildByName("Win").getComponent(cc.Label).string = Utils.formatNumber(itemData["money"]);
                         item.active = true;
