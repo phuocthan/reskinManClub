@@ -1,0 +1,20 @@
+
+title_baucua.png
+size: 462,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baucua
+  rotate: false
+  xy: 2, 26
+  size: 320, 112
+  orig: 320, 112
+  offset: 0, 0
+  index: -1
+eff_tophu
+  rotate: false
+  xy: 324, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1

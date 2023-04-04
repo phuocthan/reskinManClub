@@ -1,0 +1,129 @@
+{
+"skeleton": {
+	"hash": "a2Nc8GLUuH55ZSmHaqehfIf9ECE",
+	"spine": "3.8.84",
+	"x": -160.87,
+	"y": -182.35,
+	"width": 320.4,
+	"height": 324,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "3", "parent": "root" },
+	{ "name": "duday", "parent": "3", "x": -10.64, "y": 16.47 },
+	{ "name": "taixiu", "parent": "3", "x": -8.32, "y": -18.33 },
+	{ "name": "xx", "parent": "3", "x": 45.04, "y": 22.03 },
+	{ "name": "xx2", "parent": "3", "x": 101.18, "y": -28.54 },
+	{ "name": "187", "parent": "3", "x": 8.28, "y": -16.39 },
+	{ "name": "188", "parent": "3", "x": 8.28, "y": -16.39 }
+],
+"slots": [
+	{ "name": "187", "bone": "187", "attachment": "186", "blend": "additive" },
+	{ "name": "188", "bone": "188", "attachment": "186", "blend": "additive" },
+	{ "name": "xx", "bone": "xx2", "attachment": "xx" },
+	{ "name": "duday", "bone": "duday", "attachment": "duday" },
+	{ "name": "duday2", "bone": "duday", "color": "ffffff00", "attachment": "duday", "blend": "additive" },
+	{ "name": "taixiu", "bone": "taixiu", "attachment": "taixiu" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"187": {
+				"186": { "x": -8.95, "y": -3.95, "scaleX": 1.2, "scaleY": 1.2, "width": 267, "height": 270 }
+			},
+			"188": {
+				"186": { "x": -8.95, "y": -3.95, "scaleX": 1.2, "scaleY": 1.2, "width": 267, "height": 270 }
+			},
+			"duday": {
+				"duday": { "x": -0.86, "y": 1.73, "width": 168, "height": 86 }
+			},
+			"duday2": {
+				"duday": { "x": -0.86, "y": 1.73, "width": 168, "height": 86 }
+			},
+			"taixiu": {
+				"taixiu": { "x": -7.37, "y": -1.52, "width": 241, "height": 80 }
+			},
+			"xx": {
+				"xx": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0.24649, 1, 0, 1, 0, 0.58701, 0, 0, 0.52017, 0, 0.54288, 0, 1, 0, 0.25884, 0.5872, 0.51484, 0.38863, 0.5339, 0.4028, 0.2569, 0.62619 ],
+					"triangles": [ 2, 3, 11, 1, 2, 11, 10, 6, 7, 0, 10, 7, 1, 11, 10, 0, 1, 10, 10, 9, 6, 10, 11, 8, 11, 3, 8, 9, 4, 5, 8, 3, 4, 9, 8, 4, 6, 9, 5, 10, 8, 9 ],
+					"vertices": [ 1, 5, 43.28, -41.43, 1, 1, 5, -53.92, -41.43, 1, 2, 4, -29.57, -92.01, 0.45454, 5, -85.72, -41.43, 0.54546, 1, 4, -29.57, -41.21, 1, 1, 4, -29.57, 30.99, 1, 1, 4, 37.53, 30.99, 1, 1, 5, -15.69, 81.57, 1, 1, 5, 43.28, 81.57, 1, 1, 4, 3.82, -41.23, 1, 1, 4, 36.84, -16.81, 1, 1, 5, -16.84, 32.02, 1, 1, 5, -52.58, 4.55, 1 ],
+					"hull": 8,
+					"edges": [ 0, 14, 4, 6, 6, 8, 6, 16, 16, 18, 8, 10, 18, 10, 10, 12, 12, 14, 12, 20, 20, 22, 0, 2, 2, 4, 22, 2 ],
+					"width": 129,
+					"height": 123
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"187": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			},
+			"188": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			},
+			"duday2": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "color": "ffffff2f", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "color": "ffffff2f", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "color": "ffffff2f", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667, "color": "ffffff2f", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"duday": {
+				"translate": [
+					{ "x": 8.01, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": -11.65, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "x": 8.01 }
+				]
+			},
+			"taixiu": {
+				"translate": [
+					{ "x": 4.38, "curve": 0.379, "c2": 0.6, "c3": 0.724 },
+					{ "time": 0.1667, "x": 8.01, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": -11.65, "curve": 0.242, "c3": 0.667, "c4": 0.67 },
+					{ "time": 1.3333, "x": 4.38 }
+				]
+			},
+			"187": {
+				"rotate": [
+					{},
+					{ "time": 1.3, "angle": 180, "curve": "stepped" },
+					{ "time": 1.3333 }
+				]
+			},
+			"188": {
+				"rotate": [
+					{ "angle": -92.31 },
+					{ "time": 0.6333, "angle": 180, "curve": "stepped" },
+					{ "time": 0.6667 },
+					{ "time": 1.3333, "angle": -92.31 }
+				]
+			}
+		}
+	}
+}
+}

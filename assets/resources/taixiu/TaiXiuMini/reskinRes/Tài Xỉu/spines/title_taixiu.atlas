@@ -1,0 +1,34 @@
+
+title_taixiu.png
+size: 514,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+186
+  rotate: false
+  xy: 2, 2
+  size: 267, 270
+  orig: 267, 270
+  offset: 0, 0
+  index: -1
+duday
+  rotate: true
+  xy: 396, 22
+  size: 168, 86
+  orig: 168, 86
+  offset: 0, 0
+  index: -1
+taixiu
+  rotate: false
+  xy: 271, 192
+  size: 241, 80
+  orig: 241, 80
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 271, 61
+  size: 129, 123
+  orig: 129, 123
+  offset: 0, 0
+  index: -1

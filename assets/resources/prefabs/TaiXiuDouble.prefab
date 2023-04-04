@@ -884,8 +884,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 281,
-      "height": 131
+      "width": 320.4,
+      "height": 324
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -897,7 +897,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        189.542,
+        190.896,
         0,
         0,
         0,
@@ -1188,7 +1188,7 @@
     "sync": false
   },
   {
-    "__type__": "cc.Sprite",
+    "__type__": "sp.Skeleton",
     "_name": "",
     "_objFlags": 0,
     "node": {
@@ -1197,26 +1197,36 @@
     "_enabled": true,
     "_materials": [
       {
-        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
       }
     ],
-    "_srcBlendFactor": 770,
-    "_dstBlendFactor": 771,
-    "_spriteFrame": {
-      "__uuid__": "05880f59-0bc8-433f-8eaf-469cb7126627"
+    "paused": false,
+    "defaultSkin": "",
+    "defaultAnimation": "animation",
+    "_preCacheMode": 0,
+    "_cacheMode": 0,
+    "loop": true,
+    "premultipliedAlpha": true,
+    "timeScale": 1,
+    "_accTime": 0,
+    "_playCount": 0,
+    "_frameCache": null,
+    "_curFrame": null,
+    "_skeletonCache": null,
+    "_animationName": "animation",
+    "_animationQueue": [],
+    "_headAniInfo": null,
+    "_playTimes": 0,
+    "_isAniComplete": true,
+    "_N$skeletonData": {
+      "__uuid__": "bfce8ec1-c19d-44d5-9c2b-6e2ef87624b4"
     },
-    "_type": 0,
-    "_sizeMode": 1,
-    "_fillType": 0,
-    "_fillCenter": {
-      "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
-    },
-    "_fillStart": 0,
-    "_fillRange": 0,
-    "_isTrimmedMode": true,
-    "_atlas": null,
+    "_N$_defaultCacheMode": 0,
+    "_N$debugSlots": false,
+    "_N$debugBones": false,
+    "_N$debugMesh": false,
+    "_N$useTint": false,
+    "_N$enableBatch": false,
     "_id": ""
   },
   {
@@ -18587,7 +18597,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 260,
-      "height": 99
+      "height": 142.16
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -18658,7 +18668,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 260,
-      "height": 52
+      "height": 95.44
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -18670,7 +18680,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        65,
+        86.44,
         0,
         0,
         0,
@@ -18721,8 +18731,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 85.94,
-      "height": 28
+      "width": 254.64,
+      "height": 49.72
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -18734,7 +18744,7 @@
       "ctor": "Float64Array",
       "array": [
         -123.815,
-        26,
+        47.72,
         0,
         0,
         0,
@@ -18772,13 +18782,13 @@
       }
     ],
     "_useOriginalSize": false,
-    "_string": "nickname",
-    "_N$string": "nickname",
-    "_fontSize": 25,
-    "_lineHeight": 28,
+    "_string": "nick name la gi ha aaa aaa aa aa aaaaa",
+    "_N$string": "nick name la gi ha aaa aaa aa aa aaaaa",
+    "_fontSize": 18,
+    "_lineHeight": 22,
     "_enableWrapText": true,
     "_N$file": {
-      "__uuid__": "4a439a5e-c11d-4aba-915a-60e998f24767"
+      "__uuid__": "5a93c6f2-641b-49c2-a252-f7cdac42500b"
     },
     "_isSystemFontUsed": false,
     "_spacingX": 0,
@@ -18788,7 +18798,7 @@
     "_N$horizontalAlign": 0,
     "_N$verticalAlign": 1,
     "_N$fontFamily": "Arial",
-    "_N$overflow": 0,
+    "_N$overflow": 3,
     "_N$cacheMode": 0,
     "_id": ""
   },
@@ -18830,8 +18840,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 86.63,
-      "height": 28
+      "width": 260,
+      "height": 49.72
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -18881,13 +18891,13 @@
       }
     ],
     "_useOriginalSize": false,
-    "_string": "message",
-    "_N$string": "message",
-    "_fontSize": 25,
-    "_lineHeight": 28,
+    "_string": "love you so much love you so much love you so much",
+    "_N$string": "love you so much love you so much love you so much",
+    "_fontSize": 18,
+    "_lineHeight": 22,
     "_enableWrapText": true,
     "_N$file": {
-      "__uuid__": "4a439a5e-c11d-4aba-915a-60e998f24767"
+      "__uuid__": "5a93c6f2-641b-49c2-a252-f7cdac42500b"
     },
     "_isSystemFontUsed": false,
     "_spacingX": 0,
@@ -18923,7 +18933,7 @@
     "_layoutSize": {
       "__type__": "cc.Size",
       "width": 260,
-      "height": 52
+      "height": 95.44
     },
     "_resize": 1,
     "_N$layoutType": 2,
@@ -18988,7 +18998,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 260,
-      "height": 28
+      "height": 27.72
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -19000,7 +19010,7 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        22,
+        21.86,
         0,
         0,
         0,
@@ -19051,8 +19061,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 86.63,
-      "height": 28
+      "width": 260,
+      "height": 27.72
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -19064,7 +19074,7 @@
       "ctor": "Float64Array",
       "array": [
         -124.815,
-        14,
+        13.86,
         0,
         0,
         0,
@@ -19104,11 +19114,11 @@
     "_useOriginalSize": false,
     "_string": "message",
     "_N$string": "message",
-    "_fontSize": 25,
-    "_lineHeight": 28,
+    "_fontSize": 18,
+    "_lineHeight": 22,
     "_enableWrapText": true,
     "_N$file": {
-      "__uuid__": "4a439a5e-c11d-4aba-915a-60e998f24767"
+      "__uuid__": "5a93c6f2-641b-49c2-a252-f7cdac42500b"
     },
     "_isSystemFontUsed": false,
     "_spacingX": 0,
@@ -19144,7 +19154,7 @@
     "_layoutSize": {
       "__type__": "cc.Size",
       "width": 260,
-      "height": 28
+      "height": 27.72
     },
     "_resize": 1,
     "_N$layoutType": 2,
@@ -19188,7 +19198,7 @@
     "_layoutSize": {
       "__type__": "cc.Size",
       "width": 260,
-      "height": 99
+      "height": 142.16
     },
     "_resize": 1,
     "_N$layoutType": 2,

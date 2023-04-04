@@ -1,0 +1,56 @@
+{
+"skeleton": {
+	"hash": "SSnTw8dJy/dcWGmNBtFtTkp+fUI",
+	"spine": "3.8.84",
+	"x": -28,
+	"y": -64.5,
+	"width": 105.8,
+	"height": 194.99,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "2", "parent": "root" },
+	{ "name": "khunggat", "parent": "2" },
+	{ "name": "cangat", "parent": "khunggat", "length": 111.79, "rotation": 57.41, "x": -1.03, "y": 21.79 }
+],
+"slots": [
+	{ "name": "khunggat", "bone": "khunggat", "attachment": "khunggat" },
+	{ "name": "cangat", "bone": "cangat", "attachment": "cangat" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"cangat": {
+				"cangat": { "x": 54.96, "y": -2.04, "rotation": -57.41, "width": 95, "height": 127 }
+			},
+			"khunggat": {
+				"khunggat": { "width": 56, "height": 129 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"cangat": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "angle": -123.17, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "angle": 9.52, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -8.78, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1667, "y": -40.92, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3, "y": 1.86, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4 }
+				]
+			}
+		}
+	}
+}
+}
