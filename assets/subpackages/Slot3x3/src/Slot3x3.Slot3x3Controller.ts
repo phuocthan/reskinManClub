@@ -174,7 +174,8 @@ export default class Slot3x3Controller extends MiniGame {
             for (let j = 0; j < count; j++) {
                 if (j < 3) {
                     // this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "animation", true); // hna comment
-                    this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "idle", true);
+                    this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "animation", true);
+                    // this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "idle", true);
                 }
             }
         }

@@ -1,0 +1,34 @@
+
+jackpot.png
+size: 912,686
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_7
+  rotate: false
+  xy: 741, 118
+  size: 169, 171
+  orig: 169, 171
+  offset: 0, 0
+  index: -1
+1_jackpot
+  rotate: true
+  xy: 741, 330
+  size: 354, 90
+  orig: 354, 90
+  offset: 0, 0
+  index: -1
+1_khung
+  rotate: true
+  xy: 833, 291
+  size: 393, 46
+  orig: 393, 46
+  offset: 0, 0
+  index: -1
+1_light
+  rotate: false
+  xy: 2, 2
+  size: 737, 682
+  orig: 737, 682
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,59 @@
+{
+"skeleton": {
+	"hash": "Ee4VZkOrXyOXGuS8k5L81jM6UBw",
+	"spine": "3.8.84",
+	"x": -63.64,
+	"y": -51.11,
+	"width": 124,
+	"height": 109,
+	"images": "D:/SpineHuy/Freelancer/GiangHoang/DONE_full/2021.T11/Full1/slot/777/manchoi/images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "item2", "parent": "root", "y": -44.38 }
+],
+"slots": [
+	{ "name": "item2", "bone": "item2", "attachment": "item2" },
+	{ "name": "item16", "bone": "item2", "color": "ffffff00", "attachment": "item2", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"item16": {
+				"item2": { "x": -1.64, "y": 47.77, "width": 124, "height": 109 }
+			},
+			"item2": {
+				"item2": { "x": -1.64, "y": 47.77, "width": 124, "height": 109 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"item16": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "color": "ffffff63", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "color": "ffffff63", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"item2": {
+				"rotate": [
+					{ "angle": -5.48, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "angle": 1.79, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -5.48, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": 1.79, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -5.48 }
+				]
+			}
+		}
+	}
+}
+}
