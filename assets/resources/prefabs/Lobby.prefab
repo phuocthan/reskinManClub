@@ -27703,8 +27703,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 222,
-      "height": 392
+      "width": 221,
+      "height": 391
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -27715,7 +27715,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        1134.0300000000002,
+        1134.5300000000002,
         -5,
         0,
         0,
@@ -28947,7 +28947,7 @@
     "_playTimes": 0,
     "_isAniComplete": true,
     "_N$skeletonData": {
-      "__uuid__": "0e3a3aa5-f40a-4d60-8eec-628edb5b5e89"
+      "__uuid__": "db88975d-a035-4c18-9fe8-cbf21042fef7"
     },
     "_N$_defaultCacheMode": 0,
     "_N$debugSlots": false,
@@ -30354,8 +30354,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 221,
-      "height": 391
+      "width": 222,
+      "height": 392
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -30366,7 +30366,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        363.35,
+        363.85,
         0,
         0,
         0,
@@ -31481,7 +31481,7 @@
     "_playTimes": 0,
     "_isAniComplete": true,
     "_N$skeletonData": {
-      "__uuid__": "db88975d-a035-4c18-9fe8-cbf21042fef7"
+      "__uuid__": "6b667d83-90b8-427f-869f-4608aa6d7bc0"
     },
     "_N$_defaultCacheMode": 1,
     "_N$debugSlots": false,
@@ -43749,7 +43749,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        892.0300000000001,
+        893.0300000000001,
         0,
         0,
         0,
@@ -44971,7 +44971,7 @@
     "_playTimes": 0,
     "_isAniComplete": true,
     "_N$skeletonData": {
-      "__uuid__": "6b667d83-90b8-427f-869f-4608aa6d7bc0"
+      "__uuid__": "0e3a3aa5-f40a-4d60-8eec-628edb5b5e89"
     },
     "_N$_defaultCacheMode": 0,
     "_N$debugSlots": false,
@@ -45077,7 +45077,7 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        627.44,
+        628.44,
         0,
         0,
         0,

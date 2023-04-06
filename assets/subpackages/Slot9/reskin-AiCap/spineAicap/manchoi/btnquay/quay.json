@@ -1,0 +1,49 @@
+{
+"skeleton": {
+	"hash": "NLZCb1r+zfDLCuwSolG94Sjsesk",
+	"spine": "3.8.84",
+	"x": -79.06,
+	"y": -78.39,
+	"width": 157.45,
+	"height": 156.78,
+	"images": "D:/SpineHuy/Freelancer/GiangHoang/DONE_full/2021.T8/Full/Full1/slot/aicap/manchoi/images/",
+	"audio": "D:/SpineHuy/Freelancer/GiangHoang/DONE_full/2021.T8/Full/Full1/slot/aicap/manchoi"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "scale_ALL", "parent": "root", "scaleX": 0.67, "scaleY": 0.67 },
+	{ "name": "0", "parent": "scale_ALL" },
+	{ "name": "quay", "parent": "0", "x": -1, "y": 3 }
+],
+"slots": [
+	{ "name": "0_quay", "bone": "0", "attachment": "0_quay" },
+	{ "name": "0_vongquay", "bone": "quay", "attachment": "0_vongquay" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"0_quay": {
+				"0_quay": { "x": -0.5, "width": 235, "height": 234 }
+			},
+			"0_vongquay": {
+				"0_vongquay": { "width": 212, "height": 212 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"quay": {
+				"rotate": [
+					{},
+					{ "time": 0.9, "angle": -120 },
+					{ "time": 1.8, "angle": 120 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}

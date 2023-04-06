@@ -63,8 +63,8 @@ export default class Slot9Controller extends cc.Component {
 
     @property(cc.Button)
     btnSpin: cc.Button = null;
-    @property(sp.Skeleton)
-    spineSpine: sp.Skeleton = null;
+    @property(cc.Node)
+    spineSpine: cc.Node = null;
     @property(cc.Button)
     btnBack: cc.Button = null;
     // @property(cc.Button) // hna comment
@@ -454,7 +454,7 @@ export default class Slot9Controller extends cc.Component {
 
     private setEnabledAllButtons(enabled: boolean) {
         this.btnSpin.interactable = enabled;
-        this.spineSpine.node.active = enabled;
+        this.spineSpine.active = enabled;
         this.btnBack.interactable = enabled;
         // this.btnBet.interactable = enabled; // hna comment
         this.btnLine.interactable = enabled;
@@ -949,6 +949,36 @@ export default class Slot9Controller extends cc.Component {
         }
     }
 
+    private _isMenuShowing = false;
+    @property(cc.Node)
+    menuList: cc.Node = null;
+
+    actMenuShow() {
+        if (this._isMenuShowing) {
+            this.closeMenu();    
+        } else {
+            this.showMenu();
+        }
+        // this._isMenuShowing != this._isMenuShowing;
+    }
+
+    showMenu() {
+        this.menuList.opacity = 0;
+        this.menuList.active = true;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 255})
+        .start();
+        this._isMenuShowing = true
+    }
+
+    closeMenu() {
+        this.menuList.opacity = 255;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 0}).call( () => { this.menuList.active = false })
+        .start();
+        this._isMenuShowing = false
+    }
+
     chooseBet(event, bet) {
         cc.log("SLOT9 chooseBet lastBet : ", this.betIdx);
         cc.log("SLOT9 chooseBet newBet : ", bet);
@@ -1038,8 +1068,10 @@ export default class Slot9Controller extends cc.Component {
 
             this.lblLine.string = "25";
 
-            this.lblTotalBet.string = Utils.formatLongNumber(250000);
-            this.lblBet.string = Utils.formatLongNumber(10000);
+            this.lblTotalBet.string = '' + 250000;
+            // this.lblTotalBet.string = Utils.formatLongNumber(250000);
+            this.lblBet.string = '' + 10000;
+            // this.lblBet.string = Utils.formatLongNumber(10000);
 
             this.lblCoin.string = Utils.formatNumber(Configs.App.MONEY_TRIAL);
             this.lblJackpot.string = Utils.formatNumber(Configs.App.JACKPOT_TRIAL);
@@ -1049,7 +1081,8 @@ export default class Slot9Controller extends cc.Component {
             this.toggleTrial.node.children[0].active = true;
 
             this.lblLine.string = this.arrLineSelect.length.toString();
-            this.lblBet.string = Utils.formatLongNumber(this.listBet[this.betIdx]);
+            this.lblBet.string = '' + this.listBet[this.betIdx];
+            // this.lblBet.string = Utils.formatLongNumber(this.listBet[this.betIdx]);
             Tween.numberTo(this.lblTotalBet, this.arrLineSelect.length * this.listBet[this.betIdx], 0.3, (n) => Utils.formatLongNumber(n));
 
             this.lblCoin.string = Utils.formatNumber(Configs.Login.Coin);

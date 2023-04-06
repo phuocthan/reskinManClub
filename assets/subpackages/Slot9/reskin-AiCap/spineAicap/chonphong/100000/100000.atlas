@@ -1,0 +1,97 @@
+
+100000.png
+size: 1334,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_10000
+  rotate: true
+  xy: 1255, 330
+  size: 272, 77
+  orig: 272, 77
+  offset: 0, 0
+  index: -1
+3_tron
+  rotate: true
+  xy: 2, 6
+  size: 259, 256
+  orig: 259, 256
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 267
+  size: 335, 718
+  orig: 335, 718
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 403, 87
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 1076, 2
+  size: 177, 600
+  orig: 177, 600
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 693, 147
+  size: 91, 295
+  orig: 91, 295
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 722, 240
+  size: 352, 362
+  orig: 352, 362
+  offset: 0, 0
+  index: -1
+vai1
+  rotate: true
+  xy: 693, 4
+  size: 141, 175
+  orig: 141, 175
+  offset: 0, 0
+  index: -1
+vai2
+  rotate: false
+  xy: 583, 21
+  size: 108, 244
+  orig: 108, 244
+  offset: 0, 0
+  index: -1
+vai3
+  rotate: false
+  xy: 870, 31
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+vai4
+  rotate: false
+  xy: 260, 34
+  size: 141, 231
+  orig: 141, 231
+  offset: 0, 0
+  index: -1
+vai5
+  rotate: true
+  xy: 403, 4
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+vai6
+  rotate: false
+  xy: 1255, 103
+  size: 61, 225
+  orig: 61, 225
+  offset: 0, 0
+  index: -1
