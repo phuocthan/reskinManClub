@@ -1,0 +1,125 @@
+
+scatter.png
+size: 1612,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_scatter
+  rotate: true
+  xy: 1562, 182
+  size: 230, 48
+  orig: 232, 51
+  offset: 1, 2
+  index: -1
+4item/4item_00
+  rotate: false
+  xy: 2, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_01
+  rotate: false
+  xy: 2, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_02
+  rotate: false
+  xy: 197, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_03
+  rotate: false
+  xy: 197, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_04
+  rotate: false
+  xy: 392, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_05
+  rotate: false
+  xy: 392, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_06
+  rotate: false
+  xy: 587, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_07
+  rotate: false
+  xy: 587, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_08
+  rotate: false
+  xy: 782, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_09
+  rotate: false
+  xy: 782, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_10
+  rotate: false
+  xy: 977, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_11
+  rotate: false
+  xy: 977, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_12
+  rotate: false
+  xy: 1172, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_13
+  rotate: false
+  xy: 1172, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_14
+  rotate: false
+  xy: 1367, 208
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1
+4item/4item_15
+  rotate: false
+  xy: 1367, 2
+  size: 193, 204
+  orig: 196, 206
+  offset: 1, 1
+  index: -1

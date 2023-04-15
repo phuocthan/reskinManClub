@@ -1,0 +1,41 @@
+{
+"skeleton": {
+	"hash": "FZttQ/Hp7q1D6IQ+64yEFpWv4tg",
+	"spine": "3.8.84",
+	"x": -74,
+	"y": -73,
+	"width": 149,
+	"height": 146,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "4", "bone": "root", "attachment": "4" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"4": {
+				"4": { "x": 0.5, "y": 0.5, "width": 141, "height": 131 }
+			}
+		}
+	}
+],
+"animations": {
+	"fade": {
+		"slots": {
+			"4": {
+				"color": [
+					{ "color": "8e8e8eff" }
+				]
+			}
+		}
+	},
+	"idle": {},
+	"symbolFx": {}
+}
+}

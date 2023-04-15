@@ -1,0 +1,27 @@
+
+tps_symbols.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WILD
+  rotate: false
+  xy: 376, 224
+  size: 110, 59
+  orig: 110, 59
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 377, 408
+  size: 129, 98
+  orig: 130, 99
+  offset: 1, 1
+  index: -1
+flag
+  rotate: false
+  xy: 2, 281
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1

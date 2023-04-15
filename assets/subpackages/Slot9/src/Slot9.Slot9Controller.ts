@@ -281,7 +281,9 @@ export default class Slot9Controller extends cc.Component {
 
                 let randItem = Utils.randomRangeInt(0, this.sprFrameItems.length);
                 item.children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[randItem];
-                item.children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[randItem].skeletonJson.animations)[0], true);
+                // start item play IDLE
+                item.children[1].getComponent(sp.Skeleton).setAnimation(0, 'idle', true);
+                // item.children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[randItem].skeletonJson.animations)[0], true);
                 // if (j >= 3) {
                 //     // item.children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[randItem].skeletonJson.animations)[0], false);
                 //     item.children[2].getComponent(cc.Sprite).spriteFrame = this.sprFrameItemsBlur[randItem];
@@ -792,19 +794,18 @@ export default class Slot9Controller extends cc.Component {
                         for (let j = 0; j < this.columnsWild.length; j++) {
                             let c = this.columnsWild[j];
                             let children = this.columns.children[c].children;
-                            // children[2].children[1].getComponent(cc.Sprite).spriteFrame = this.sprFrameSrpites[this.wildItemId];
-                            // children[1].children[1].getComponent(cc.Sprite).spriteFrame = this.sprFrameSrpites[this.wildItemId];
-                            // children[0].children[1].getComponent(cc.Sprite).spriteFrame = this.sprFrameSrpites[this.wildItemId];
 
                             children[2].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[this.wildItemId];
                             children[1].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[this.wildItemId];
                             children[0].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[this.wildItemId];
 
-                            children[2].children[1].getComponent(sp.Skeleton).setAnimation(1, Object.keys(this.sprFrameItems[this.wildItemId].skeletonJson.animations)[0], true);
-                            children[1].children[1].getComponent(sp.Skeleton).setAnimation(1, Object.keys(this.sprFrameItems[this.wildItemId].skeletonJson.animations)[0], true);
-                            children[0].children[1].getComponent(sp.Skeleton).setAnimation(1, Object.keys(this.sprFrameItems[this.wildItemId].skeletonJson.animations)[0], true);
+                            children[2].children[1].getComponent(sp.Skeleton).setAnimation(1, 'idle', true);
+                            children[1].children[1].getComponent(sp.Skeleton).setAnimation(1, 'idle', true);
+                            children[0].children[1].getComponent(sp.Skeleton).setAnimation(1, 'idle', true);
 
                             this.iconWildColumns.children[c].active = true;
+                            this.iconWildColumns.children[c].getComponent(sp.Skeleton).setAnimation(0, 'symbolFx', false);
+                            this.iconWildColumns.children[c].getComponent(sp.Skeleton).addAnimation(0, 'idle', true);
                             if (this.soundSlotState == 1) {
                                 AudioManager.getInstance().playEffect(this.soundSpinWild);
                             }
@@ -844,17 +845,26 @@ export default class Slot9Controller extends cc.Component {
                     children[1].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[parseInt(matrix[5 + i])];
                     children[0].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[parseInt(matrix[10 + i])];
 
-                    children[2].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[i])].skeletonJson.animations)[0], true);
-                    children[1].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[5 + i])].skeletonJson.animations)[0], true);
-                    children[0].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[10 + i])].skeletonJson.animations)[0], true);
+                    // children[2].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[i])].skeletonJson.animations)[0], true);
+                    // children[1].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[5 + i])].skeletonJson.animations)[0], true);
+                    // children[0].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[10 + i])].skeletonJson.animations)[0], true);
+
+                    children[2].children[1].getComponent(sp.Skeleton).setAnimation(0, 'idle', true);
+                    children[1].children[1].getComponent(sp.Skeleton).setAnimation(0, 'idle', true);
+                    children[0].children[1].getComponent(sp.Skeleton).setAnimation(0, 'idle', true);
 
                     children[children.length - 1].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[parseInt(matrix[i])];
                     children[children.length - 2].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[parseInt(matrix[5 + i])];
                     children[children.length - 3].children[1].getComponent(sp.Skeleton).skeletonData = this.sprFrameItems[parseInt(matrix[10 + i])];
 
-                    children[children.length - 1].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[i])].skeletonJson.animations)[0], false);
-                    children[children.length - 2].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[5 + i])].skeletonJson.animations)[0], false);
-                    children[children.length - 3].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[10 + i])].skeletonJson.animations)[0], false);
+                    // children[children.length - 1].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[i])].skeletonJson.animations)[0], false);
+                    // children[children.length - 2].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[5 + i])].skeletonJson.animations)[0], false);
+                    // children[children.length - 3].children[1].getComponent(sp.Skeleton).setAnimation(0, Object.keys(this.sprFrameItems[parseInt(matrix[10 + i])].skeletonJson.animations)[0], false);
+ 
+                    children[children.length - 1].children[1].getComponent(sp.Skeleton).setAnimation(0, 'idle', false);
+                    children[children.length - 2].children[1].getComponent(sp.Skeleton).setAnimation(0, 'idle', false);
+                    children[children.length - 3].children[1].getComponent(sp.Skeleton).setAnimation(0, 'idle', false);
+
                 })
             ));
         }

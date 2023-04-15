@@ -39,6 +39,9 @@ export default class Slot3x3Controller extends MiniGame {
     sprSpineItems: sp.SkeletonData[] = [];
     // @property([cc.SpriteFrame])
     // sprFrameItems: cc.SpriteFrame[] = [];
+    
+    @property(sp.Skeleton)
+    spinAnim: sp.Skeleton = null;
     @property([cc.SpriteFrame])
     sprFrameItemsBlur: cc.SpriteFrame[] = [];
     @property([ButtonBet])
@@ -146,7 +149,7 @@ export default class Slot3x3Controller extends MiniGame {
     }
 
     start() {
-        this.itemHeight = 120;  // height / 3
+        this.itemHeight = 115;  // height / 3
         for (let i = 0; i < this.columns.childrenCount; i++) {
             let column = this.columns.children[i];
             let count = this.numItemInColumn;
@@ -174,8 +177,8 @@ export default class Slot3x3Controller extends MiniGame {
             for (let j = 0; j < count; j++) {
                 if (j < 3) {
                     // this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "animation", true); // hna comment
-                    this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "animation", true);
-                    // this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "idle", true);
+                    // this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "animation", true);
+                    this.columns.children[i].children[j].children[0].getComponent(sp.Skeleton).setAnimation(0, "idle", true);
                 }
             }
         }
@@ -311,6 +314,7 @@ export default class Slot3x3Controller extends MiniGame {
             this.showToast("Bạn thao tác quá nhanh.");
             return;
         }
+        this.spinAnim.setAnimation(0, 'animation', false);
         this.isSpined = false;
         this.stopAllEffects();
         this.stopShowLinesWin();

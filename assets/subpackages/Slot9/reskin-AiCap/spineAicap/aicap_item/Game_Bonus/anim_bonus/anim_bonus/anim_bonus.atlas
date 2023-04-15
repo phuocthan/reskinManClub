@@ -1,0 +1,48 @@
+
+anim_bonus.png
+size: 281,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biasach
+  rotate: true
+  xy: 121, 16
+  size: 165, 138
+  orig: 165, 138
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 371
+  size: 253, 202
+  orig: 253, 202
+  offset: 0, 0
+  index: -1
+sachclose
+  rotate: false
+  xy: 2, 211
+  size: 165, 158
+  orig: 165, 158
+  offset: 0, 0
+  index: -1
+sachopen
+  rotate: true
+  xy: 2, 2
+  size: 207, 117
+  orig: 207, 117
+  offset: 0, 0
+  index: -1
+trangsach1
+  rotate: true
+  xy: 169, 183
+  size: 90, 109
+  orig: 90, 109
+  offset: 0, 0
+  index: -1
+trangsach2
+  rotate: true
+  xy: 169, 275
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1

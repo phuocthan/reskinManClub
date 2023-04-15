@@ -1,0 +1,132 @@
+
+wilddai.png
+size: 928,1065
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_D
+  rotate: true
+  xy: 876, 131
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+3_I
+  rotate: false
+  xy: 872, 27
+  size: 17, 50
+  orig: 17, 50
+  offset: 0, 0
+  index: -1
+3_L
+  rotate: false
+  xy: 872, 79
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+3_W
+  rotate: true
+  xy: 876, 188
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+5_khung
+  rotate: false
+  xy: 2, 370
+  size: 315, 693
+  orig: 315, 693
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 319, 376
+  size: 221, 687
+  orig: 335, 718
+  offset: 55, 0
+  index: -1
+circle
+  rotate: false
+  xy: 721, 887
+  size: 176, 176
+  orig: 178, 178
+  offset: 1, 1
+  index: -1
+core
+  rotate: false
+  xy: 363, 260
+  size: 530, 114
+  orig: 550, 120
+  offset: 10, 1
+  index: -1
+hand1
+  rotate: false
+  xy: 542, 463
+  size: 177, 600
+  orig: 177, 600
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 831, 590
+  size: 91, 295
+  orig: 91, 295
+  offset: 0, 0
+  index: -1
+khung
+  rotate: true
+  xy: 2, 20
+  size: 348, 359
+  orig: 352, 362
+  offset: 2, 2
+  index: -1
+khungfx
+  rotate: false
+  xy: 363, 145
+  size: 511, 113
+  orig: 523, 124
+  offset: 12, 5
+  index: -1
+vai1
+  rotate: true
+  xy: 596, 2
+  size: 141, 175
+  orig: 141, 175
+  offset: 0, 0
+  index: -1
+vai2
+  rotate: false
+  xy: 721, 641
+  size: 108, 244
+  orig: 108, 244
+  offset: 0, 0
+  index: -1
+vai3
+  rotate: false
+  xy: 773, 29
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+vai4
+  rotate: true
+  xy: 363, 2
+  size: 141, 231
+  orig: 141, 231
+  offset: 0, 0
+  index: -1
+vai5
+  rotate: true
+  xy: 542, 380
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+vai6
+  rotate: true
+  xy: 701, 400
+  size: 61, 225
+  orig: 61, 225
+  offset: 0, 0
+  index: -1

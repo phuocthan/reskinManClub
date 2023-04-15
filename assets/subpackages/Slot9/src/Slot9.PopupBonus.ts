@@ -32,31 +32,33 @@ export class PopupBonus extends Dialog {
         for (let i = 0; i < this.items.childrenCount; i++) {
             let node = this.items.children[i];
             node["btn"] = node.getChildByName("btn").getComponent(cc.Button);
-            node["icon"] = node.getChildByName("icon");
-            node["label"] = node.getChildByName("label").getComponent(cc.Label);
+            node["coin"] = node.getChildByName("coin");
+            node["label"] = node.getChildByName("coin").getChildByName("label").getComponent(cc.Label);
 
             node["btn"].node.on("click", () => {
                 var value = this.dataBonus[this.dataBonus.length - this.left];
-                node.getChildByName("btn").active = false;
-                node.getChildByName("icon").active = true;
-                node["label"].node.active = true;
-                node["label"].string = "0";
-                Tween.numberTo(node["label"], value, 0.3);
-
-                this.totalCoin += value;
-                Tween.numberTo(this.lblTotal, this.totalCoin, 0.3);
-
-                this.left--;
-                if (this.left <= 0) {
-                    for (let i = 0; i < this.items.childrenCount; i++) {
-                        this.items.children[i]["btn"].interactable = false;
+                node.getChildByName("btn").getComponent(sp.Skeleton).setAnimation(0, 'mosach', false);
+                node.getChildByName("btn").getComponent(sp.Skeleton).addAnimation(0, 'idle_sachmo', true);
+                setTimeout ( () => {
+                    node["coin"].active = true;
+                    node["label"].string = "0";
+                    Tween.numberTo(node["label"], value, 0.3);
+    
+                    this.totalCoin += value;
+                    Tween.numberTo(this.lblTotal, this.totalCoin, 0.3);
+    
+                    this.left--;
+                    if (this.left <= 0) {
+                        for (let i = 0; i < this.items.childrenCount; i++) {
+                            this.items.children[i]["btn"].interactable = false;
+                        }
+                        this.scheduleOnce(() => {
+                            this.showSpecial();
+                        }, 1.5);
                     }
-                    this.scheduleOnce(() => {
-                        this.showSpecial();
-                    }, 1.5);
-                }
-
-                this.unschedule(this.cbAutoClose);
+    
+                    this.unschedule(this.cbAutoClose);
+                }, 500)
             });
         }
         for (let i = 0; i < this.itemSpecial.childrenCount; i++) {
@@ -68,24 +70,34 @@ export class PopupBonus extends Dialog {
                 for (let j = 0; j < this.itemSpecial.childrenCount; j++) {
                     let node2 = this.itemSpecial.children[j];
                     node2["btn"].interactable = false;
-                    node2["icon"].node.active = true;
+                    // node2["icon"].node.active = true;
                     if (j == i) {
                         console.log('this.factors[0] - 1this.factors[0] - 1', this.factors[0] - 1)
-                        node2["btn"].node.active = false;
+                        // node2["btn"].node.active = false;
+                        node2["btn"].node.getComponent(sp.Skeleton).setAnimation(0, 'symbolFx', false);
+                        // node2["btn"].node.getComponent(sp.Skeleton).addAnimation(0, 'fade', true);
                         node2["icon"].spriteFrame = this.sprFramesFactor[this.factors[0] - 1];
                     } else {
                         factorOtherIdx++;
                         node2["icon"].spriteFrame = this.sprFramesFactor[this.factors[factorOtherIdx] - 1];
+                        node2["btn"].node.getComponent(sp.Skeleton).setAnimation(0, 'fade', true);
                     }
+
+                    setTimeout( () => {
+                        node2["icon"].node.active = true;
+                    }, 500)
                     // node2["btn"].getComponent(cc.Sprite).spriteFrame = this.sprFramesSpecialOpened[1]; // hna comment
                 }
-                this.lblSpecial.string = Utils.formatNumber(this.totalCoin) + " x " + this.factors[0] + " = " + Utils.formatNumber(this.totalCoin * this.factors[0]);
+                this.totalCoin *= this.factors[0];
+                Tween.numberTo(this.lblTotal, this.totalCoin, 0.3);
+                // this.lblSpecial.string = Utils.formatNumber(this.totalCoin) + " x " + this.factors[0] + " = " + Utils.formatNumber(this.totalCoin * this.factors[0]);
                 this.hidden();
             });
         }
     }
 
     showBonus(bonus: string, onFinished: () => void) {
+        console.log('@@@ show Bonus ',bonus)
         super.show();
         this.special.active = false;
         this.items.active = true;
@@ -94,9 +106,10 @@ export class PopupBonus extends Dialog {
             let node = this.items.children[i];
             let btn = node.getChildByName("btn").getComponent(cc.Button);
             btn.node.active = true;
+            btn.getComponent(sp.Skeleton).setAnimation(0, 'idle_sachdong', true);
             btn.interactable = true;
-            node.getChildByName("icon").active = false;
-            node.getChildByName("label").active = false;
+            // node.getChildByName("icon").active = false;
+            node.getChildByName("coin").active = false;
         }
         this.onFinished = onFinished;
         let arrBonus = bonus.split(",");
@@ -132,6 +145,8 @@ export class PopupBonus extends Dialog {
             let btn = node.getChildByName("btn").getComponent(cc.Button);
             btn.node.active = true;
             btn.interactable = true;
+            btn.getComponent(sp.Skeleton).setAnimation(0, 'idle', true);
+            node.getChildByName("icon").active = false;
             node.getChildByName("icon").active = false;
         }
         this.lblSpecial.string = "";
@@ -142,7 +157,7 @@ export class PopupBonus extends Dialog {
         this.scheduleOnce(() => {
             this.dismiss();
             this.onFinished();
-        }, 1.5);
+        }, 2);
     }
 }
 export default PopupBonus;
