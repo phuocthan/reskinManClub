@@ -1,0 +1,20 @@
+
+1000.png
+size: 825,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1000
+  rotate: true
+  xy: 755, 252
+  size: 212, 68
+  orig: 212, 68
+  offset: 0, 0
+  index: -1
+nv2
+  rotate: true
+  xy: 2, 2
+  size: 462, 751
+  orig: 462, 751
+  offset: 0, 0
+  index: -1

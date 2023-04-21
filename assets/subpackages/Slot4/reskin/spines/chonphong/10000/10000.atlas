@@ -1,0 +1,27 @@
+
+10000.png
+size: 1102,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000
+  rotate: false
+  xy: 715, 2
+  size: 235, 74
+  orig: 235, 74
+  offset: 0, 0
+  index: -1
+laser
+  rotate: true
+  xy: 715, 78
+  size: 578, 385
+  orig: 578, 385
+  offset: 0, 0
+  index: -1
+nv1
+  rotate: true
+  xy: 2, 15
+  size: 641, 711
+  orig: 641, 711
+  offset: 0, 0
+  index: -1

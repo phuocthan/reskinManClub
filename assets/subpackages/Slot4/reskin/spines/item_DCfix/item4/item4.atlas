@@ -1,0 +1,13 @@
+
+item4.png
+size: 173,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 169, 207
+  orig: 169, 207
+  offset: 0, 0
+  index: -1

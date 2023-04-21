@@ -697,7 +697,7 @@
       "array": [
         0,
         0,
-        660.9081418973767,
+        658.3089089675865,
         0,
         0,
         0,
@@ -4208,8 +4208,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -583,
-        -5.184999999999995,
+        -580,
+        -4.5,
         0,
         0,
         0,
@@ -4360,9 +4360,9 @@
     "alignMode": 1,
     "_target": null,
     "_alignFlags": 9,
-    "_left": 17,
+    "_left": 20,
     "_right": 0,
-    "_top": 20.684999999999995,
+    "_top": 20,
     "_bottom": 0,
     "_verticalCenter": 0,
     "_horizontalCenter": 0,
@@ -41433,7 +41433,7 @@
         "__id__": 850
       }
     ],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 858
@@ -41637,8 +41637,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -575.135,
-        292,
+        -580,
+        300.5,
         0,
         0,
         0,
@@ -41705,9 +41705,9 @@
     "alignMode": 1,
     "_target": null,
     "_alignFlags": 9,
-    "_left": 24.86500000000001,
+    "_left": 20,
     "_right": 0,
-    "_top": 28.5,
+    "_top": 20,
     "_bottom": 0,
     "_verticalCenter": 0,
     "_horizontalCenter": 0,
@@ -45235,7 +45235,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 332.5,
+      "width": 332.32,
       "height": 552.75
     },
     "_anchorPoint": {
@@ -45248,7 +45248,7 @@
       "ctor": "Float64Array",
       "array": [
         -338.227,
-        0.16,
+        -5.84,
         0,
         0,
         0,
@@ -45287,7 +45287,7 @@
     ],
     "paused": false,
     "defaultSkin": "",
-    "defaultAnimation": "idle",
+    "defaultAnimation": "",
     "_preCacheMode": 1,
     "_cacheMode": 1,
     "loop": true,
@@ -45339,7 +45339,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 332.5,
+      "width": 332.32,
       "height": 552.75
     },
     "_anchorPoint": {
@@ -45352,14 +45352,14 @@
       "ctor": "Float64Array",
       "array": [
         -180.854,
-        0.16,
+        -5.84,
         0,
         0,
         0,
         0,
         1,
         1,
-        1.1,
+        1,
         1
       ]
     },
@@ -45391,7 +45391,7 @@
     ],
     "paused": false,
     "defaultSkin": "",
-    "defaultAnimation": "idle",
+    "defaultAnimation": "",
     "_preCacheMode": 1,
     "_cacheMode": 1,
     "loop": true,
@@ -45443,7 +45443,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 332.5,
+      "width": 332.32,
       "height": 552.75
     },
     "_anchorPoint": {
@@ -45456,14 +45456,14 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        0.16,
+        -5.84,
         0,
         0,
         0,
         0,
         1,
         1,
-        1.1,
+        1,
         1
       ]
     },
@@ -45495,7 +45495,7 @@
     ],
     "paused": false,
     "defaultSkin": "",
-    "defaultAnimation": "idle",
+    "defaultAnimation": "",
     "_preCacheMode": 1,
     "_cacheMode": 1,
     "loop": true,
@@ -45547,7 +45547,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 332.5,
+      "width": 332.32,
       "height": 552.75
     },
     "_anchorPoint": {
@@ -45560,14 +45560,14 @@
       "ctor": "Float64Array",
       "array": [
         177.27,
-        0.16,
+        -5.84,
         0,
         0,
         0,
         0,
         1,
         1,
-        1.1,
+        1,
         1
       ]
     },
@@ -45599,7 +45599,7 @@
     ],
     "paused": false,
     "defaultSkin": "",
-    "defaultAnimation": "idle",
+    "defaultAnimation": "",
     "_preCacheMode": 1,
     "_cacheMode": 1,
     "loop": true,
@@ -45651,7 +45651,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 332.5,
+      "width": 332.32,
       "height": 552.75
     },
     "_anchorPoint": {
@@ -45664,14 +45664,14 @@
       "ctor": "Float64Array",
       "array": [
         352.478,
-        0.16,
+        -5.84,
         0,
         0,
         0,
         0,
         1,
         1,
-        1.1,
+        1,
         1
       ]
     },
@@ -45703,7 +45703,7 @@
     ],
     "paused": false,
     "defaultSkin": "",
-    "defaultAnimation": "idle",
+    "defaultAnimation": "",
     "_preCacheMode": 1,
     "_cacheMode": 1,
     "loop": true,

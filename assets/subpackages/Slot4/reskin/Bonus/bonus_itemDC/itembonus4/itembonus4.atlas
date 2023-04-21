@@ -1,0 +1,13 @@
+
+itembonus4.png
+size: 132,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5
+  rotate: false
+  xy: 2, 2
+  size: 128, 138
+  orig: 128, 138
+  offset: 0, 0
+  index: -1

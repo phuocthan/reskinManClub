@@ -1,0 +1,13 @@
+
+itembonus3.png
+size: 139,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 135, 136
+  orig: 135, 136
+  offset: 0, 0
+  index: -1

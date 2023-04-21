@@ -1,0 +1,111 @@
+
+thanglon.png
+size: 1905,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_light
+  rotate: false
+  xy: 1343, 316
+  size: 560, 559
+  orig: 560, 559
+  offset: 0, 0
+  index: -1
+1_setkhung
+  rotate: false
+  xy: 693, 22
+  size: 529, 193
+  orig: 529, 193
+  offset: 0, 0
+  index: -1
+2_cirrcle
+  rotate: true
+  xy: 693, 217
+  size: 658, 648
+  orig: 658, 648
+  offset: 0, 0
+  index: -1
+2_khung
+  rotate: false
+  xy: 200, 6
+  size: 454, 104
+  orig: 454, 104
+  offset: 0, 0
+  index: -1
+2_nv
+  rotate: false
+  xy: 200, 112
+  size: 491, 763
+  orig: 491, 763
+  offset: 0, 0
+  index: -1
+2_thanglon
+  rotate: true
+  xy: 2, 83
+  size: 792, 196
+  orig: 792, 196
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: true
+  xy: 121, 8
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Coin1
+  rotate: false
+  xy: 2, 16
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+Coin4
+  rotate: false
+  xy: 86, 33
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Coin5
+  rotate: true
+  xy: 36, 22
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+attack_light
+  rotate: false
+  xy: 1398, 67
+  size: 247, 247
+  orig: 247, 247
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 136, 49
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 86, 2
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+skill3_core
+  rotate: false
+  xy: 1647, 186
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 1224, 43
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1

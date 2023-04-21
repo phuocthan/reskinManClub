@@ -1,0 +1,104 @@
+
+jackpot.png
+size: 1396,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_BG
+  rotate: true
+  xy: 232, 24
+  size: 250, 223
+  orig: 254, 228
+  offset: 2, 3
+  index: -1
+2_jackpot
+  rotate: true
+  xy: 680, 2
+  size: 272, 64
+  orig: 276, 66
+  offset: 2, 1
+  index: -1
+2_khung
+  rotate: false
+  xy: 2, 13
+  size: 228, 261
+  orig: 230, 312
+  offset: 1, 1
+  index: -1
+2_nv
+  rotate: false
+  xy: 457, 46
+  size: 221, 228
+  orig: 221, 228
+  offset: 0, 0
+  index: -1
+smoke/Layer 1
+  rotate: false
+  xy: 746, 146
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 10
+  rotate: false
+  xy: 1266, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 2
+  rotate: false
+  xy: 746, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 3
+  rotate: false
+  xy: 876, 146
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 4
+  rotate: false
+  xy: 876, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 5
+  rotate: false
+  xy: 1006, 146
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 6
+  rotate: false
+  xy: 1006, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 7
+  rotate: false
+  xy: 1136, 146
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 8
+  rotate: false
+  xy: 1266, 146
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+smoke/Layer 9
+  rotate: false
+  xy: 1136, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

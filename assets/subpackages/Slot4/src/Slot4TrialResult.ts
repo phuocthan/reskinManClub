@@ -177,17 +177,17 @@ export default class Slot4TrialResult {
         //     prize: 57200,
         //     currentMoney: 0
         // }
-        {
-            ref: 14087,
-            result: 5,
-            matrix: "0,2,1,6,3,1,1,2,0,5,0,0,2,6,6",
-            linesWin: "4",
-            haiSao: "1,1,1,1,2,2,1,1,1,1,0",
-            prize: 480000,
-            currentMoney: 4373606017,
-            freeSpin: 0,
-            ratio: 0,
-        },
+        // {
+        //     ref: 14087,
+        //     result: 5,
+        //     matrix: "0,2,1,6,3,1,1,2,0,5,0,0,2,6,6",
+        //     linesWin: "4",
+        //     haiSao: "1,1,1,1,2,2,1,1,1,1,0",
+        //     prize: 480000,
+        //     currentMoney: 4373606017,
+        //     freeSpin: 0,
+        //     ratio: 0,
+        // },
         // {
         //     ref: 14103,
         //     result: 1,

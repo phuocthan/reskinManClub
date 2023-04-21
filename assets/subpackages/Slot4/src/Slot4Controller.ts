@@ -135,8 +135,8 @@ export default class Slot4Controller extends cc.Component {
     popupX2: cc.Node = null;
 
     // hna add
-    @property(sp.Skeleton)
-    chooseLineSpine: sp.Skeleton = null;
+    @property(cc.Label)
+    chooseLineLbl: cc.Label = null;
     @property(PopupSetting)
     popupSetting: PopupSetting = null;
     @property(cc.Node)
@@ -145,8 +145,8 @@ export default class Slot4Controller extends cc.Component {
     stopSpine: sp.Skeleton = null;
     @property(sp.Skeleton)
     holdSpine: sp.Skeleton = null;
-    @property(sp.Skeleton)
-    spineSpin: sp.Skeleton = null;
+    @property(cc.Node)
+    spineNode: cc.Node = null;
     // end
 
     private static readonly TOTAL_ITEM = 7;
@@ -218,14 +218,14 @@ export default class Slot4Controller extends cc.Component {
             if(_this.spinCounter === 500) {
                 _this.holdSpine.node.active = true;
                 _this.stopSpine.node.active = false;
-                _this.spineSpin.node.active = false;
+                _this.spineNode.active = false;
                 _this.spinCounter += 100;
             } else if(_this.spinCounter === 2000) {
                 this.toggleAuto.isChecked = true;
                 _this.setAutoSpin();
                 _this.holdSpine.node.active = false;
                 _this.stopSpine.node.active = true;
-                _this.spineSpin.node.active = false;
+                _this.spineNode.active = false;
                 clearInterval(_this.spinTimer);
             } else {
                 _this.spinCounter += 100;
@@ -273,7 +273,7 @@ export default class Slot4Controller extends cc.Component {
                     this.setAutoSpin();
                     this.holdSpine.node.active = false;
                     this.stopSpine.node.active = false;
-                    this.spineSpin.node.active = true;
+                    this.spineNode.active = true;
                 } else {
                     this.spinClick();
                 }
@@ -343,7 +343,8 @@ export default class Slot4Controller extends cc.Component {
             // this.totalLineLabel.string = lines.length.toString(); hna comment
 
             // hna add
-            this.chooseLineSpine.setAnimation(0, `num_${lines.length.toString()}`, true);
+            this.chooseLineLbl.string = lines.length.toString();
+            // this.chooseLineSpine.setAnimation(0, `num_${lines.length.toString()}`, true);
             // end
             Tween.numberTo(this.totalBetLabel, lines.length * this.listBet[this.betId], 0.3);
         }
@@ -479,7 +480,7 @@ export default class Slot4Controller extends cc.Component {
         //     })
         // ));
 
-        let NUMBER_ICON_PER_COL = 3;
+        let NUMBER_ICON_PER_COL = 5;
 
         this.listActiveItem = [];
         for(let i=0; i<this.listCol.length*NUMBER_ICON_PER_COL; i++) {
@@ -495,7 +496,7 @@ export default class Slot4Controller extends cc.Component {
                         this.listActiveItem[j * this.listCol.length + i] = item;
                         let sprite = matrix[j * this.listCol.length + i];
                         console.log("this.listActiveItemthis.listActiveItem", this.listActiveItem)
-                        item.getComponent(Slot4Icon).setSpine(sprite);
+                        item && item.getComponent(Slot4Icon) && item.getComponent(Slot4Icon).setSpine(sprite);
                     }
                 });
             }, this.TIME_DELAY_BETWEEN_COL * this.SPEED * i); 
@@ -568,6 +569,36 @@ export default class Slot4Controller extends cc.Component {
 
             })
         ));
+    }
+
+    private _isMenuShowing = false;
+    @property(cc.Node)
+    menuList: cc.Node = null;
+
+    actMenuShow() {
+        if (this._isMenuShowing) {
+            this.closeMenu();    
+        } else {
+            this.showMenu();
+        }
+        // this._isMenuShowing != this._isMenuShowing;
+    }
+
+    showMenu() {
+        this.menuList.opacity = 0;
+        this.menuList.active = true;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 255})
+        .start();
+        this._isMenuShowing = true
+    }
+
+    closeMenu() {
+        this.menuList.opacity = 255;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 0}).call( () => { this.menuList.active = false })
+        .start();
+        this._isMenuShowing = false
     }
 
     spinFinish(hasDelay: boolean) {
@@ -800,9 +831,9 @@ export default class Slot4Controller extends cc.Component {
         this.btnBack.interactable = active;
         this.btnLine.interactable = active;
         this.btnBet.interactable = active;
-        this.spineSpin.node.active = active; // hna add
-        this.stopSpine.node.active = !active; // hna add
-        this.holdSpine.node.active = false; // hna add
+        // this.spineNode.active = active; // hna add
+        // this.stopSpine.node.active = !active; // hna add
+        // this.holdSpine.node.active = false; // hna add
         this.setButtonAuto(active);
         this.setButtonFlash(active);
     }

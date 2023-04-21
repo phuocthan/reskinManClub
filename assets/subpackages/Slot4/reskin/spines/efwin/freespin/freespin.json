@@ -1,0 +1,73 @@
+{
+"skeleton": {
+	"hash": "dO4+hAGAh3BcfYwY6EsxIpPyM60",
+	"spine": "3.8.84",
+	"x": -431.08,
+	"y": -424.93,
+	"width": 784,
+	"height": 782.6,
+	"images": "D:/SpineHuy/Freelancer/GiangHoang/DONE_full/2021.T8/Full/Full1/slot/DC/Efwin/images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "4_FREESPIN", "parent": "root", "scaleX": 0.7, "scaleY": 0.7 },
+	{ "name": "4_freespin", "parent": "4_FREESPIN", "x": -37.45, "y": 39.85 },
+	{ "name": "1_light4", "parent": "4_FREESPIN", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "1_light4", "bone": "1_light4", "attachment": "1_light", "blend": "additive" },
+	{ "name": "4_freespin", "bone": "4_freespin", "attachment": "4_freespin" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1_light4": {
+				"1_light": { "x": -27.92, "y": -24.02, "width": 560, "height": 559 }
+			},
+			"4_freespin": {
+				"4_freespin": { "x": 13.45, "y": -25.35, "width": 640, "height": 137 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"1_light4": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 120, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4, "angle": 120 }
+				],
+				"scale": [
+					{ "x": 0.5, "y": 0.5, "curve": 0.139, "c2": 0.33, "c3": 0.75 },
+					{ "time": 0.4333, "x": 1.2, "y": 1.2, "curve": 0.594, "c3": 0.75 },
+					{ "time": 0.6667 }
+				]
+			},
+			"4_freespin": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": -120 },
+					{ "time": 0.3333, "angle": 120 },
+					{ "time": 0.5 }
+				],
+				"scale": [
+					{ "x": 0, "y": 0, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.5, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.5, "x": 1.2, "y": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4 }
+				]
+			}
+		}
+	}
+}
+}

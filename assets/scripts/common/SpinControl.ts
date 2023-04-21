@@ -8,13 +8,16 @@ export default class SpinControl extends cc.Component {
             listIcon[i].runAction(cc.moveBy(delay, cc.v2(0, 50)));
         }
 
+        // return
         this.scheduleOnce(() => {
             let v0 = -1000;
             let a = -400;
 
             let timeLapsed = 0;
 
-            let outOfColThreshold = (col.height/2 + listIcon[0].height/2);
+            // let outOfColThreshold = (col.height + listIcon[0].height);
+            let outOfColThreshold = (col.height/2 + listIcon[0].height);
+            // let outOfColThreshold = (col.height/2 + listIcon[0].height/2);
 
             let func = (delta: number) => {
                 let v = v0 + a*delta;

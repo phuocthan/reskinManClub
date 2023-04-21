@@ -439,21 +439,21 @@ export default class LobbyController extends cc.Component {
                     break;
                 }
                 case cmd.Code.GET_SECURITY_INFO: {
-                    if (!PopupProfile.isShowing() && !PopupVip.isShowing()) {
-                        let res = new cmd.ResGetSecurityInfo(data);
-                        if (res.mobile) {
-                            Configs.Login.mobile = res.mobile;
-                            // this.showPopupEvent(); // hna comment
-                            this.actEventMailBox(); // hna add
-                        } else {
-                            // this.actShowNpc(); // hna comment
-                            this.actEventMailBox(); // hna add
-                        }
+                    // if (!PopupProfile.isShowing() && !PopupVip.isShowing()) {
+                    //     let res = new cmd.ResGetSecurityInfo(data);
+                    //     if (res.mobile) {
+                    //         Configs.Login.mobile = res.mobile;
+                    //         // this.showPopupEvent(); // hna comment
+                    //         this.actEventMailBox(); // hna add
+                    //     } else {
+                    //         // this.actShowNpc(); // hna comment
+                    //         this.actEventMailBox(); // hna add
+                    //     }
 
-                        this.scheduleOnce(() => {
-                            App.instance.openGameTaiXiuMini();
-                        }, 2.5);
-                    }
+                    //     this.scheduleOnce(() => {
+                    //         App.instance.openGameTaiXiuMini();
+                    //     }, 2.5);
+                    // }
                     break;
                 }
                 case cmdTaiXiu.Code.GAME_INFO: {

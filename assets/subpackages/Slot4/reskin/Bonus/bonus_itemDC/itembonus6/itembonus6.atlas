@@ -1,0 +1,13 @@
+
+itembonus6.png
+size: 188,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 2, 2
+  size: 184, 140
+  orig: 184, 140
+  offset: 0, 0
+  index: -1
