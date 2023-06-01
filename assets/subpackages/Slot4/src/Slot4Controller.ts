@@ -480,7 +480,7 @@ export default class Slot4Controller extends cc.Component {
         //     })
         // ));
 
-        let NUMBER_ICON_PER_COL = 5;
+        let NUMBER_ICON_PER_COL = 3;
 
         this.listActiveItem = [];
         for(let i=0; i<this.listCol.length*NUMBER_ICON_PER_COL; i++) {
