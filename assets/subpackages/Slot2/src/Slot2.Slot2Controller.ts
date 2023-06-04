@@ -96,12 +96,12 @@ export class Slot2Controller extends cc.Component {
     popupSetting: PopupSetting = null;
     @property(sp.Skeleton)
     thongTinSpine: sp.Skeleton = null;
-    @property(sp.Skeleton)
-    stopSpine: sp.Skeleton = null;
-    @property(sp.Skeleton)
-    holdSpine: sp.Skeleton = null;
-    @property(sp.Skeleton)
-    spineSpin: sp.Skeleton = null;
+    // @property(sp.Skeleton)
+    // stopSpine: sp.Skeleton = null;
+    // @property(sp.Skeleton)
+    // holdSpine: sp.Skeleton = null;
+    // @property(sp.Skeleton)
+    // spineSpin: sp.Skeleton = null;
     // end
 
     private rollStartItemCount = 15;
@@ -156,16 +156,16 @@ export class Slot2Controller extends cc.Component {
         this.spinCounter = 0;
         this.spinTimer = setInterval(() => {
             if(_this.spinCounter === 500) {
-                _this.holdSpine.node.active = true;
-                _this.stopSpine.node.active = false;
-                _this.spineSpin.node.active = false;
+                // _this.holdSpine.node.active = true;
+                // _this.stopSpine.node.active = false;
+                // _this.spineSpin.node.active = false;
                 _this.spinCounter += 100;
             } else if(_this.spinCounter === 2000) {
                 this.toggleAuto.isChecked = true;
                 _this.toggleAutoOnCheck();
-                _this.holdSpine.node.active = false;
-                _this.stopSpine.node.active = true;
-                _this.spineSpin.node.active = false;
+                // _this.holdSpine.node.active = false;
+                // _this.stopSpine.node.active = true;
+                // _this.spineSpin.node.active = false;
                 clearInterval(_this.spinTimer);
             } else {
                 _this.spinCounter += 100;
@@ -241,9 +241,9 @@ export class Slot2Controller extends cc.Component {
                 if(this.toggleAuto.isChecked) {
                     this.toggleAuto.isChecked = false;
                     this.toggleAutoOnCheck();
-                    this.holdSpine.node.active = false;
-                    this.stopSpine.node.active = false;
-                    this.spineSpin.node.active = true;
+                    // this.holdSpine.node.active = false;
+                    // this.stopSpine.node.active = false;
+                    // this.spineSpin.node.active = true;
                 } else {
                     this.actSpin();
                 }
@@ -509,9 +509,9 @@ export class Slot2Controller extends cc.Component {
         this.btnSpin.interactable = enabled;
         this.btnBack.interactable = enabled;
         this.btnBet.interactable = enabled;
-        this.spineSpin.node.active = enabled; // hna add
-        this.stopSpine.node.active = !enabled; // hna add
-        this.holdSpine.node.active = false; // hna add
+        // this.spineSpin.node.active = enabled; // hna add
+        // this.stopSpine.node.active = !enabled; // hna add
+        // this.holdSpine.node.active = false; // hna add
         this.btnLine.interactable = enabled;
         this.btnTrial.interactable = enabled;
     }

@@ -1,0 +1,48 @@
+
+thanglon.png
+size: 1497,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_coin
+  rotate: false
+  xy: 811, 242
+  size: 527, 378
+  orig: 527, 378
+  offset: 0, 0
+  index: -1
+1_icon1
+  rotate: false
+  xy: 1340, 359
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+1_icon2
+  rotate: false
+  xy: 1340, 489
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+1_khung
+  rotate: false
+  xy: 811, 2
+  size: 236, 53
+  orig: 236, 53
+  offset: 0, 0
+  index: -1
+1_light
+  rotate: false
+  xy: 2, 9
+  size: 807, 611
+  orig: 807, 611
+  offset: 0, 0
+  index: -1
+2_thanglon
+  rotate: false
+  xy: 811, 57
+  size: 684, 183
+  orig: 684, 183
+  offset: 0, 0
+  index: -1

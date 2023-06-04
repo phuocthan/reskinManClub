@@ -1,0 +1,83 @@
+
+jackpot.png
+size: 1903,620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_coin
+  rotate: false
+  xy: 811, 240
+  size: 527, 378
+  orig: 527, 378
+  offset: 0, 0
+  index: -1
+1_icon1
+  rotate: false
+  xy: 1450, 45
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+1_icon2
+  rotate: false
+  xy: 1320, 42
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+1_jackpot
+  rotate: false
+  xy: 1340, 482
+  size: 561, 136
+  orig: 561, 136
+  offset: 0, 0
+  index: -1
+1_khung
+  rotate: true
+  xy: 1265, 2
+  size: 236, 53
+  orig: 236, 53
+  offset: 0, 0
+  index: -1
+1_light
+  rotate: false
+  xy: 2, 7
+  size: 807, 611
+  orig: 807, 611
+  offset: 0, 0
+  index: -1
+5_body
+  rotate: true
+  xy: 1340, 347
+  size: 133, 456
+  orig: 133, 456
+  offset: 0, 0
+  index: -1
+5_coat
+  rotate: false
+  xy: 1642, 85
+  size: 258, 260
+  orig: 258, 260
+  offset: 0, 0
+  index: -1
+5_hair
+  rotate: true
+  xy: 1340, 175
+  size: 170, 300
+  orig: 170, 300
+  offset: 0, 0
+  index: -1
+5_hand
+  rotate: true
+  xy: 811, 45
+  size: 193, 452
+  orig: 193, 452
+  offset: 0, 0
+  index: -1
+5_hand1
+  rotate: false
+  xy: 1798, 430
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
