@@ -150,6 +150,37 @@ export class Slot2Controller extends cc.Component {
     private spinTimer = null;
     // end
 
+    private _isMenuShowing = false;
+    @property(cc.Node)
+    menuList: cc.Node = null;
+
+    actMenuShow() {
+        if (this._isMenuShowing) {
+            this.closeMenu();    
+        } else {
+            this.showMenu();
+        }
+        // this._isMenuShowing != this._isMenuShowing;
+    }
+
+    showMenu() {
+        this.menuList.opacity = 0;
+        this.menuList.active = true;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 255})
+        .start();
+        this._isMenuShowing = true
+    }
+
+    closeMenu() {
+        this.menuList.opacity = 255;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 0}).call( () => { this.menuList.active = false })
+        .start();
+        this._isMenuShowing = false
+    }
+
+
     // hna add
     lauchSpinTimer() {
         let _this = this;
