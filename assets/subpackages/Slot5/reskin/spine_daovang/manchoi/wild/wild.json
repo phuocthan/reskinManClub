@@ -1,0 +1,124 @@
+{
+"skeleton": {
+	"hash": "DFNrNZZGo082lOe9/v/OEp1KkRI",
+	"spine": "3.8.84",
+	"x": -75.5,
+	"y": -79,
+	"width": 138,
+	"height": 158.12,
+	"images": "./images/",
+	"audio": "E:/My Drive/Outsource/GiangHoang/Fullslot1/slot/daovang/manchoi"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "3", "parent": "root" },
+	{ "name": "3_boom", "parent": "3", "x": 5.21, "y": -15.64 },
+	{ "name": "3_wild", "parent": "3", "x": -2.15, "y": -57.38 },
+	{ "name": "lua", "parent": "3_boom", "x": -55.55, "y": 71.83 }
+],
+"slots": [
+	{ "name": "3_boom", "bone": "3_boom", "attachment": "3_boom" },
+	{ "name": "3_wild", "bone": "3_wild", "attachment": "3_wild" },
+	{ "name": "lua", "bone": "lua", "attachment": "lua3", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"3_boom": {
+				"3_boom": { "x": -5.21, "y": 15.64, "width": 125, "height": 134 }
+			},
+			"3_wild": {
+				"3_wild": { "x": 3.15, "y": 3.38, "width": 123, "height": 50 }
+			},
+			"lua": {
+				"lua": { "x": 0.18, "y": 2.63, "width": 32, "height": 35 },
+				"lua2": { "path": "lua", "x": 0.46, "y": -1.21, "rotation": -128.29, "width": 32, "height": 35 },
+				"lua3": { "path": "lua", "x": -2.03, "y": -0.57, "rotation": 145.22, "width": 32, "height": 35 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"lua": {
+				"attachment": [
+					{ "name": "lua" },
+					{ "time": 0.0667, "name": "lua2" },
+					{ "time": 0.1333, "name": "lua3" },
+					{ "time": 0.2333, "name": "lua" },
+					{ "time": 0.3, "name": "lua2" },
+					{ "time": 0.3667, "name": "lua3" },
+					{ "time": 0.4333, "name": "lua" },
+					{ "time": 0.5333, "name": "lua2" },
+					{ "time": 0.6, "name": "lua3" },
+					{ "time": 0.6667, "name": "lua" },
+					{ "time": 0.7333, "name": "lua2" },
+					{ "time": 0.8, "name": "lua3" },
+					{ "time": 0.9, "name": "lua" },
+					{ "time": 0.9667, "name": "lua2" },
+					{ "time": 1.0333, "name": "lua3" },
+					{ "time": 1.1, "name": "lua" },
+					{ "time": 1.2, "name": "lua2" },
+					{ "time": 1.2667, "name": "lua3" },
+					{ "time": 1.3333, "name": "lua" }
+				]
+			}
+		},
+		"bones": {
+			"3_boom": {
+				"rotate": [
+					{ "angle": 3.59, "curve": 0.375, "c2": 0.62, "c3": 0.716 },
+					{ "time": 0.0667, "angle": 4.83, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "angle": -4.74, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": 4.83, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667, "angle": -4.74, "curve": 0.243, "c3": 0.68, "c4": 0.71 },
+					{ "time": 1.3333, "angle": 3.59 }
+				],
+				"translate": [
+					{ "y": 11.61, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "y": 11.61, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "y": 11.61 }
+				]
+			},
+			"3_wild": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 1.05, "y": 1.05, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 1.05, "y": 1.05, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"lua": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.0667, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8667, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.0667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1333, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.2667, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	}
+}
+}

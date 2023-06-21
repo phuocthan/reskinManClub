@@ -1,0 +1,41 @@
+
+2.png
+size: 850,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_khung
+  rotate: false
+  xy: 2, 4
+  size: 244, 67
+  orig: 244, 67
+  offset: 0, 0
+  index: -1
+2_star
+  rotate: true
+  xy: 366, 16
+  size: 223, 215
+  orig: 223, 215
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 583, 2
+  size: 237, 183
+  orig: 237, 183
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 768, 144
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+nv
+  rotate: true
+  xy: 2, 73
+  size: 166, 362
+  orig: 166, 362
+  offset: 0, 0
+  index: -1

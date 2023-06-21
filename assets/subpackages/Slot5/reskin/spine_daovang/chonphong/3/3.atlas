@@ -1,0 +1,20 @@
+
+3.png
+size: 489,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3_khung
+  rotate: true
+  xy: 406, 25
+  size: 294, 81
+  orig: 294, 81
+  offset: 0, 0
+  index: -1
+9_nv
+  rotate: true
+  xy: 2, 2
+  size: 317, 402
+  orig: 317, 402
+  offset: 0, 0
+  index: -1

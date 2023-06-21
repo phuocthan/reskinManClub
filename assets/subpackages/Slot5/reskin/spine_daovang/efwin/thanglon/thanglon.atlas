@@ -1,0 +1,48 @@
+
+thanglon.png
+size: 1659,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackpot/1_kc3
+  rotate: false
+  xy: 1257, 21
+  size: 155, 153
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+jackpot/1_kc4
+  rotate: false
+  xy: 1415, 80
+  size: 184, 182
+  orig: 184, 182
+  offset: 0, 0
+  index: -1
+jackpot/1_khung
+  rotate: true
+  xy: 1591, 460
+  size: 264, 66
+  orig: 264, 66
+  offset: 0, 0
+  index: -1
+jackpot/1_light
+  rotate: false
+  xy: 2, 2
+  size: 1253, 722
+  orig: 1253, 722
+  offset: 0, 0
+  index: -1
+jackpot/1_star
+  rotate: true
+  xy: 1415, 264
+  size: 460, 174
+  orig: 460, 174
+  offset: 0, 0
+  index: -1
+thanglon/2_thanglon
+  rotate: true
+  xy: 1257, 176
+  size: 548, 156
+  orig: 548, 156
+  offset: 0, 0
+  index: -1

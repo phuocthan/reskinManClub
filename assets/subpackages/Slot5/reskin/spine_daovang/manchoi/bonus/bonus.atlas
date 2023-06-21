@@ -1,0 +1,55 @@
+
+bonus.png
+size: 131,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_bonus
+  rotate: false
+  xy: 2, 153
+  size: 115, 30
+  orig: 115, 30
+  offset: 0, 0
+  index: -1
+2_gem1
+  rotate: false
+  xy: 62, 192
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+2_gem2
+  rotate: false
+  xy: 81, 185
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+2_gem3
+  rotate: false
+  xy: 44, 193
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+2_gem4
+  rotate: true
+  xy: 25, 194
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+2_gem5
+  rotate: false
+  xy: 2, 195
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+2_xe
+  rotate: true
+  xy: 2, 2
+  size: 149, 127
+  orig: 149, 127
+  offset: 0, 0
+  index: -1

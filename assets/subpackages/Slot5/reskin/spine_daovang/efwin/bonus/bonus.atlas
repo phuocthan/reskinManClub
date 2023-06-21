@@ -1,0 +1,69 @@
+
+bonus.png
+size: 1533,726
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_gem1
+  rotate: false
+  xy: 1408, 245
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+2_gem2
+  rotate: false
+  xy: 1433, 371
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+2_gem3
+  rotate: false
+  xy: 1433, 353
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+2_gem4
+  rotate: false
+  xy: 1459, 378
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+2_gem5
+  rotate: false
+  xy: 1257, 119
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+2_xe
+  rotate: false
+  xy: 1257, 135
+  size: 149, 127
+  orig: 149, 127
+  offset: 0, 0
+  index: -1
+bonus/3_bonus
+  rotate: true
+  xy: 1433, 397
+  size: 327, 98
+  orig: 327, 98
+  offset: 0, 0
+  index: -1
+jackpot/1_light
+  rotate: false
+  xy: 2, 2
+  size: 1253, 722
+  orig: 1253, 722
+  offset: 0, 0
+  index: -1
+jackpot/1_star
+  rotate: true
+  xy: 1257, 264
+  size: 460, 174
+  orig: 460, 174
+  offset: 0, 0
+  index: -1

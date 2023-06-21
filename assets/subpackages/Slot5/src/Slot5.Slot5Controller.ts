@@ -52,8 +52,8 @@ export class Slot5Controller extends cc.Component {
     sprFrameTrial2: cc.SpriteFrame = null;
     @property(cc.Button)
     btnSpin: cc.Button = null;
-    @property(sp.Skeleton)
-    spineSpin: sp.Skeleton = null;
+    // @property(sp.Skeleton)
+    // spineSpin: sp.Skeleton = null;
     @property(cc.Button)
     btnBack: cc.Button = null;
     @property(cc.Button)
@@ -107,10 +107,10 @@ export class Slot5Controller extends cc.Component {
     isPlayTrial: cc.Node = null;
     @property(PopupSetting)
     popupSetting: PopupSetting = null;
-    @property(sp.Skeleton)
-    stopSpine: sp.Skeleton = null;
-    @property(sp.Skeleton)
-    holdSpine: sp.Skeleton = null;
+    // @property(sp.Skeleton)
+    // stopSpine: sp.Skeleton = null;
+    // @property(sp.Skeleton)
+    // holdSpine: sp.Skeleton = null;
     // end
 
     private rollStartItemCount = 15;
@@ -192,17 +192,17 @@ export class Slot5Controller extends cc.Component {
         this.spinTimer = setInterval(() => {
             if(_this.spinCounter === 500) {
                 // _this.btnSpin.node.getChildByName("hold").active = true;
-                _this.holdSpine.node.active = true;
-                _this.stopSpine.node.active = false;
-                _this.spineSpin.node.active = false;
+                // _this.holdSpine.node.active = true;
+                // _this.stopSpine.node.active = false;
+                // _this.spineSpin.node.active = false;
                 _this.spinCounter += 100;
             } else if(_this.spinCounter === 2000) {
                 this.toggleAuto.isChecked = true;
                 _this.toggleAutoOnCheck();
                 // _this.btnSpin.node.getChildByName("hold").active = false;
-                _this.holdSpine.node.active = false;
-                _this.stopSpine.node.active = true;
-                _this.spineSpin.node.active = false;
+                // _this.holdSpine.node.active = false;
+                // _this.stopSpine.node.active = true;
+                // _this.spineSpin.node.active = false;
                 clearInterval(_this.spinTimer);
             } else {
                 _this.spinCounter += 100;
@@ -210,6 +210,38 @@ export class Slot5Controller extends cc.Component {
         }, 100);
     }
     // end
+
+    private _isMenuShowing = false;
+    @property(cc.Node)
+    menuList: cc.Node = null;
+
+    actMenuShow() {
+        if (this._isMenuShowing) {
+            this.closeMenu();    
+        } else {
+            this.showMenu();
+        }
+        // this._isMenuShowing != this._isMenuShowing;
+    }
+
+    showMenu() {
+        this.menuList.opacity = 0;
+        this.menuList.active = true;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 255})
+        .start();
+        this._isMenuShowing = true
+    }
+
+    closeMenu() {
+        this.menuList.opacity = 255;
+        cc.tween(this.menuList)
+        .to(0.18, { opacity: 0}).call( () => { this.menuList.active = false })
+        .start();
+        this._isMenuShowing = false
+    }
+
+
 
     start() {
         BroadcastReceiver.register(BroadcastReceiver.ON_X2_SLOT, (data) => {
@@ -548,10 +580,10 @@ export class Slot5Controller extends cc.Component {
 
     private setEnabledAllButtons(enabled: boolean) {
         this.btnSpin.interactable = enabled;
-        this.spineSpin.node.active = enabled;
+        // this.spineSpin.node.active = enabled;
         this.btnBack.interactable = enabled;
-        this.stopSpine.node.active = !enabled; // hna add
-        this.holdSpine.node.active = false; // hna add
+        // this.stopSpine.node.active = !enabled; // hna add
+        // this.holdSpine.node.active = false; // hna add
         this.btnBet.interactable = enabled;
         this.btnLine.interactable = enabled;
         this.btnTrial.interactable = enabled;
