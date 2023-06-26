@@ -56473,13 +56473,13 @@
     "node": {
       "__id__": 1108
     },
-    "_enabled": false,
+    "_enabled": true,
     "_normalMaterial": {
       "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
     },
     "_grayMaterial": null,
     "duration": 0.1,
-    "zoomScale": 1.1,
+    "zoomScale": 1.05,
     "clickEvents": [
       {
         "__id__": 1116
@@ -56544,9 +56544,7 @@
   },
   {
     "__type__": "cc.ClickEvent",
-    "target": {
-      "__id__": 3
-    },
+    "target": null,
     "component": "",
     "_componentId": "3db2agi1bNH1bL6pksn5Oje",
     "handler": "spinClick",
@@ -57134,7 +57132,7 @@
       "__id__": 1125
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 1129

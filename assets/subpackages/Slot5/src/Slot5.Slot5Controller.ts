@@ -52,8 +52,8 @@ export class Slot5Controller extends cc.Component {
     sprFrameTrial2: cc.SpriteFrame = null;
     @property(cc.Button)
     btnSpin: cc.Button = null;
-    // @property(sp.Skeleton)
-    // spineSpin: sp.Skeleton = null;
+    @property(sp.Skeleton)
+    spineSpin: sp.Skeleton = null;
     @property(cc.Button)
     btnBack: cc.Button = null;
     @property(cc.Button)
@@ -107,13 +107,13 @@ export class Slot5Controller extends cc.Component {
     isPlayTrial: cc.Node = null;
     @property(PopupSetting)
     popupSetting: PopupSetting = null;
-    // @property(sp.Skeleton)
-    // stopSpine: sp.Skeleton = null;
+    @property(sp.Skeleton)
+    stopSpine: sp.Skeleton = null;
     // @property(sp.Skeleton)
     // holdSpine: sp.Skeleton = null;
     // end
 
-    private rollStartItemCount = 15;
+    private rollStartItemCount = 9;
     private rollAddItemCount = 10;
     private spinDuration = 1.2;
     private addSpinDuration = 0.3;
@@ -193,16 +193,16 @@ export class Slot5Controller extends cc.Component {
             if(_this.spinCounter === 500) {
                 // _this.btnSpin.node.getChildByName("hold").active = true;
                 // _this.holdSpine.node.active = true;
-                // _this.stopSpine.node.active = false;
-                // _this.spineSpin.node.active = false;
+                _this.stopSpine.node.active = false;
+                _this.spineSpin.node.active = true;
                 _this.spinCounter += 100;
             } else if(_this.spinCounter === 2000) {
                 this.toggleAuto.isChecked = true;
                 _this.toggleAutoOnCheck();
                 // _this.btnSpin.node.getChildByName("hold").active = false;
                 // _this.holdSpine.node.active = false;
-                // _this.stopSpine.node.active = true;
-                // _this.spineSpin.node.active = false;
+                _this.stopSpine.node.active = true;
+                _this.spineSpin.node.active = false;
                 clearInterval(_this.spinTimer);
             } else {
                 _this.spinCounter += 100;
@@ -301,8 +301,7 @@ export class Slot5Controller extends cc.Component {
                     item.children[1].getComponent(sp.Skeleton).skeletonData = skeletonData;
                     let anims = Object.keys(skeletonData.skeletonJson.animations);
                     if(anims.length > 0) {
-                        // item.children[1].getComponent(sp.Skeleton).setAnimation(0, anims[0], true); // hna comment
-                        item.children[1].getComponent(sp.Skeleton).setAnimation(0, anims[1], true); // hna add
+                        item.children[1].getComponent(sp.Skeleton).setAnimation(0, anims[0], true); // hna add
                     }
                     
                 }
@@ -511,6 +510,7 @@ export class Slot5Controller extends cc.Component {
     }
 
     toggleAutoOnCheck() {
+       cc.log("Ton check");
         if (this.soundSlotState == 1) {
             cc.audioEngine.play(this.soundClick, false, 1);
         }
@@ -555,7 +555,8 @@ export class Slot5Controller extends cc.Component {
     }
 
     private spin() {
-        if (!this.isSpined) return;
+        // if (!this.isSpined) return;
+        console.log('@@@ spin')
         this.isSpined = false;
         this.stopAllEffects();
         this.stopShowLinesWin();
@@ -580,9 +581,9 @@ export class Slot5Controller extends cc.Component {
 
     private setEnabledAllButtons(enabled: boolean) {
         this.btnSpin.interactable = enabled;
-        // this.spineSpin.node.active = enabled;
+        this.spineSpin.node.active = enabled;
         this.btnBack.interactable = enabled;
-        // this.stopSpine.node.active = !enabled; // hna add
+        this.stopSpine.node.active = !enabled; // hna add
         // this.holdSpine.node.active = false; // hna add
         this.btnBet.interactable = enabled;
         this.btnLine.interactable = enabled;
@@ -632,6 +633,7 @@ export class Slot5Controller extends cc.Component {
         }
 
         let matrix = res.matrix.split(",");
+        console.log('@@@@ matrix ',matrix)
         let timeScale = this.toggleBoost.isChecked ? 0.5 : 1;
         for (let i = 0; i < this.columns.childrenCount; i++) {
             let roll = this.columns.children[i];
@@ -663,9 +665,9 @@ export class Slot5Controller extends cc.Component {
                     spine1.skeletonData = this.sprFrameItems[parseInt(matrix[5 + i])];
                     spine0.skeletonData = this.sprFrameItems[parseInt(matrix[10 + i])]; 
 
-                    spine0.setAnimation(0, Object.keys(spine0.skeletonData.skeletonJson.animations)[1], true);
-                    spine1.setAnimation(0, Object.keys(spine1.skeletonData.skeletonJson.animations)[1], true);
-                    spine2.setAnimation(0, Object.keys(spine2.skeletonData.skeletonJson.animations)[1], true);
+                    spine0.setAnimation(0, Object.keys(spine0.skeletonData.skeletonJson.animations)[0], true);
+                    spine1.setAnimation(0, Object.keys(spine1.skeletonData.skeletonJson.animations)[0], true);
+                    spine2.setAnimation(0, Object.keys(spine2.skeletonData.skeletonJson.animations)[0], true);
 
                     let spinel1 = children[children.length - 1].children[1].getComponent(sp.Skeleton);
                     let spinel2 = children[children.length - 2].children[1].getComponent(sp.Skeleton);
@@ -675,9 +677,9 @@ export class Slot5Controller extends cc.Component {
                     spinel2.skeletonData = this.sprFrameItems[parseInt(matrix[5 + i])];
                     spinel3.skeletonData = this.sprFrameItems[parseInt(matrix[10 + i])]; 
 
-                    spinel1.setAnimation(0, Object.keys(spinel1.skeletonData.skeletonJson.animations)[1], true);
-                    spinel2.setAnimation(0, Object.keys(spinel2.skeletonData.skeletonJson.animations)[1], true);
-                    spinel3.setAnimation(0, Object.keys(spinel3.skeletonData.skeletonJson.animations)[1], true);
+                    spinel1.setAnimation(0, Object.keys(spinel1.skeletonData.skeletonJson.animations)[0], true);
+                    spinel2.setAnimation(0, Object.keys(spinel2.skeletonData.skeletonJson.animations)[0], true);
+                    spinel3.setAnimation(0, Object.keys(spinel3.skeletonData.skeletonJson.animations)[0], true);
 
                     // children[children.length - 1].children[0].getComponent(cc.Sprite).spriteFrame = this.sprFrameItemsBlur[parseInt(matrix[i])];
                     // children[children.length - 2].children[0].getComponent(cc.Sprite).spriteFrame = this.sprFrameItemsBlur[parseInt(matrix[5 + i])];

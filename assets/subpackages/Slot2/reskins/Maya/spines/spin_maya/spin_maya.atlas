@@ -1,0 +1,27 @@
+
+spin_maya.png
+size: 240,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnquay
+  rotate: false
+  xy: 2, 2
+  size: 154, 145
+  orig: 156, 147
+  offset: 1, 1
+  index: -1
+quay
+  rotate: false
+  xy: 158, 77
+  size: 80, 70
+  orig: 86, 76
+  offset: 4, 3
+  index: -1
+quayblur
+  rotate: false
+  xy: 158, 5
+  size: 79, 70
+  orig: 84, 76
+  offset: 3, 3
+  index: -1

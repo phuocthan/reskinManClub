@@ -387,6 +387,10 @@ export default class Slot4Controller extends cc.Component {
     }
 
     spinClick() {
+        if (this.isSpining) {
+            return;
+        }
+        this.isSpining = true;
         if (!this.isTrial && Configs.Login.Coin < this.listBet[this.betId] * this.arrLineSelected.length) {
             App.instance.alertDialog.showMsg("Số dư không đủ");
             return;
@@ -547,7 +551,7 @@ export default class Slot4Controller extends cc.Component {
             cc.delayTime(this.TIME_COL_FINISH * this.SPEED + this.TIME_DELAY_BETWEEN_COL * this.SPEED * this.listCol.length),
             cc.callFunc(() => {
                 let isHasWinEffect = (result == 2 || result == 3 || result == 5 || result == 6) ? true : false;
-
+                that.isSpining  = false
                 that.setButtonEnable(true);
                 if(result != 5) {
                     that.showWinEffect(res.prize, res.currentMoney, result);

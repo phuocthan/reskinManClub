@@ -1,0 +1,170 @@
+{
+"skeleton": {
+	"hash": "h6m7mDfu+n+4ffbA/JnbIurzCV0",
+	"spine": "3.8.84",
+	"x": -74,
+	"y": -73.5,
+	"width": 148,
+	"height": 147,
+	"images": "./images/",
+	"audio": "D:/My Drive/Outsource/GiangHoang/Fullslot1"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "btnquay", "parent": "root" },
+	{ "name": "quay", "parent": "btnquay", "x": 1, "y": -1.5 }
+],
+"slots": [
+	{ "name": "btnquay", "bone": "btnquay", "attachment": "btnquay" },
+	{ "name": "quay", "bone": "quay", "attachment": "quay" },
+	{ "name": "quay2", "bone": "quay", "color": "ffffff00", "attachment": "quay", "blend": "additive" },
+	{ "name": "khunglight/khunglight_01", "bone": "btnquay", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"btnquay": {
+				"btnquay": { "width": 148, "height": 147 }
+			},
+			"khunglight/khunglight_01": {
+				"khunglight/khunglight_01": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_02": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_03": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_04": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_05": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_06": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_07": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_08": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_09": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_10": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_11": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_12": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_13": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_14": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_15": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_16": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_17": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_18": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_19": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_20": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_21": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_22": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_23": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_24": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_25": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_26": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_27": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_28": { "y": 0.5, "width": 148, "height": 147 },
+				"khunglight/khunglight_29": { "y": 0.5, "width": 148, "height": 147 }
+			},
+			"quay": {
+				"quay": { "x": -1, "y": -2, "width": 102, "height": 106 },
+				"quayblur": { "x": -1, "y": -2, "width": 102, "height": 106 }
+			},
+			"quay2": {
+				"quay": { "x": -1, "y": -2, "width": 102, "height": 106 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"khunglight/khunglight_01": {
+				"attachment": [
+					{ "name": "khunglight/khunglight_01" },
+					{ "time": 0.0333, "name": "khunglight/khunglight_02" },
+					{ "time": 0.0667, "name": "khunglight/khunglight_03" },
+					{ "time": 0.1, "name": "khunglight/khunglight_04" },
+					{ "time": 0.1333, "name": "khunglight/khunglight_05" },
+					{ "time": 0.1667, "name": "khunglight/khunglight_06" },
+					{ "time": 0.2, "name": "khunglight/khunglight_07" },
+					{ "time": 0.2333, "name": "khunglight/khunglight_08" },
+					{ "time": 0.2667, "name": "khunglight/khunglight_09" },
+					{ "time": 0.3, "name": "khunglight/khunglight_10" },
+					{ "time": 0.3333, "name": "khunglight/khunglight_11" },
+					{ "time": 0.3667, "name": "khunglight/khunglight_12" },
+					{ "time": 0.4, "name": "khunglight/khunglight_13" },
+					{ "time": 0.4333, "name": "khunglight/khunglight_14" },
+					{ "time": 0.4667, "name": "khunglight/khunglight_15" },
+					{ "time": 0.5, "name": "khunglight/khunglight_16" },
+					{ "time": 0.5333, "name": "khunglight/khunglight_17" },
+					{ "time": 0.5667, "name": "khunglight/khunglight_18" },
+					{ "time": 0.6, "name": "khunglight/khunglight_19" },
+					{ "time": 0.6333, "name": "khunglight/khunglight_20" },
+					{ "time": 0.6667, "name": "khunglight/khunglight_21" },
+					{ "time": 0.7, "name": "khunglight/khunglight_22" },
+					{ "time": 0.7333, "name": "khunglight/khunglight_23" },
+					{ "time": 0.7667, "name": "khunglight/khunglight_24" },
+					{ "time": 0.8, "name": "khunglight/khunglight_25" },
+					{ "time": 0.8333, "name": "khunglight/khunglight_26" },
+					{ "time": 0.8667, "name": "khunglight/khunglight_27" },
+					{ "time": 0.9, "name": "khunglight/khunglight_28" },
+					{ "time": 0.9333, "name": "khunglight/khunglight_29" },
+					{ "time": 0.9667, "name": null }
+				]
+			},
+			"quay2": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "color": "ffffff9c", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"quay": {
+				"rotate": [
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "angle": -3.44, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": 8.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -3.44, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8667, "angle": 8.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"spin": {
+		"slots": {
+			"quay": {
+				"attachment": [
+					{ "name": "quayblur" }
+				]
+			}
+		},
+		"bones": {
+			"quay": {
+				"rotate": [
+					{},
+					{ "time": 0.1333, "angle": 180 },
+					{ "time": 0.2667 }
+				]
+			}
+		}
+	},
+	"stop": {
+		"slots": {
+			"quay": {
+				"attachment": [
+					{ "name": "quayblur" },
+					{ "time": 0.2667, "name": "quay" }
+				]
+			}
+		},
+		"bones": {
+			"quay": {
+				"rotate": [
+					{},
+					{ "time": 0.2667, "angle": 180 },
+					{ "time": 0.5333, "curve": 0.185, "c2": 0.28, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -16.05, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9, "angle": 5.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1 }
+				]
+			}
+		}
+	}
+}
+}

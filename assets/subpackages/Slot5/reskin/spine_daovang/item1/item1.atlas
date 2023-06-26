@@ -1,0 +1,13 @@
+
+item1.png
+size: 130,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item1
+  rotate: false
+  xy: 2, 2
+  size: 126, 125
+  orig: 128, 128
+  offset: 1, 2
+  index: -1

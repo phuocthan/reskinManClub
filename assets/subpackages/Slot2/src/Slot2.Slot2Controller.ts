@@ -96,12 +96,12 @@ export class Slot2Controller extends cc.Component {
     popupSetting: PopupSetting = null;
     @property(sp.Skeleton)
     thongTinSpine: sp.Skeleton = null;
-    // @property(sp.Skeleton)
-    // stopSpine: sp.Skeleton = null;
+    @property(sp.Skeleton)
+    stopSpine: sp.Skeleton = null;
     // @property(sp.Skeleton)
     // holdSpine: sp.Skeleton = null;
-    // @property(sp.Skeleton)
-    // spineSpin: sp.Skeleton = null;
+    @property(sp.Skeleton)
+    spineSpin: sp.Skeleton = null;
     // end
 
     private rollStartItemCount = 15;
@@ -188,15 +188,15 @@ export class Slot2Controller extends cc.Component {
         this.spinTimer = setInterval(() => {
             if(_this.spinCounter === 500) {
                 // _this.holdSpine.node.active = true;
-                // _this.stopSpine.node.active = false;
-                // _this.spineSpin.node.active = false;
+                _this.stopSpine.node.active = false;
+                _this.spineSpin.node.active = true;
                 _this.spinCounter += 100;
             } else if(_this.spinCounter === 2000) {
                 this.toggleAuto.isChecked = true;
                 _this.toggleAutoOnCheck();
                 // _this.holdSpine.node.active = false;
-                // _this.stopSpine.node.active = true;
-                // _this.spineSpin.node.active = false;
+                _this.stopSpine.node.active = true;
+                _this.spineSpin.node.active = false;
                 clearInterval(_this.spinTimer);
             } else {
                 _this.spinCounter += 100;
@@ -237,7 +237,8 @@ export class Slot2Controller extends cc.Component {
         this.itemHeight = this.itemTemplate.height;
         for (let i = 0; i < this.columns.childrenCount; i++) {
             let column = this.columns.children[i];
-            let count = this.rollStartItemCount + i * this.rollAddItemCount;
+            let count = this.rollStartItemCount ;
+            // let count = this.rollStartItemCount + this.rollAddItemCount;
             for (let j = 0; j < count; j++) {
                 let item = cc.instantiate(this.itemTemplate);
                 item.parent = column;
@@ -273,8 +274,8 @@ export class Slot2Controller extends cc.Component {
                     this.toggleAuto.isChecked = false;
                     this.toggleAutoOnCheck();
                     // this.holdSpine.node.active = false;
-                    // this.stopSpine.node.active = false;
-                    // this.spineSpin.node.active = true;
+                    this.stopSpine.node.active = false;
+                    this.spineSpin.node.active = true;
                 } else {
                     this.actSpin();
                 }
@@ -449,6 +450,7 @@ export class Slot2Controller extends cc.Component {
     // end
 
     toggleAutoOnCheck() {
+        console.log('@@ auto')
         if (this.toggleAuto.isChecked && this.isTrial) {
             this.toggleAuto.isChecked = false;
             this.showToast("Tính năng này không hoạt động ở chế độ chơi thử.");
@@ -468,11 +470,12 @@ export class Slot2Controller extends cc.Component {
     }
 
     toggleBoostOnCheck() {
-        // if (this.toggleBoost.isChecked && this.isTrial) {
-        //     this.toggleBoost.isChecked = false;
-        //     this.showToast("Tính năng này không hoạt động ở chế độ chơi thử.");
-        //     return;
-        // }
+        console.log('@@ booost')
+        if (this.toggleBoost.isChecked && this.isTrial) {
+            this.toggleBoost.isChecked = false;
+            this.showToast("Tính năng này không hoạt động ở chế độ chơi thử.");
+            return;
+        }
         if (this.toggleBoost.isChecked) {
             this.spin();
             this.toggleAuto.interactable = false;
@@ -540,8 +543,8 @@ export class Slot2Controller extends cc.Component {
         this.btnSpin.interactable = enabled;
         this.btnBack.interactable = enabled;
         this.btnBet.interactable = enabled;
-        // this.spineSpin.node.active = enabled; // hna add
-        // this.stopSpine.node.active = !enabled; // hna add
+        this.spineSpin.node.active = enabled; // hna add
+        this.stopSpine.node.active = !enabled; // hna add
         // this.holdSpine.node.active = false; // hna add
         this.btnLine.interactable = enabled;
         this.btnTrial.interactable = enabled;
@@ -596,6 +599,11 @@ export class Slot2Controller extends cc.Component {
             let step1Pos = this.itemHeight * 0.3;
             let step2Pos = -this.itemHeight * roll.childrenCount + this.itemHeight * 3 - this.itemHeight * 0.3;
             let step3Pos = -this.itemHeight * roll.childrenCount + this.itemHeight * 3;
+
+            console.log('@@@ i ',i, ' ',roll.childrenCount);
+            console.log('@@@ step1Pos ',step1Pos);
+            console.log('@@@ step2Pos ',step2Pos);
+            console.log('@@@ step3Pos ',step3Pos);
             roll.runAction(cc.sequence(
                 cc.delayTime(0.2 * i * timeScale),
                 cc.moveTo(0.2 * timeScale, cc.v2(roll.position.x, step1Pos)).easing(cc.easeQuadraticActionOut()),

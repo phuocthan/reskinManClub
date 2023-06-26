@@ -1,0 +1,114 @@
+{
+"skeleton": {
+	"hash": "KiubtJu6Y6d6v3078C4LEQbIPNE",
+	"spine": "3.8.84",
+	"x": -78,
+	"y": -73.5,
+	"width": 156,
+	"height": 147,
+	"images": "./images/",
+	"audio": "D:/My Drive/Outsource/GiangHoang/Fullslot1/slot/maya/btn_spin"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "quay", "parent": "root", "y": 6.5 },
+	{ "name": "btnquay", "parent": "root" },
+	{ "name": "btnquay2", "parent": "root" }
+],
+"slots": [
+	{ "name": "btnquay", "bone": "btnquay", "attachment": "btnquay" },
+	{ "name": "btnquay2", "bone": "btnquay2", "color": "ffffff00", "attachment": "btnquay", "blend": "additive" },
+	{ "name": "quay", "bone": "quay", "attachment": "quay" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"btnquay": {
+				"btnquay": { "width": 156, "height": 147 }
+			},
+			"btnquay2": {
+				"btnquay": { "width": 156, "height": 147 }
+			},
+			"quay": {
+				"quay": { "x": -1, "width": 86, "height": 76 },
+				"quayblur": { "x": -1, "width": 84, "height": 76 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"btnquay2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 1.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"btnquay2": {
+				"scale": [
+					{},
+					{ "time": 1.3333, "x": 1.4, "y": 1.4 }
+				]
+			},
+			"quay": {
+				"rotate": [
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.4667, "angle": -3.44, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6, "angle": 8.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7333, "angle": -3.44, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8667, "angle": 8.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"spin": {
+		"slots": {
+			"quay": {
+				"attachment": [
+					{ "name": "quayblur" }
+				]
+			}
+		},
+		"bones": {
+			"quay": {
+				"rotate": [
+					{},
+					{ "time": 0.1, "angle": 120 },
+					{ "time": 0.2, "angle": -120 },
+					{ "time": 0.3 }
+				]
+			}
+		}
+	},
+	"stop": {
+		"slots": {
+			"quay": {
+				"attachment": [
+					{ "name": "quayblur" },
+					{ "time": 0.2667, "name": "quay" }
+				]
+			}
+		},
+		"bones": {
+			"quay": {
+				"rotate": [
+					{},
+					{ "time": 0.1667, "angle": 120 },
+					{ "time": 0.3333, "angle": -120 },
+					{ "time": 0.5333, "curve": 0.164, "c2": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 18.95, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9, "angle": -14.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1 }
+				]
+			}
+		}
+	}
+}
+}

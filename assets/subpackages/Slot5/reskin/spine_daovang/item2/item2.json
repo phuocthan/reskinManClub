@@ -1,0 +1,54 @@
+{
+"skeleton": {
+	"hash": "MsiESEW2UupwLSl22lTnHHoJwRg",
+	"spine": "3.8.84",
+	"x": -71,
+	"y": -70,
+	"width": 142,
+	"height": 140,
+	"images": "./images/",
+	"audio": "D:/My Drive/Outsource/GiangHoang/Fullslot1"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "item2", "parent": "root" }
+],
+"slots": [
+	{ "name": "item2", "bone": "item2", "attachment": "item2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"item2": {
+				"item2": { "width": 142, "height": 140 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"item2": {
+				"rotate": [
+					{ "angle": 1.08, "curve": 0.379, "c2": 0.6, "c3": 0.724 },
+					{ "time": 0.1667, "angle": 2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": -3, "curve": 0.242, "c3": 0.667, "c4": 0.67 },
+					{ "time": 1.3333, "angle": 1.08 }
+				],
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "y": 1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				],
+				"scale": [
+					{ "x": 1.004, "y": 1.004, "curve": 0.369, "c2": 0.63, "c3": 0.706 },
+					{ "time": 0.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.7667, "x": 1.05, "y": 1.05, "curve": 0.244, "c3": 0.694, "c4": 0.77 },
+					{ "time": 1.3333, "x": 1.004, "y": 1.004 }
+				]
+			}
+		}
+	}
+}
+}

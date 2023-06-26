@@ -1,0 +1,230 @@
+
+spin.png
+size: 706,607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnquay
+  rotate: true
+  xy: 2, 459
+  size: 146, 145
+  orig: 148, 147
+  offset: 1, 1
+  index: -1
+khunglight/khunglight_01
+  rotate: true
+  xy: 292, 2
+  size: 24, 66
+  orig: 148, 147
+  offset: 2, 22
+  index: -1
+khunglight/khunglight_02
+  rotate: false
+  xy: 668, 517
+  size: 36, 88
+  orig: 148, 147
+  offset: 1, 14
+  index: -1
+khunglight/khunglight_03
+  rotate: true
+  xy: 454, 15
+  size: 47, 103
+  orig: 148, 147
+  offset: 1, 8
+  index: -1
+khunglight/khunglight_04
+  rotate: true
+  xy: 449, 268
+  size: 55, 113
+  orig: 148, 147
+  offset: 2, 5
+  index: -1
+khunglight/khunglight_05
+  rotate: false
+  xy: 630, 14
+  size: 63, 123
+  orig: 148, 147
+  offset: 3, 2
+  index: -1
+khunglight/khunglight_06
+  rotate: false
+  xy: 559, 8
+  size: 69, 129
+  orig: 148, 147
+  offset: 5, 1
+  index: -1
+khunglight/khunglight_07
+  rotate: true
+  xy: 560, 139
+  size: 74, 134
+  orig: 148, 147
+  offset: 9, 1
+  index: -1
+khunglight/khunglight_08
+  rotate: false
+  xy: 589, 468
+  size: 77, 137
+  orig: 148, 147
+  offset: 14, 1
+  index: -1
+khunglight/khunglight_09
+  rotate: false
+  xy: 374, 30
+  size: 78, 140
+  orig: 148, 147
+  offset: 20, 1
+  index: -1
+khunglight/khunglight_10
+  rotate: false
+  xy: 292, 28
+  size: 80, 142
+  orig: 148, 147
+  offset: 26, 1
+  index: -1
+khunglight/khunglight_11
+  rotate: false
+  xy: 88, 19
+  size: 108, 144
+  orig: 148, 147
+  offset: 33, 1
+  index: -1
+khunglight/khunglight_12
+  rotate: false
+  xy: 104, 166
+  size: 101, 144
+  orig: 148, 147
+  offset: 40, 1
+  index: -1
+khunglight/khunglight_13
+  rotate: false
+  xy: 232, 462
+  size: 99, 143
+  orig: 148, 147
+  offset: 47, 3
+  index: -1
+khunglight/khunglight_14
+  rotate: false
+  xy: 207, 172
+  size: 92, 142
+  orig: 148, 147
+  offset: 55, 4
+  index: -1
+khunglight/khunglight_15
+  rotate: false
+  xy: 2, 18
+  size: 84, 145
+  orig: 148, 147
+  offset: 63, 1
+  index: -1
+khunglight/khunglight_16
+  rotate: false
+  xy: 149, 461
+  size: 81, 144
+  orig: 148, 147
+  offset: 65, 1
+  index: -1
+khunglight/khunglight_17
+  rotate: false
+  xy: 198, 21
+  size: 92, 143
+  orig: 148, 147
+  offset: 53, 1
+  index: -1
+khunglight/khunglight_18
+  rotate: false
+  xy: 327, 319
+  size: 103, 141
+  orig: 148, 147
+  offset: 43, 1
+  index: -1
+khunglight/khunglight_19
+  rotate: true
+  xy: 564, 352
+  size: 113, 138
+  orig: 148, 147
+  offset: 34, 1
+  index: -1
+khunglight/khunglight_20
+  rotate: false
+  xy: 465, 467
+  size: 122, 138
+  orig: 148, 147
+  offset: 25, 3
+  index: -1
+khunglight/khunglight_21
+  rotate: false
+  xy: 432, 325
+  size: 130, 138
+  orig: 148, 147
+  offset: 17, 6
+  index: -1
+khunglight/khunglight_22
+  rotate: false
+  xy: 564, 215
+  size: 135, 135
+  orig: 148, 147
+  offset: 11, 10
+  index: -1
+khunglight/khunglight_23
+  rotate: true
+  xy: 333, 465
+  size: 140, 130
+  orig: 148, 147
+  offset: 6, 16
+  index: -1
+khunglight/khunglight_24
+  rotate: true
+  xy: 202, 316
+  size: 143, 123
+  orig: 148, 147
+  offset: 3, 23
+  index: -1
+khunglight/khunglight_25
+  rotate: true
+  xy: 2, 312
+  size: 145, 113
+  orig: 148, 147
+  offset: 1, 32
+  index: -1
+khunglight/khunglight_26
+  rotate: true
+  xy: 2, 165
+  size: 145, 100
+  orig: 148, 147
+  offset: 1, 43
+  index: -1
+khunglight/khunglight_27
+  rotate: true
+  xy: 117, 313
+  size: 144, 83
+  orig: 148, 147
+  offset: 2, 57
+  index: -1
+khunglight/khunglight_28
+  rotate: true
+  xy: 301, 172
+  size: 142, 72
+  orig: 148, 147
+  offset: 4, 68
+  index: -1
+khunglight/khunglight_29
+  rotate: true
+  xy: 375, 178
+  size: 139, 72
+  orig: 148, 147
+  offset: 7, 68
+  index: -1
+quay
+  rotate: true
+  xy: 454, 64
+  size: 99, 103
+  orig: 102, 106
+  offset: 1, 2
+  index: -1
+quayblur
+  rotate: true
+  xy: 454, 165
+  size: 101, 104
+  orig: 102, 106
+  offset: 1, 2
+  index: -1
